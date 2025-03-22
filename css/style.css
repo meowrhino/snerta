@@ -42,7 +42,7 @@ h5 {
 }
 
 p {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 
@@ -67,7 +67,7 @@ ul {
 
 li {
     margin-bottom: 10px; /* Espacio entre elementos */
-    font-size: 20px; /* Tamaño de fuente */
+    font-size: 16px; /* Tamaño de fuente */
     line-height: 1.2; /* Interlineado */
 }
 
@@ -88,7 +88,7 @@ li::marker {
 /* Aplicar la animación a cada bullet point con retrasos diferentes */
 ul li::marker {
     animation: blink 1.5s ease-in-out infinite; /* Animación de parpadeo */
-    font-size: 20px; /* Tamaño del bullet point */
+    font-size: 16px; /* Tamaño del bullet point */
     animation-delay: var(--delay, 0s); /* Usa la variable JS */
 }
 
