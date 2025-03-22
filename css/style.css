@@ -164,7 +164,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 100dvh;
     text-align: center;
 }
 
@@ -174,7 +174,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 100dvh;
 }
     */
 
@@ -183,7 +183,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 100dvh;
 }
 
 #acompanyaments {
@@ -191,7 +191,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 100dvh;
 }
 
 #acompanyaments .image-gallery {
@@ -202,7 +202,7 @@ body {
 #contacte {
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 100dvh;
     padding: 20px 0;
 }
 
