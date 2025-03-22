@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NL:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+html {
+    scroll-behavior: smooth;
+    background-color: #3F3D3A;
+    color :cornsilk;
+  }
+  
+/*TEXTOS BÁSICOS*/
+
+h1, h2, h3, h4, h5 {
+    font-family: "Playwrite NL", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+font-size: 200px;
+line-height: 50%;
+color: MistyRose;
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+font-size: 40px;
+}
+
+h5 {
+font-size: 26px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a.link-con-href {
+    font-weight: 700;
+    color: white;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+a.link-con-href:hover {
+    color: #0000EE;
+    text-shadow: white 1px 1px 1px, white -1px -1px 1px;
+}
+
+/*MENÚS FLOTANTES*/
+
+.language-links {
+    position: fixed;
+    display: flex;
+    gap: 10px;
+    top: 10px;
+    right: 20px;
+}
+
+.menu-links {
+    position: fixed;
+    display: flex;
+    gap: 10px;
+    bottom: 10px;
+    right: 20px;
+    flex-direction: column;
+    text-align: right;
+    transition: max-height 0.5s ease;
+    /* Animación para abrir y cerrar */
+}
+
+.menu-links a:hover {
+    color: DarkOliveGreen;
+    background-color: none;
+}
+
+@media (max-width: 767px) {
+    .menu-links {
+        line-height: 1;
+        /* Ajusta el valor según el espacio que necesites */
+    }
+}
+
+.menu-links a.active {
+    color: LightGray;
+}
+
+/*
+
+@media (hover: none) {
+    .menu-links a:hover {
+        background-color: none;
+    }
+}
+
+*/
+
+
+@media (min-width: 768px) {
+    .container {
+        margin: 30px 200px;
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        margin: 30px 20px;
+    }
+}
+
+body {
+    font-family: "Winky Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#berta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+/*
+#logo-container--404 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+    */
+
+#descripcio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#contacte {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.contacte-llinks {
+    display: flex;
+    gap: 30px;
+}
+
+
+
+
+
+/*https://es.wikipedia.org/wiki/Colores_web*/
+
