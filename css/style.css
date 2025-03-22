@@ -4,12 +4,16 @@
 html {
     scroll-behavior: smooth;
     background-color: #3F3D3A;
-    color :cornsilk;
-  }
-  
+    color: cornsilk;
+}
+
 /*TEXTOS BÁSICOS*/
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
     font-family: "Playwrite NL", cursive;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -17,25 +21,24 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-font-size: 200px;
-line-height: 50%;
-color: MistyRose;
+    font-size: 200px;
+    line-height: 50%;
+    color: MistyRose;
 }
 
 h2 {
+    font-size: 80px;
 
 }
 
-h3 {
-
-}
+h3 {}
 
 h4 {
-font-size: 40px;
+    font-size: 40px;
 }
 
 h5 {
-font-size: 26px;
+    font-size: 26px;
 }
 
 p {
@@ -56,6 +59,37 @@ a.link-con-href {
 a.link-con-href:hover {
     color: #0000EE;
     text-shadow: white 1px 1px 1px, white -1px -1px 1px;
+}
+
+ul {
+    list-style-type: "✦ ";
+}
+
+li {
+    margin-bottom: 10px; /* Espacio entre elementos */
+    font-size: 20px; /* Tamaño de fuente */
+    line-height: 1.2; /* Interlineado */
+}
+
+li::marker {
+    color: white;
+}
+
+/* Animación de parpadeo */
+@keyframes blink {
+    0%, 100% {
+        opacity: 1; /* Visible */
+    }
+    50% {
+        opacity: 0; /* Invisible */
+    }
+}
+
+/* Aplicar la animación a cada bullet point con retrasos diferentes */
+ul li::marker {
+    animation: blink 1.5s ease-in-out infinite; /* Animación de parpadeo */
+    font-size: 20px; /* Tamaño del bullet point */
+    animation-delay: var(--delay, 0s); /* Usa la variable JS */
 }
 
 /*MENÚS FLOTANTES*/
@@ -133,6 +167,7 @@ body {
     min-height: 100vh;
     text-align: center;
 }
+
 /*
 #logo-container--404 {
     display: flex;
@@ -151,7 +186,7 @@ body {
     min-height: 100vh;
 }
 
-#contacte {
+#acompanyaments {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -159,14 +194,43 @@ body {
     min-height: 100vh;
 }
 
+#acompanyaments .image-gallery {
+    display: flex;
+    gap: 20px; /* Espacio entre las imágenes */
+}
+
+#contacte {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 20px 0;
+}
+
+#contacte h4 {
+    flex-grow: 1;
+    /* Ocupa todo el espacio disponible */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    /* Elimina márgenes por defecto del h4 */
+    padding-top: 10%;
+}
+
 .contacte-llinks {
     display: flex;
     gap: 30px;
+    justify-content: center;
+    padding: 20px 0;
+    /* Espaciado vertical opcional */
 }
-
 
 
 
 
 /*https://es.wikipedia.org/wiki/Colores_web*/
 
+
+span.notas {
+    color: #FF0000;
+}
