@@ -22,12 +22,12 @@ h5 {
 
 h1 {
     color: MistyRose;
+    line-height: 100%;
 }
 
 @media (min-width: 768px) {
     h1 {
         font-size: 200px;
-        line-height: 50%;
     }
 }
 
@@ -39,8 +39,7 @@ h1 {
 
 h2 {
     font-size: 80px;
-    line-height: 50%;
-
+    line-height: 100%
 }
 
 h3 {}
