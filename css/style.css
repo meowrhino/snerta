@@ -274,6 +274,12 @@ body {
     /* Espaciado vertical opcional */
 }
 
+@media (max-width: 767px) {
+    .contacte-llinks{
+        flex-direction: column;
+    }
+}
+
 
 
 
