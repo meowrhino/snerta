@@ -254,6 +254,10 @@ body {
     min-height: 100dvh;
 }
 
+#acompanyaments h4 {
+    margin-bottom: 10dvh;
+}
+
 
 @media (max-width: 767px) {
     #acompanyaments {
@@ -280,14 +284,8 @@ body {
     padding: 20px 0;
 }
 
-@media (max-width: 767px) {
-    #descripcio {
-        padding-bottom: 5vh;
-    }
-}
-
 #contacte h4 {
-    flex-grow: 1;
+    flex-grow: 0.9;
     /* Ocupa todo el espacio disponible */
     display: flex;
     justify-content: center;
