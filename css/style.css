@@ -21,13 +21,26 @@ h5 {
 }
 
 h1 {
-    font-size: 200px;
-    line-height: 50%;
     color: MistyRose;
+}
+
+@media (min-width: 768px) {
+    h1 {
+        font-size: 200px;
+        line-height: 50%;
+    }
+}
+
+@media (max-width: 767px) {
+    h1 {
+        font-size: 100px;
+        line-height: 30%;
+    }
 }
 
 h2 {
     font-size: 80px;
+    line-height: 50%;
 
 }
 
@@ -93,7 +106,7 @@ ul li::marker {
 }
 
 /*MENÚS FLOTANTES*/
-
+/*
 .language-links {
     position: fixed;
     display: flex;
@@ -101,17 +114,16 @@ ul li::marker {
     top: 10px;
     right: 20px;
 }
-
+*/
 .menu-links {
     position: fixed;
     display: flex;
     gap: 10px;
     bottom: 10px;
-    right: 20px;
+    right: 10px;
     flex-direction: column;
     text-align: right;
     transition: max-height 0.5s ease;
-    /* Animación para abrir y cerrar */
 }
 
 .menu-links a:hover {
