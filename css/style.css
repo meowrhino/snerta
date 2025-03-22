@@ -18,11 +18,14 @@ h5 {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    margin: 0px;
+    padding: 0px;
+    line-height: 100%
+
 }
 
 h1 {
     color: MistyRose;
-    line-height: 100%;
 }
 
 @media (min-width: 768px) {
@@ -38,9 +41,21 @@ h1 {
 }
 
 h2 {
-    font-size: 80px;
-    line-height: 100%
 }
+
+@media (min-width: 768px) {
+    h2 {
+        font-size: 80px;
+    }
+}
+
+@media (max-width: 767px) {
+    h2 {
+        font-size: 40px;
+    }
+}
+
+
 
 h3 {}
 
@@ -48,8 +63,16 @@ h4 {
     font-size: 40px;
 }
 
-h5 {
-    font-size: 26px;
+@media (min-width: 768px) {
+    h5 {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 767px) {
+    h5 {
+        font-size: 16px;
+    }
 }
 
 p {
@@ -189,6 +212,8 @@ body {
     */
 
 #descripcio {
+    padding-top: 35vh;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -197,6 +222,8 @@ body {
 }
 
 #acompanyaments {
+    padding-top: 35vh;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -231,6 +258,12 @@ body {
     margin: 0;
     /* Elimina márgenes por defecto del h4 */
     padding-top: 10%;
+}
+
+@media (max-width: 767px) {
+    #contacte h4 {
+       font-size: 26px;
+    }
 }
 
 .contacte-llinks {
