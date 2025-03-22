@@ -7,6 +7,12 @@ html {
     color: cornsilk;
 }
 
+@media (max-width: 767px) {
+    html, body {
+        overflow-x: hidden;
+    }
+}
+
 /*TEXTOS BÁSICOS*/
 
 h1,
@@ -55,9 +61,13 @@ h2 {}
 
 
 
-h3 {}
+h3 {
+    text-align: center;
+    font-size: 60px;
+}
 
 h4 {
+    text-align: center;
     font-size: 40px;
 }
 
@@ -246,6 +256,26 @@ body {
     }
 }
 
+#projectes {
+    min-height: 100dvh;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas en desktop */
+    align-items: center; /* Centrado vertical */
+    justify-items: center; /* Centrado horizontal */
+}
+@media (max-width: 1500px) {
+    #projectes {
+        grid-template-columns: repeat(2, 1fr); /* 3 columnas en desktop */
+    }
+}
+
+@media (max-width: 767px) {
+    #projectes {
+        grid-template-columns: 1fr; /* 1 columna en móvil */
+    }
+}
+
+
 #acompanyaments {
     display: flex;
     flex-direction: column;
@@ -254,7 +284,7 @@ body {
     min-height: 100dvh;
 }
 
-#acompanyaments h4 {
+#acompanyaments h3 {
     margin-bottom: 10dvh;
 }
 
@@ -282,6 +312,7 @@ body {
     flex-direction: column;
     min-height: 100dvh;
     padding: 20px 0;
+    position: relative;
 }
 
 #contacte h4 {
