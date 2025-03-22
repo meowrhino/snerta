@@ -21,7 +21,6 @@ h5 {
     margin: 0px;
     padding: 0px;
     line-height: 100%
-
 }
 
 h1 {
@@ -40,8 +39,7 @@ h1 {
     }
 }
 
-h2 {
-}
+h2 {}
 
 @media (min-width: 768px) {
     h2 {
@@ -95,35 +93,58 @@ a.link-con-href:hover {
     text-shadow: white 1px 1px 1px, white -1px -1px 1px;
 }
 
+/*LA LISTA*/
+
+/* Elimina los bullets nativos y prepara para custom */
 ul {
-    list-style-type: "✦ ";
+    list-style-type: none;
+    padding-left: 0;
 }
 
+/* Configura posición para los bullets personalizados */
 li {
-    margin-bottom: 10px; /* Espacio entre elementos */
-    font-size: 16px; /* Tamaño de fuente */
-    line-height: 1.2; /* Interlineado */
+    position: relative;
+    /* Necesario para posicionar el pseudo-elemento */
+    padding-left: 1.5em;
+    /* Espacio para el bullet */
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.2;
 }
 
-li::marker {
+/* Crea el bullet personalizado con animación */
+li::before {
+    content: "✦";
+    position: absolute;
+    left: 0;
     color: white;
+    animation: blink 1.5s ease-in-out infinite;
+    animation-delay: var(--delay, 0s);
 }
 
-/* Animación de parpadeo */
-@keyframes blink {
-    0%, 100% {
-        opacity: 1; /* Visible */
+/* Animación con prefijos para mejor compatibilidad */
+@-webkit-keyframes blink {
+
+    0%,
+    100% {
+        opacity: 1;
     }
+
     50% {
-        opacity: 0; /* Invisible */
+        opacity: 0;
     }
 }
 
-/* Aplicar la animación a cada bullet point con retrasos diferentes */
-ul li::marker {
-    animation: blink 1.5s ease-in-out infinite; /* Animación de parpadeo */
-    font-size: 16px; /* Tamaño del bullet point */
-    animation-delay: var(--delay, 0s); /* Usa la variable JS */
+@keyframes blink {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
 }
 
 /*MENÚS FLOTANTES*/
@@ -212,8 +233,6 @@ body {
     */
 
 #descripcio {
-    padding-top: 35vh;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -221,19 +240,31 @@ body {
     min-height: 100dvh;
 }
 
-#acompanyaments {
-    padding-top: 35vh;
+@media (max-width: 767px) {
+    #descripcio {
+        padding-top: 35vh;
+    }
+}
 
+#acompanyaments {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100dvh;
+}
+
+
+@media (max-width: 767px) {
+    #acompanyaments {
+        padding-top: 35vh;
+    }
 }
 
 #acompanyaments .image-gallery {
     display: flex;
-    gap: 20px; /* Espacio entre las imágenes */
+    gap: 20px;
+    /* Espacio entre las imágenes */
 }
 
 @media (max-width: 767px) {
@@ -249,6 +280,12 @@ body {
     padding: 20px 0;
 }
 
+@media (max-width: 767px) {
+    #descripcio {
+        padding-bottom: 5vh;
+    }
+}
+
 #contacte h4 {
     flex-grow: 1;
     /* Ocupa todo el espacio disponible */
@@ -262,7 +299,7 @@ body {
 
 @media (max-width: 767px) {
     #contacte h4 {
-       font-size: 26px;
+        font-size: 26px;
     }
 }
 
@@ -275,7 +312,7 @@ body {
 }
 
 @media (max-width: 767px) {
-    .contacte-llinks{
+    .contacte-llinks {
         flex-direction: column;
     }
 }
