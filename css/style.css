@@ -34,7 +34,6 @@ h1 {
 @media (max-width: 767px) {
     h1 {
         font-size: 100px;
-        line-height: 30%;
     }
 }
 
@@ -209,6 +208,12 @@ body {
 #acompanyaments .image-gallery {
     display: flex;
     gap: 20px; /* Espacio entre las imágenes */
+}
+
+@media (max-width: 767px) {
+    #acompanyaments .image-gallery {
+        flex-direction: column;
+    }
 }
 
 #contacte {
