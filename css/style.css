@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+NL:wght@100..400&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
 
 html {
     scroll-behavior: smooth;
@@ -171,12 +170,15 @@ li::before {
     position: fixed;
     display: flex;
     gap: 10px;
-    bottom: 10px;
-    right: 10px;
+    bottom: 20px;
+    right: 15px;
     flex-direction: column;
     text-align: right;
     transition: max-height 0.5s ease;
+    font-weight: 300 !important;
+
 }
+
 
 .menu-links a:hover {
     color: DarkOliveGreen;
@@ -218,10 +220,11 @@ li::before {
 }
 
 body {
-    font-family: "Winky Sans", sans-serif;
+    font-family: Helvetica, sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    margin: 0px;
 }
 
 #berta {
@@ -252,7 +255,7 @@ body {
 
 @media (max-width: 767px) {
     #descripcio {
-        padding-top: 35vh;
+        padding-top: 20vh;
     }
 }
 
@@ -291,7 +294,7 @@ body {
 
 @media (max-width: 767px) {
     #acompanyaments {
-        padding-top: 35vh;
+        padding-top: 20vh;
     }
 }
 
@@ -328,7 +331,7 @@ body {
 
 @media (max-width: 767px) {
     #contacte h4 {
-        font-size: 26px;
+        font-size: 20px;
     }
 }
 
