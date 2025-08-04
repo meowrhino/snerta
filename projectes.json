@@ -1,0 +1,15 @@
+[
+    {
+        "id": "curadoria",
+        "titulo": "Curadoria i Acompanyaments",
+        "ficha_tecnica": "Detalles técnicos...",
+        "imagen_principal": "img/curadoria.jpg",
+        "sinopsis": "Descripción breve...",
+        "proyectos_relacionados": [
+            {"titulo": "Proyecto relacionado 1", "link": "#proyecto1"}
+        ],
+        "texto1": "Texto opcional inicial...",
+        "galeria": ["img/curadoria.jpg", "img/galeria2.jpg"],
+        "texto2": "Texto opcional final..."
+    }
+]
