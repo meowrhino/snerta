@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "la-llum-invisible",
+    "titol": "La llum invisible",
+    "categoria": "curadoria",
+    "any": 2024,
+    "imatge": "assets/la-llum-invisible.jpg",
+    "sinopsi": "Una peça sobre la percepció de la llum i l'espai en l'àmbit urbà."
+  },
+  {
+    "slug": "cartografies-del-silenci",
+    "titol": "Cartografies del silenci",
+    "categoria": "exposicio",
+    "any": 2023,
+    "imatge": "assets/cartografies-silenci.jpg",
+    "sinopsi": "Un recorregut visual per espais de silenci en entorns urbans."
+  },
+  {
+    "slug": "cos-i-memoria",
+    "titol": "Cos i memòria",
+    "categoria": "performance",
+    "any": 2022,
+    "imatge": "assets/cos-memoria.jpg",
+    "sinopsi": "Performance sobre la relació entre cos, territori i record."
+  }
+]

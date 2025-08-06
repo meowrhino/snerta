@@ -1,0 +1,56 @@
+[
+  {
+    "type": "title",
+    "content": "berta esteve"
+  },
+  {
+    "type": "text",
+    "content": [
+      "Berta Esteve i Marcó (Barcelona, 1995) és curadora, artista i investigadora que experimenta amb les formes, narratives i estructures de l’audiovisual contemporani, l’imaginari pop i la cultura postinternet. Es dedica a tensar i explorar els límits de les estructures institucionals i acadèmiques mitjançant l’humor i emfatitzant en la desjerarquització de sabers, assenyalant que es produeix coneixement expert en espais no acadèmics; com per exemple, en l’autogestió i generació de narratives transformadores de les comunitats de fanfiction o en la producció de cinema experimental i creació d’arxius col·lectius de les comunitats dels Backrooms.",
+      "Berta Esteve i Marcó és graduada en Arts i Disseny a l’Escola Massana (2018) i postgraduada en Exposicions: Curadoria, disseny i espai a EINA (2022), actualment cursa el màster d’Investigació en Art i Disseny, MURAD, on desenvolupa una recerca entorn el concepte d’investigació performàtica vinculada al “jo laboral” en el món de l’art. Ha exposat obra en espais com àngels barcelona o Las Cigarreras d’Alacant i ha acompanyat exposicions i projectes de mediació a la xarxa de centres cívics de Barcelona, com al C.C. Pere Pruna, el C.C. Urgell o Can Basté.",
+      "Berta Esteve i Marcó és membre del col·lectiu Grup d’Estudi des de 2020, amb qui ha realitzat projectes curadorials, expositius, performàtics i de mediació a espais com La Virreina CI, àngels barcelona, Fundació Brossa, Santa Mònica o La Capella. Actualment, desenvolupa el projecte de divulgació crítica <a href=\"https://www.instagram.com/unfunny_curator_official/\">Unfunny_Curator</a>, on duu a terme una anàlisi irònica i performàtica sobre el món de l’art de Barcelona que hibrida els espais físics amb els digitals."
+    ]
+  },
+  {
+    "type": "sections",
+    "items": [
+      {"label": "curadoria i acompanyaments", "anchor": "#curadoria"},
+      {"label": "investigació", "anchor": "#investigacio"},
+      {"label": "exposicions", "anchor": "#exposicions"},
+      {"label": "mediació", "anchor": "#mediacio"},
+      {"label": "text i divulgació", "anchor": "#text"},
+      {"label": "grup d’estudi", "anchor": "#grup-estudi"}
+    ]
+  },
+  {
+    "type": "acompanyaments",
+    "title": "puc ajudar-te a:",
+    "list": [
+      "Realitzar els teus projectes expositius, culturals i/o artístics",
+      "Guiar-te en questions de comissariat i museografia",
+      "Redactar textos (fulls de sala, currículums d’artista, statements, dossiers…)",
+      "Estructurar el teu porfoli, web o projecte",
+      "Contrastar idees i facilitar-te referències (artístiques o de qualsevol altre àmbit!)",
+      "Construïr un marc teòric entorn la teva obra o investigació",
+      "Ajudar-te en la coordinació, logística, muntatge, instal·lació, il·luminació del teu projecte.",
+      "Mediar la teva exposició, performance, investigació…",
+      "Donar-te feedback dels teus assajos i recerques",
+      "Si t’interessa o tens alguna proposta que no estigui inclosa en aquesta llista contacta’m"
+    ],
+    "info": "generalment cobro les tutories a 25€ l’hora (impostos inclosos) i la resta de projectes caldria pressupostar-los :-)",
+    "gallery": [
+      "assets/img1.jpg",
+      "assets/img2.jpg",
+      "assets/img3.jpg"
+    ]
+  },
+  {
+    "type": "contacte",
+    "email": "berta.esteve.marco@gmail.com",
+    "links": [
+      {"label": "@snerta.esteve", "url": "https://instagram.com/snerta.esteve"},
+      {"label": "@unfunny_curator_official", "url": "https://instagram.com/unfunny_curator_official"},
+      {"label": "@grupdestudi", "url": "https://instagram.com/grupdestudi"}
+    ]
+  }
+]

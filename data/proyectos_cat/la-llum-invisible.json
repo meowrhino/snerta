@@ -1,0 +1,15 @@
+{
+  "titol": "La llum invisible",
+  "ficha_tecnica": "Instal·lació lumínica, 2024, Barcelona",
+  "imatge_principal": "assets/la-llum-invisible.jpg",
+  "sinopsi": "Una peça sobre la percepció de la llum i l'espai en l'àmbit urbà.",
+  "projectes_relacionats": [
+    { "titol": "Cartografies del silenci", "slug": "cartografies-del-silenci" }
+  ],
+  "text1": "Aquest projecte explora els límits de la llum artificial...",
+  "galeria": [
+    "assets/la-llum-invisible_1.jpg",
+    "assets/la-llum-invisible_2.jpg"
+  ],
+  "text2": "La instal·lació es va presentar a la galeria X de Barcelona."
+}

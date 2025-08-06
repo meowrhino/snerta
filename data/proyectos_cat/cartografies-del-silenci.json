@@ -1,0 +1,14 @@
+{
+  "titol": "Cartografies del silenci",
+  "ficha_tecnica": "Vídeo-instal·lació, 2023, Girona",
+  "imatge_principal": "assets/cartografies-silenci.jpg",
+  "sinopsi": "Un recorregut visual per espais de silenci en entorns urbans.",
+  "projectes_relacionats": [
+    { "titol": "La llum invisible", "slug": "la-llum-invisible" }
+  ],
+  "text1": "El projecte investiga els espais de calma dins la ciutat...",
+  "galeria": [
+    "assets/cartografies_1.jpg",
+    "assets/cartografies_2.jpg"
+  ]
+}

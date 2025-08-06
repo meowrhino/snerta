@@ -1,0 +1,70 @@
+#main-content, #project-content {
+  max-width: 800px;
+  margin: 2rem auto;
+  font-family: sans-serif;
+}
+.seccion.grid .grid-items {
+  display: flex;
+  gap: 1rem;
+}
+.grid-item {
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+  flex: 1 1 200px;
+}
+.galeria, .gallery-images {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+.imatge-principal {
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 1rem 0;
+}
+.projectes-relacionats ul {
+  list-style: none;
+  padding: 0;
+}
+.projectes-relacionats li {
+  margin: 0.3rem 0;
+}
+
+.grid-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+.grid-item {
+  background: #444;
+  border-radius: 1rem;
+  overflow: hidden;
+  max-width: 320px;
+  flex: 1 1 300px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.15s;
+}
+.grid-item:hover {
+  transform: scale(1.03);
+}
+.grid-item img {
+  width: 100%;
+  display: block;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+}
+.grid-item h3 {
+  margin: 1rem 0 0.5rem 0;
+  font-size: 1.5rem;
+}
+.grid-item .categoria {
+  color: #ccc;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+.grid-item p {
+  font-size: 1rem;
+  margin: 0 0 1rem 0;
+}
