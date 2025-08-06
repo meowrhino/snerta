@@ -1,26 +1,274 @@
 [
   {
-    "slug": "la-llum-invisible",
-    "titol": "La llum invisible",
+    "slug": "30-anys-de-can-baste",
+    "titol": "30 anys de Can Basté",
+    "categoria": "curadoria",
+    "any": 2025,
+    "imatge": "",
+    "sinopsi": "Can Basté, Barcelona, exposició retrospectiva, curadoria i museografia"
+  },
+  {
+    "slug": "tramas-imaginarias",
+    "titol": "Tramas imaginarias",
+    "categoria": "curadoria",
+    "any": 2025,
+    "imatge": "",
+    "sinopsi": "àngels barcelona espai 2, Barcelona, exposició del màster MURAD, co-curadoria"
+  },
+  {
+    "slug": "holets",
+    "titol": "Holets",
+    "categoria": "curadoria",
+    "any": 2025,
+    "imatge": "",
+    "sinopsi": "Cuarto Location, Barcelona, exposició de Guilhem Berini, curadoria"
+  },
+  {
+    "slug": "nostalgia-dislocada",
+    "titol": "Nostàlgia dislocada",
+    "categoria": "acompanyament",
+    "any": 2025,
+    "imatge": "",
+    "sinopsi": "C.C. Pere Pruna, Barcelona, exposició individual, acompanyament"
+  },
+  {
+    "slug": "please-im-a-star",
+    "titol": "Please! I’m a star!",
     "categoria": "curadoria",
     "any": 2024,
-    "imatge": "assets/la-llum-invisible.jpg",
-    "sinopsi": "Una peça sobre la percepció de la llum i l'espai en l'àmbit urbà."
+    "imatge": "",
+    "sinopsi": "Espai Balda, la meva habitació, Barcelona, curadoria"
   },
   {
-    "slug": "cartografies-del-silenci",
-    "titol": "Cartografies del silenci",
-    "categoria": "exposicio",
+    "slug": "som-aqui",
+    "titol": "Som aquí",
+    "categoria": "curadoria",
+    "any": 2024,
+    "imatge": "",
+    "sinopsi": "C.C. Urgell, Barcelona, exposició de Sira Lobo, curadoria i producció"
+  },
+  {
+    "slug": "el-teatre-de-les-plantes",
+    "titol": "El teatre de les plantes",
+    "categoria": "acompanyament",
+    "any": 2024,
+    "imatge": "",
+    "sinopsi": "C.C. Pere Pruna, Barcelona, exposició d’Ana López i Mònica Kopatschek, acompanyament"
+  },
+  {
+    "slug": "blau-cel",
+    "titol": "Blau cel",
+    "categoria": "curadoria",
+    "any": 2024,
+    "imatge": "",
+    "sinopsi": "C.C. Pere Pruna, Barcelona, exposició de Núria Cintero, curadoria"
+  },
+  {
+    "slug": "la-possibilitat-de-no-haver-sigut",
+    "titol": "La possibilitat de no haver sigut",
+    "categoria": "curadoria",
+    "any": "2023-2024",
+    "imatge": "",
+    "sinopsi": "Santa Mònica, Barcelona, exposició col·lectiva, co-curadoria – Gd’E"
+  },
+  {
+    "slug": "podate-els-dedos",
+    "titol": "Pódate los dedos, a ver si crecen",
+    "categoria": "curadoria",
     "any": 2023,
-    "imatge": "assets/cartografies-silenci.jpg",
-    "sinopsi": "Un recorregut visual per espais de silenci en entorns urbans."
+    "imatge": "",
+    "sinopsi": "C.C. Pere Pruna, Barcelona, exposició de Mario Molins, curadoria i disseny gràfic"
   },
   {
-    "slug": "cos-i-memoria",
-    "titol": "Cos i memòria",
-    "categoria": "performance",
-    "any": 2022,
-    "imatge": "assets/cos-memoria.jpg",
-    "sinopsi": "Performance sobre la relació entre cos, territori i record."
+    "slug": "unfunny-curator",
+    "titol": "Unfunny_Curator",
+    "categoria": "investigacio",
+    "any": "actualitat",
+    "imatge": "",
+    "sinopsi": "sobre èxit, professionalització i l’artworld"
+  },
+  {
+    "slug": "the-backrooms",
+    "titol": "The Backrooms",
+    "categoria": "investigacio",
+    "any": "2022-2024",
+    "imatge": "",
+    "sinopsi": "sobre terror liminal i ficcions col·lectives"
+  },
+  {
+    "slug": "youre-invited-to-my-room",
+    "titol": "You’re invited to my room",
+    "categoria": "investigacio",
+    "any": "2018-2021",
+    "imatge": "",
+    "sinopsi": "sobre fandoms i fanfiction"
+  },
+  {
+    "slug": "del-poder-sobre-el-poder",
+    "titol": "Del poder sobre el poder",
+    "categoria": "exposicio",
+    "any": 2025,
+    "imatge": "",
+    "sinopsi": "Estructuras 3000, Esplugues de Llobregat, The Curator’s project, fotografia"
+  },
+  {
+    "slug": "vist-des-denlloc",
+    "titol": "Vist des d’enlloc",
+    "categoria": "exposicio",
+    "any": 2024,
+    "imatge": "",
+    "sinopsi": "La Capella, Barcelona, The Backrooms: Analogue found footage, vídeo"
+  },
+  {
+    "slug": "apertus-02-reflection-angels-barcelona",
+    "titol": "Apertus 02: Reflection (àngels barcelona)",
+    "categoria": "exposicio",
+    "any": 2018,
+    "imatge": "",
+    "sinopsi": "àngels barcelona espai 2, Barcelona, VIP Zone: Contemporary Art Hit, intervenció"
+  },
+  {
+    "slug": "centrifugacions-4",
+    "titol": "Centrifugacions 4",
+    "categoria": "exposicio",
+    "any": 2018,
+    "imatge": "",
+    "sinopsi": "Escola Massana, Barcelona, You’re invited to my room, instal·lació"
+  },
+  {
+    "slug": "apertus-02-reflection-escola-massana",
+    "titol": "Apertus 02: Reflection (Escola Massana)",
+    "categoria": "exposicio",
+    "any": 2018,
+    "imatge": "",
+    "sinopsi": "Escola Massana, Barcelona, An industrial after-life, instal·lació"
+  },
+  {
+    "slug": "youre-invited-to-my-room-expo",
+    "titol": "You’re invited to my room (expo)",
+    "categoria": "exposicio",
+    "any": 2018,
+    "imatge": "",
+    "sinopsi": "la meva habitació, Barcelona, instal·lació"
+  },
+  {
+    "slug": "lluerna-museus-possibles",
+    "titol": "Lluerna – Museus possibles",
+    "categoria": "mediacio",
+    "any": 2025,
+    "imatge": "",
+    "sinopsi": "Fundació Miró, Barcelona, Caçadoris d’Artspeak, un Unfunny_CuraTour, visita guiada, Unfunny_Curator"
+  },
+  {
+    "slug": "conferencia-performativa",
+    "titol": "Conferència performativa sobre conferència performativa",
+    "categoria": "mediacio",
+    "any": 2025,
+    "imatge": "",
+    "sinopsi": "Escola Massana, Barcelona, assistent de Max Azemar, conferència performativa"
+  },
+  {
+    "slug": "tramas-imaginarias-dinamitzacio",
+    "titol": "Tramas imaginarias (dinamització)",
+    "categoria": "mediacio",
+    "any": 2025,
+    "imatge": "",
+    "sinopsi": "àngels barcelona espai 2, Barcelona, This is a networking data visualization ;-), dinamització"
+  },
+  {
+    "slug": "cacadoris-dartspeak-hangar",
+    "titol": "Caçadoris d’Artspeak (Hangar/La Capella)",
+    "categoria": "mediacio",
+    "any": 2025,
+    "imatge": "",
+    "sinopsi": "Hangar/La Capella, Barcelona, taller, Unfunny_Curator"
+  },
+  {
+    "slug": "art-nou-23-brossa-moco",
+    "titol": "Art Nou ‘23 (Fundació Brossa & MoCo Museum)",
+    "categoria": "mediacio",
+    "any": 2023,
+    "imatge": "",
+    "sinopsi": "Fundació Brossa & MoCo Museum, Barcelona, Grup d’Estudi for you: Èxit through the Ale-hop, visita guiada – Gd’E"
+  },
+  {
+    "slug": "art-nou-23-estructuras-3000",
+    "titol": "Art Nou ‘23 (Estructuras 3000)",
+    "categoria": "mediacio",
+    "any": 2023,
+    "imatge": "",
+    "sinopsi": "Estructuras 3000, Esplugues de Llobregat, TNSTAMTMMOTTMR, visites guiades"
+  },
+  {
+    "slug": "crear-situacions-1-llar",
+    "titol": "Crear Situacions 1: Llar",
+    "categoria": "mediacio",
+    "any": 2023,
+    "imatge": "",
+    "sinopsi": "Santa Mònica, Barcelona, Mu-dança!, co-curadoria i coordinació"
+  },
+  {
+    "slug": "cap-a-una-investigacio-performatica",
+    "titol": "Cap a una investigació performàtica",
+    "categoria": "divulgacio",
+    "any": 2025,
+    "imatge": "",
+    "sinopsi": "teatralitat com a metodologia de recerca experimental, autopublicació, article acadèmic"
+  },
+  {
+    "slug": "breaking-canon",
+    "titol": "Breaking canon: fanfiction i crítica",
+    "categoria": "divulgacio",
+    "any": 2025,
+    "imatge": "",
+    "sinopsi": "autopublicació, assaig"
+  },
+  {
+    "slug": "berta-esteve-is-not-illiterate",
+    "titol": "Berta Esteve is NOT illiterate (anymore)",
+    "categoria": "divulgacio",
+    "any": 2024,
+    "imatge": "",
+    "sinopsi": "autopublicació, assaig"
+  },
+  {
+    "slug": "media-rants",
+    "titol": "Media Rants",
+    "categoria": "divulgacio",
+    "any": "2022-2023",
+    "imatge": "",
+    "sinopsi": "@snerta.esteve, en línia, assaig"
+  },
+  {
+    "slug": "para-k-kieres-saber-eso",
+    "titol": "Para k kieres saber eso?",
+    "categoria": "divulgacio",
+    "any": 2021,
+    "imatge": "",
+    "sinopsi": "La Virreina, Barcelona, Com buscar fanfics: moure’s en arxiu fan per a una experiència afectiva òptima, conferència"
+  },
+  {
+    "slug": "why-i-dont-remember-artists",
+    "titol": "Why I don’t remember artists",
+    "categoria": "divulgacio",
+    "any": 2019,
+    "imatge": "",
+    "sinopsi": "Wetland network, en línia, assaig"
+  },
+  {
+    "slug": "una-aproximacio-al-fanfiction",
+    "titol": "Una aproximació al fanfiction",
+    "categoria": "divulgacio",
+    "any": 2018,
+    "imatge": "",
+    "sinopsi": "autopublicació, divulgació"
+  },
+  {
+    "slug": "youre-invited-to-my-room-divulgacio",
+    "titol": "You’re invited to my room (divulgació)",
+    "categoria": "divulgacio",
+    "any": 2018,
+    "imatge": "",
+    "sinopsi": "autopublicació, assaig"
   }
 ]

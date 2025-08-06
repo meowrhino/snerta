@@ -3,28 +3,67 @@ async function cargarProjectes() {
   return await res.json();
 }
 
-function renderProjecteCard(p) {
+const ordenCategorias = [
+  { key: "curadoria", label: "curadoria" },
+  { key: "acompanyament", label: "acompanyament" },
+  { key: "investigacio", label: "investigació" },
+  { key: "exposicio", label: "exposicions" },
+  { key: "mediacio", label: "mediació" },
+  { key: "divulgacio", label: "text i divulgació" }
+];
+
+function renderProjecteLinea(p) {
   return `
-    <div class="grid-item">
-      <a href="projecte.html?slug=${p.slug}">
-        <img src="${p.imatge}" alt="${p.titol}" />
-        <h3>${p.titol}</h3>
-        <div class="categoria">${p.categoria} · ${p.any}</div>
-        <p>${p.sinopsi}</p>
+    <div class="projecte-linia">
+      <a href="projecte.html?slug=${p.slug}" class="projecte-link">
+        <strong>${p.titol}</strong>
       </a>
+      <div class="projecte-sinopsi">${p.sinopsi || ""}</div>
+      <div class="projecte-any">${p.any}</div>
     </div>
   `;
 }
 
-async function renderProjectesGrid() {
+async function renderProjectesPorCategoria() {
   const projectes = await cargarProjectes();
-  // Puedes agrupar por categoria aquí si quieres (añádelo fácil más tarde)
-  const grid = `
-    <div class="grid-items">
-      ${projectes.map(renderProjecteCard).join('')}
-    </div>
-  `;
-  document.getElementById('projectes-list').innerHTML = grid;
+  const cont = document.getElementById('projectes-list');
+  cont.innerHTML = '';
+
+  ordenCategorias.forEach(cat => {
+    const group = projectes.filter(p => p.categoria === cat.key);
+    if (!group.length) return;
+
+    const html = `
+      <section class="projectes-cat" id="${cat.key}">
+        <h2>${cat.label}</h2>
+        <div class="projectes-col">
+          ${group.map(renderProjecteLinea).join('')}
+        </div>
+      </section>
+    `;
+    cont.innerHTML += html;
+  });
 }
 
-document.addEventListener('DOMContentLoaded', renderProjectesGrid);
+
+function renderMenuLinks() {
+  const menu = document.createElement('div');
+  menu.className = 'menu-links';
+
+  ordenCategorias.forEach(cat => {
+    // Si quieres juntar "curadoria" y "acompanyament", puedes agruparlos aquí
+    // Pero si quieres cada uno por separado, simplemente deja así:
+    const a = document.createElement('a');
+    a.href = `projectes.html#${cat.key}`;
+    a.textContent = cat.label;
+    menu.appendChild(a);
+  });
+
+  // Añade el menú al body (o donde tú quieras)
+  document.body.appendChild(menu);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  renderProjectesPorCategoria();
+  renderMenuLinks();
+});
