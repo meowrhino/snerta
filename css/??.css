@@ -1,3 +1,20 @@
+:root {
+  --fondo: #444
+  --color-texto: #333;
+  --color-enlace: #007bff;
+  --color-enlace-hover: #0056b3;
+}
+
+a {
+  color: white;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: white;
+}
+
+
 #main-content, #project-content {
   max-width: 800px;
   margin: 2rem auto;
@@ -38,7 +55,7 @@
   justify-content: center;
 }
 .grid-item {
-  background: #444;
+  background: var(--fondo);
   border-radius: 1rem;
   overflow: hidden;
   max-width: 320px;

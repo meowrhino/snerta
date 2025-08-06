@@ -1,30 +1,59 @@
-# TODO - Nueva web Berta Esteve
+# TODO - Web Berta Esteve (Actualizado 2025-08-06)
 
-## 0. Limpieza y base
-- [x] Vaciar proyecto antiguo y dejar solo assets que interesen.
-- [x] Crear carpetas `/data`, `/components`, `/assets`.
+## 0. Arquitectura y flujo actual
 
-## 1. Datos y estructura
-- [x] Crear `main_cat.json` con la estructura de secciones.
-- [x] Crear carpeta `proyectos_cat` con un JSON por proyecto (un archivo por proyecto en catalán).
-- [x] Establecer convención de nombres y rutas para enlaces automáticos (campo `slug` y rutas como `projectes_cat/slug.json`).
-- [x] Dejar preparado el esqueleto para futuros idiomas (`main_es.json`, `main_en.json` y `proyectos_es/`, `proyectos_en/`), pero sin rellenar todavía.
+- [x] `index.html` es estático y se edita a mano (no se genera dinámicamente). El contenido de la home se mantiene en HTML, aunque los datos y estructura están en `main_cat.json` y el script `renderHome.js` (puede usarse para una futura versión generada).
+- [x] Carpeta `/data` contiene todos los JSON: `main_cat.json`, `projectes_cat.json`, y una carpeta `proyectos_cat/` con un `.json` individual por cada proyecto.
+- [x] Carpeta `/assets` contiene todas las imágenes.
 
-## 2. Renderizado modular
-- [x] Crear script JS que cargue el JSON según idioma (ahora solo catalán) y pinte la página principal (`render.js`).
-- [x] Crear componentes para cada tipo de sección: texto, grid, galería, etc. *(Esto lo tienes en el render modular por tipo; si creces puedes separar en más funciones, pero de momento va perfecto)*
-- [ ] Añadir detección/selector de idioma (opcional, por ahora solo visible catalán, pero dejar preparado para futuro). *(Pendiente, pero no prioritario)*
+## 1. Gestión de proyectos (flujo recomendado y fácil para Berta)
 
-## 3. Navegación y enlaces
-- [x] Helper JS para generar enlaces dinámicos según idioma y estructura. *(Con el uso de slugs y generación de hrefs, esto está cubierto)*
-- [x] Asegurar que los enlaces de proyectos y otras páginas funcionan bien (de momento, solo catalán).
+- [x] El listado de proyectos se gestiona SOLO en `projectes_cat.json` (cada item tiene `slug`, `titol`, `categoria`, `any`, `imatge`, `sinopsi`...).
+- [x] El detalle de cada proyecto se gestiona en su propio archivo: `/data/proyectos_cat/[slug].json`.
+- [x] Las imágenes se suben a `/assets` y se referencian desde los JSON.
+- [ ] Escribir un mini README para Berta explicando:  
+  - Cómo añadir un nuevo proyecto  
+  - Cómo modificar uno existente  
+  - Cómo subir imágenes  
+  - Qué campos debe tener cada JSON
 
-## 4. Multiidioma (fase futura)
-- [ ] Cuando se añadan español e inglés, duplicar estructura (`main_es.json`, `main_en.json`, etc).
-- [ ] Asegurar que el contenido y los enlaces cambian bien al cambiar de idioma.
-- [ ] Comprobar que el sistema es escalable (añadir/quitar proyectos, secciones, etc).
+## 2. Página de proyectos (`projectes.html`)
 
-## 5. Extras (cuando la base esté)
-- [ ] Mejorar estilos y animaciones.
-- [ ] Optimizar carga de imágenes.
-- [ ] Añadir SEO básico para cada idioma.
+- [x] Usa `renderProjectes.js` para cargar y mostrar el grid/listado de proyectos a partir de `projectes_cat.json`.
+- [ ] Mejorar el CSS para el grid de proyectos.
+- [ ] Agrupar visualmente por categoría si interesa (opcional/futuro).
+
+## 3. Página de proyecto individual (`projecte.html`)
+
+- [x] Usa `projecte.js` para mostrar el detalle del proyecto, cargando los datos de `/data/proyectos_cat/[slug].json`.
+- [ ] Mejorar el CSS para la página de detalle del proyecto.
+- [ ] Añadir navegación fácil a "proyectos relacionados" (usando slugs).
+
+## 4. Limpieza y eliminación de redundancias
+
+- [x] Eliminar archivos JSON duplicados o en desuso (`projectes.json` antiguo, etc).
+- [ ] Revisar scripts y eliminar/comentar los que no se usen (ejemplo: `render.js` viejo para home si no se usa).
+
+## 5. Añadir nuevos proyectos
+
+- [ ] Añadir el primer y segundo proyecto en `projectes_cat.json` y como `.json` detallado en `/data/proyectos_cat/`.
+- [ ] Subir las imágenes necesarias a `/assets/`.
+- [ ] Probar todo el flujo: listado, enlace, y página de detalle.
+
+## 6. Mejoras visuales y otros extras
+
+- [ ] Mejorar animaciones y estilos (cuando todo funcione bien).
+- [ ] Optimizar carga de imágenes si hay muchas.
+- [ ] SEO básico en todas las páginas.
+- [ ] Dejar preparado el esqueleto para multiidioma (bastará con duplicar los JSON y adaptar los scripts).
+
+---
+
+**Resumen rápido flujo Berta:**  
+1. Editar `projectes_cat.json` para añadir/editar/quitar proyectos.  
+2. Crear un `.json` detallado por cada proyecto en `/data/proyectos_cat/`.  
+3. Subir imágenes a `/assets/`.  
+4. ¡Ya sale en la web!  
+5. Para borrar o modificar, solo toca el JSON correspondiente.
+
+---

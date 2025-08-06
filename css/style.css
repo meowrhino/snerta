@@ -1,0 +1,364 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+NL:wght@100..400&display=swap");
+
+:root {
+  --background--color: #3f3d3a;
+  --text--color: cornsilk;
+  --hs--color: mistyrose;
+  --a--color: #FF877A;
+  --a--color--hover: #40E6B0;
+
+  --h1-size: clamp(2.5rem, 8vw, 8rem);
+  --h2-size: clamp(2rem, 6vw, 5rem);
+  --h3-size: clamp(1.5rem, 4vw, 3.5rem);
+  --h4-size: clamp(1.2rem, 3vw, 2.5rem);
+  --h5-size: clamp(1rem, 2vw, 1.6rem);
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: var(--background--color);
+  color: var(--text--color);
+}
+
+@media (max-width: 767px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+}
+
+/*TEXTOS BÁSICOS*/
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Playwrite NL", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0px;
+  padding: 0px;
+  line-height: 100%;
+}
+
+h1 {
+  font-size: var(--h1-size);
+}
+h2 {
+  font-size: var(--h2-size);
+}
+h3 {
+  font-size: var(--h3-size);
+  text-align: center;
+}
+h4 {
+  font-size: var(--h4-size);
+  text-align: center;
+}
+h5 {
+  font-size: var(--h5-size);
+}
+
+p {
+  font-size: 16px;
+}
+
+a {
+  color: var(--a--color);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--a--color--hover);
+}
+
+a {
+  text-decoration: none;
+}
+
+.menu-links a {
+  color: LightGray;
+  font-weight: 400;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.menu-links a.active {
+  color: #ff8c42;
+  font-weight: bold;
+}
+.menu-links a:hover {
+  color: DarkOliveGreen;
+}
+/* 
+a:not(.menu-links a) {
+  font-weight: 700;
+  color: white;
+  transition: color 0.3s, text-shadow 0.3s;
+  text-decoration: none;
+  position: relative;
+}
+
+a:not(.menu-links a):hover,
+a:not(.menu-links a):focus-visible {
+  color: #67aaff;
+  text-shadow: 0 0 6px #fff, 0 0 8px #67aaff;
+  outline: none;
+}
+
+a:not(.menu-links a):active {
+  color: #ff8c42;
+  text-shadow: 0 0 8px #ff8c42;
+}
+
+a:not(.menu-links a):visited {
+  color: #b980e4;
+} */
+
+/* a.link-con-href {
+  font-weight: 700;
+  color: white;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+a.link-con-href:hover {
+  color: #0000ee;
+  text-shadow: white 1px 1px 1px, white -1px -1px 1px;
+} */
+
+/*LA LISTA*/
+
+/* Elimina los bullets nativos y prepara para custom */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+/* Configura posición para los bullets personalizados */
+li {
+  position: relative;
+  /* Necesario para posicionar el pseudo-elemento */
+  padding-left: 1.5em;
+  /* Espacio para el bullet */
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+/* Crea el bullet personalizado con animación */
+li::before {
+  content: "✦";
+  position: absolute;
+  left: 0;
+  color: white;
+  animation: blink 1.5s ease-in-out infinite;
+  animation-delay: var(--delay, 0s);
+}
+
+/* Animación con prefijos para mejor compatibilidad */
+@-webkit-keyframes blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0;
+  }
+}
+
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0;
+  }
+}
+
+/*MENÚS FLOTANTES*/
+
+.menu-links {
+  position: fixed;
+  display: flex;
+  gap: 10px;
+  bottom: 20px;
+  right: 15px;
+  flex-direction: column;
+  text-align: right;
+  transition: max-height 0.5s ease;
+  font-weight: 300 !important;
+}
+
+.menu-links a:hover {
+  color: DarkOliveGreen;
+  background-color: none;
+}
+
+@media (max-width: 767px) {
+  .menu-links {
+    line-height: 1;
+    /* Ajusta el valor según el espacio que necesites */
+  }
+}
+
+.menu-links a.active {
+  color: LightGray;
+}
+
+@media (min-width: 768px) {
+  .container {
+    margin: 30px 200px;
+  }
+}
+
+@media (max-width: 767px) {
+  .container {
+    margin: 30px 20px;
+  }
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0px;
+}
+
+#berta {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100dvh;
+  text-align: center;
+}
+
+/*
+#logo-container--404 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100dvh;
+}
+    */
+
+#descripcio {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100dvh;
+}
+
+@media (max-width: 767px) {
+  #descripcio {
+    padding-top: 20vh;
+  }
+}
+
+#projectes {
+  min-height: 100dvh;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columnas en desktop */
+  align-items: center; /* Centrado vertical */
+  justify-items: center; /* Centrado horizontal */
+}
+@media (max-width: 1500px) {
+  #projectes {
+    grid-template-columns: repeat(
+      2,
+      1fr
+    ); /* 2 columnas en pantallas medianas */
+  }
+}
+
+@media (max-width: 767px) {
+  #projectes {
+    grid-template-columns: 1fr; /* 1 columna en móvil */
+  }
+}
+
+#acompanyaments {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100dvh;
+}
+
+#acompanyaments h3 {
+  margin-bottom: 10dvh;
+}
+
+@media (max-width: 767px) {
+  #acompanyaments {
+    padding-top: 20vh;
+  }
+}
+
+#acompanyaments .image-gallery {
+  display: flex;
+  gap: 20px;
+  /* Espacio entre las imágenes */
+}
+
+@media (max-width: 767px) {
+  #acompanyaments .image-gallery {
+    flex-direction: column;
+  }
+}
+
+.image-placeholder {
+  width: 350px;
+  height: 185px;
+  background-color: grey;
+}
+
+#contacte {
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+  padding: 20px 0;
+  position: relative;
+}
+
+#contacte h4 {
+  flex-grow: 0.9;
+  /* Ocupa todo el espacio disponible */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  /* Elimina márgenes por defecto del h4 */
+  padding-top: 10%;
+}
+
+@media (max-width: 767px) {
+  #contacte h4 {
+    font-size: 20px;
+  }
+}
+
+.contacte-llinks {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  padding: 20px 0;
+  /* Espaciado vertical opcional */
+}
+
+@media (max-width: 767px) {
+  .contacte-llinks {
+    flex-direction: column;
+  }
+}
+
+/*https://es.wikipedia.org/wiki/Colores_web*/
+
+span.notas {
+  color: #ff0000;
+}
