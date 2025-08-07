@@ -4,8 +4,8 @@
   --background--color: #3f3d3a;
   --text--color: cornsilk;
   --hs--color: mistyrose;
-  --a--color: #FF877A;
-  --a--color--hover: #40E6B0;
+  --a--color: #ff877a;
+  --a--color--hover: #40e6b0;
 
   --h1-size: clamp(2.5rem, 8vw, 8rem);
   --h2-size: clamp(2rem, 6vw, 5rem);
@@ -147,14 +147,6 @@ li {
 }
 
 /* Crea el bullet personalizado con animación */
-li::before {
-  content: "✦";
-  position: absolute;
-  left: 0;
-  color: white;
-  animation: blink 1.5s ease-in-out infinite;
-  animation-delay: var(--delay, 0s);
-}
 
 /* Animación con prefijos para mejor compatibilidad */
 @-webkit-keyframes blink {
@@ -181,13 +173,20 @@ li::before {
 
 /*MENÚS FLOTANTES*/
 
+.menu-abajo {
+  bottom: 20px;
+  right: 15px;
+  flex-direction: column;
+}
+.menu-arriba {
+  top: 20px;
+  right: 15px;
+}
+
 .menu-links {
   position: fixed;
   display: flex;
   gap: 10px;
-  bottom: 20px;
-  right: 15px;
-  flex-direction: column;
   text-align: right;
   transition: max-height 0.5s ease;
   font-weight: 300 !important;
@@ -282,41 +281,84 @@ body {
   }
 }
 
+/*acompanyaments*/
+
 #acompanyaments {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  min-height: 100dvh;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+  gap: 4vh;
 }
 
-#acompanyaments h3 {
-  margin-bottom: 10dvh;
+.serveis-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  font-family: "Playwrite NL", cursive;
+  font-size: clamp(1.5rem, 4vw, 2.2rem);
 }
 
+.serveis-grid li {
+  list-style: none;
+  opacity: 0;
+  animation: fadeInOut 15s linear infinite;
+}
+
+.serveis-grid li:nth-child(1) {
+  animation-delay: 0s;
+}
+.serveis-grid li:nth-child(2) {
+  animation-delay: 3s;
+}
+.serveis-grid li:nth-child(3) {
+  animation-delay: 6s;
+}
+.serveis-grid li:nth-child(4) {
+  animation-delay: 9s;
+}
+.serveis-grid li:nth-child(5) {
+  animation-delay: 12s;
+}
+.serveis-grid li:nth-child(6) {
+  animation-delay: 15s;
+}
+
+@keyframes fadeInOut {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  10% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  30% {
+    opacity: 1;
+  }
+  40% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+/*
 @media (max-width: 767px) {
   #acompanyaments {
-    padding-top: 20vh;
+    padding: 12vh 4vw 0 4vw;
+  }
+
+  .serveis-grid {
+    font-size: clamp(1.2rem, 5vw, 1.8rem);
   }
 }
+*/
 
-#acompanyaments .image-gallery {
-  display: flex;
-  gap: 20px;
-  /* Espacio entre las imágenes */
-}
-
-@media (max-width: 767px) {
-  #acompanyaments .image-gallery {
-    flex-direction: column;
-  }
-}
-
-.image-placeholder {
-  width: 350px;
-  height: 185px;
-  background-color: grey;
-}
+/**CONTACTE */
 
 #contacte {
   display: flex;
@@ -362,8 +404,6 @@ body {
 span.notas {
   color: #ff0000;
 }
-
-
 
 /*PROJECTRES LISTA*/
 
@@ -495,7 +535,6 @@ span.notas {
   margin-bottom: 0.5em;
 }
 
-
 /* Estilos para la página de detalle de proyecto */
 
 #projecte-content {
@@ -534,7 +573,7 @@ span.notas {
   width: auto;
   margin: 2.5rem auto 1.5rem auto;
   border-radius: 10px;
-  box-shadow: 0 2px 12px 0 rgba(0,0,0,0.09);
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.09);
 }
 
 #projecte-content .galeria {
@@ -551,7 +590,7 @@ span.notas {
   margin: 0;
 }
 
-#projecte-content .sinopsi, 
+#projecte-content .sinopsi,
 #projecte-content .text1,
 #projecte-content .text2 {
   margin-bottom: 1.2em;

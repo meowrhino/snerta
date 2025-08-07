@@ -14,43 +14,61 @@
   {
     "type": "sections",
     "items": [
-      {"label": "curadoria i acompanyaments", "anchor": "#curadoria"},
-      {"label": "investigació", "anchor": "#investigacio"},
-      {"label": "exposicions", "anchor": "#exposicions"},
-      {"label": "mediació", "anchor": "#mediacio"},
-      {"label": "text i divulgació", "anchor": "#text"},
-      {"label": "grup d’estudi", "anchor": "#grup-estudi"}
+      {
+        "label": "curadoria i acompanyaments",
+        "anchor": "#curadoria"
+      },
+      {
+        "label": "investigació",
+        "anchor": "#investigacio"
+      },
+      {
+        "label": "exposicions",
+        "anchor": "#exposicions"
+      },
+      {
+        "label": "mediació",
+        "anchor": "#mediacio"
+      },
+      {
+        "label": "text i divulgació",
+        "anchor": "#text"
+      },
+      {
+        "label": "grup d’estudi",
+        "anchor": "#grup-estudi"
+      }
     ]
   },
   {
     "type": "acompanyaments",
     "title": "puc ajudar-te a:",
     "list": [
-      "Realitzar els teus projectes expositius, culturals i/o artístics",
-      "Guiar-te en questions de comissariat i museografia",
-      "Redactar textos (fulls de sala, currículums d’artista, statements, dossiers…)",
-      "Estructurar el teu porfoli, web o projecte",
-      "Contrastar idees i facilitar-te referències (artístiques o de qualsevol altre àmbit!)",
-      "Construïr un marc teòric entorn la teva obra o investigació",
-      "Ajudar-te en la coordinació, logística, muntatge, instal·lació, il·luminació del teu projecte.",
-      "Mediar la teva exposició, performance, investigació…",
-      "Donar-te feedback dels teus assajos i recerques",
-      "Si t’interessa o tens alguna proposta que no estigui inclosa en aquesta llista contacta’m"
+      "curar",
+      "conceptualitzar",
+      "produir",
+      "investigar",
+      "mediar",
+      "coordinar"
     ],
-    "info": "generalment cobro les tutories a 25€ l’hora (impostos inclosos) i la resta de projectes caldria pressupostar-los :-)",
-    "gallery": [
-      "assets/img1.jpg",
-      "assets/img2.jpg",
-      "assets/img3.jpg"
-    ]
+    "info": "generalment cobro les tutories a 35€ l’hora (impostos inclosos) i la resta de projectes caldria pressupostar-los :-)"
   },
   {
     "type": "contacte",
     "email": "berta.esteve.marco@gmail.com",
     "links": [
-      {"label": "@snerta.esteve", "url": "https://instagram.com/snerta.esteve"},
-      {"label": "@unfunny_curator_official", "url": "https://instagram.com/unfunny_curator_official"},
-      {"label": "@grupdestudi", "url": "https://instagram.com/grupdestudi"}
+      {
+        "label": "@snerta.esteve",
+        "url": "https://instagram.com/snerta.esteve"
+      },
+      {
+        "label": "@unfunny_curator_official",
+        "url": "https://instagram.com/unfunny_curator_official"
+      },
+      {
+        "label": "@grupdestudi",
+        "url": "https://instagram.com/grupdestudi"
+      }
     ]
   }
 ]
