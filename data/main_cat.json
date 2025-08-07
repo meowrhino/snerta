@@ -4,11 +4,35 @@
     "content": "berta esteve"
   },
   {
-    "type": "text",
-    "content": [
-      "Berta Esteve i Marcó (Barcelona, 1995) és curadora, artista i investigadora que experimenta amb les formes, narratives i estructures de l’audiovisual contemporani, l’imaginari pop i la cultura postinternet. Es dedica a tensar i explorar els límits de les estructures institucionals i acadèmiques mitjançant l’humor i emfatitzant en la desjerarquització de sabers, assenyalant que es produeix coneixement expert en espais no acadèmics; com per exemple, en l’autogestió i generació de narratives transformadores de les comunitats de fanfiction o en la producció de cinema experimental i creació d’arxius col·lectius de les comunitats dels Backrooms.",
-      "Berta Esteve i Marcó és graduada en Arts i Disseny a l’Escola Massana (2018) i postgraduada en Exposicions: Curadoria, disseny i espai a EINA (2022), actualment cursa el màster d’Investigació en Art i Disseny, MURAD, on desenvolupa una recerca entorn el concepte d’investigació performàtica vinculada al “jo laboral” en el món de l’art. Ha exposat obra en espais com àngels barcelona o Las Cigarreras d’Alacant i ha acompanyat exposicions i projectes de mediació a la xarxa de centres cívics de Barcelona, com al C.C. Pere Pruna, el C.C. Urgell o Can Basté.",
-      "Berta Esteve i Marcó és membre del col·lectiu Grup d’Estudi des de 2020, amb qui ha realitzat projectes curadorials, expositius, performàtics i de mediació a espais com La Virreina CI, àngels barcelona, Fundació Brossa, Santa Mònica o La Capella. Actualment, desenvolupa el projecte de divulgació crítica <a href=\"https://www.instagram.com/unfunny_curator_official/\">Unfunny_Curator</a>, on duu a terme una anàlisi irònica i performàtica sobre el món de l’art de Barcelona que hibrida els espais físics amb els digitals."
+    "type": "berta-links",
+    "links": [
+      {
+        "href": "#grupdestudi",
+        "img": "img/sobre_1.png",
+        "label": "sobre grup d'estudi"
+      },
+      {
+        "href": "#unfunny",
+        "img": "img/sobre_2.png",
+        "label": "sobre Unfunny_Curator"
+      },
+      {
+        "href": "#fanfiction",
+        "img": "img/sobre_3.png",
+        "label": "sobre fanfiction"
+      },
+      {
+        "href": "#backrooms",
+        "img": "img/sobre_4.png",
+        "label": "sobre els backrooms"
+      }
+    ]
+  },
+  {
+    "type": "berta-subtext",
+    "lines": [
+      "curadora, investigadora i artista",
+      "creant ponts entre l’acadèmia i la cultura d’internet"
     ]
   },
   {
