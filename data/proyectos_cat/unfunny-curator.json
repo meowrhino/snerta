@@ -1,22 +1,30 @@
 {
   "titol": "Unfunny_Curator",
-  "ficha_tecnica": "Projecte d'investigació sobre l'artworld, el professionalisme i l'èxit, 2022-actualitat.",
+  "any": "2022-actualitat",
+  "lloc": "internet",
   "imatge_principal": "img/unfunnyCurator/00.jpeg",
   "sinopsi": "Unfunny_Curator és un projecte de recerca i divulgació que qüestiona la figura del curator contemporani i la construcció d’èxit dins del món de l’art. El projecte proposa desacralitzar el discurs artístic i experimentar amb l’humor, la ironia i el meme per repensar pràctiques i relacions de poder a l’artworld.",
-  "projectes_relacionats": [],
-  "text1": "El projecte neix a partir d’una sèrie d’experiències laborals frustrants, l’autoreflexió sobre el rol professional i la necessitat de crear espais de crítica, suport i descompressió emocional per a agents culturals. Unfunny_Curator es materialitza com una identitat digital que, mitjançant publicacions, memes, tallers i conferències, parodia les tendències i tòpics del sector, tot posant en evidència les problemàtiques de la precarietat, l’autosabotatge i les dinàmiques d’elitització de la cultura.",
+  "text": [
+    "El projecte neix a partir d’una sèrie d’experiències laborals frustrants, l’autoreflexió sobre el rol professional i la necessitat de crear espais de crítica, suport i descompressió emocional per a agents culturals. Unfunny_Curator es materialitza com una identitat digital que, mitjançant publicacions, memes, tallers i conferències, parodia les tendències i tòpics del sector, tot posant en evidència les problemàtiques de la precarietat, l’autosabotatge i les dinàmiques d’elitització de la cultura.",
+    "Aquesta recerca es comparteix a través de xarxes socials, activitats presencials i textos acadèmics i divulgatius. El projecte manté una actitud d’experimentació constant, proposant que l’humor i la vulnerabilitat siguin eines de resistència per construir altres maneres de treballar, entendre i viure l’art."
+  ],
   "galeria": [
     "img/unfunnyCurator/00.jpeg",
-    "img/unfunnyCurator/01.jpeg",
+    "img/unfunnyCurator/01.jpg",
     "img/unfunnyCurator/02.jpeg",
-    "img/unfunnyCurator/03.jpeg",
+    "img/unfunnyCurator/03.jpg",
     "img/unfunnyCurator/04.jpeg",
     "img/unfunnyCurator/05.jpeg",
     "img/unfunnyCurator/06.jpeg",
     "img/unfunnyCurator/07.jpeg",
-    "img/unfunnyCurator/08.jpeg",
-    "img/unfunnyCurator/09.jpeg",
-    "img/unfunnyCurator/10.jpeg"
+    "img/unfunnyCurator/08.jpg",
+    "img/unfunnyCurator/09.jpg",
+    "img/unfunnyCurator/10.jpg"
   ],
-  "text2": "Aquesta recerca es comparteix a través de xarxes socials, activitats presencials i textos acadèmics i divulgatius. El projecte manté una actitud d’experimentació constant, proposant que l’humor i la vulnerabilitat siguin eines de resistència per construir altres maneres de treballar, entendre i viure l’art."
+  "projectes_relacionats": [
+    {
+      "titol": "Holets",
+      "slug": "holets"
+    }
+  ]
 }

@@ -3,38 +3,43 @@ async function cargarProjectes() {
   return await res.json();
 }
 
-const ordenCategorias = [
+const ordenDisciplines = [
   { key: "curadoria", label: "curadoria" },
   { key: "acompanyament", label: "acompanyament" },
   { key: "investigacio", label: "investigació" },
-  { key: "exposicio", label: "exposicions" },
+  { key: "exposicio", label: "exposició" },
   { key: "mediacio", label: "mediació" },
-  { key: "divulgacio", label: "text i divulgació" }
+  { key: "divulgacio", label: "divulgació" }
 ];
 
 function renderProjecteLinea(p) {
+  const linea = [
+    p.espai,
+    p.ciutat,
+    p.disciplina,
+    p.feina,
+    p.sinopsi,
+    p.any
+  ].filter(Boolean).join(', ');
+
   return `
     <div class="projecte-linia">
-      <a href="projecte.html?slug=${p.slug}" class="projecte-link">
-        <strong>${p.titol}</strong>
-      </a>
-      <div class="projecte-sinopsi">${p.sinopsi || ""}</div>
-      <div class="projecte-any">${p.any}</div>
+      <a href="projecte.html?slug=${p.slug}" class="projecte-link"><strong>${p.titol}</strong></a>${linea ? ', ' + linea : ''}
     </div>
   `;
 }
 
-async function renderProjectesPorCategoria() {
+async function renderProjectesPorDisciplina() {
   const projectes = await cargarProjectes();
   const cont = document.getElementById('projectes-list');
   cont.innerHTML = '';
 
-  ordenCategorias.forEach(cat => {
-    const group = projectes.filter(p => p.categoria === cat.key);
+  ordenDisciplines.forEach(cat => {
+    const group = projectes.filter(p => p.disciplina === cat.key);
     if (!group.length) return;
 
     const html = `
-      <section class="projectes-cat" id="${cat.key}">
+      <section class="projectes" id="${cat.key}">
         <h2>${cat.label}</h2>
         <div class="projectes-col">
           ${group.map(renderProjecteLinea).join('')}
@@ -45,25 +50,21 @@ async function renderProjectesPorCategoria() {
   });
 }
 
-
 function renderMenuLinks() {
   const menu = document.createElement('div');
   menu.className = 'menu-links';
 
-  ordenCategorias.forEach(cat => {
-    // Si quieres juntar "curadoria" y "acompanyament", puedes agruparlos aquí
-    // Pero si quieres cada uno por separado, simplemente deja así:
+  ordenDisciplines.forEach(cat => {
     const a = document.createElement('a');
     a.href = `projectes.html#${cat.key}`;
     a.textContent = cat.label;
     menu.appendChild(a);
   });
 
-  // Añade el menú al body (o donde tú quieras)
   document.body.appendChild(menu);
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  renderProjectesPorCategoria();
+  renderProjectesPorDisciplina();
   renderMenuLinks();
 });
