@@ -25,17 +25,29 @@ function renderTexto1(texto1) {
 
 function renderProyecto(datos) {
   let html = `<h1>${datos.titol}</h1>`;
-  html += `<div class="projecte-any-lloc">
-  ${datos.any ? `<span class="projecte-any">${datos.any}</span>` : ""}
-  ${datos.any && datos.lloc ? " · " : ""}
-  ${datos.lloc ? `<span class="projecte-lloc">${datos.lloc}</span>` : ""}
-</div>`;
+
+  // Primera línea: año
+  if (datos.any) {
+    html += `<div class="projecte-any">${datos.any}</div>`;
+  }
+
+  // Segunda línea: lloc y ciutat en la misma línea
+  if (datos.lloc || datos.ciutat) {
+    const parts = [];
+    if (datos.lloc) parts.push(datos.lloc);
+    if (datos.ciutat) parts.push(datos.ciutat);
+    html += `<div class="projecte-lloc-ciutat">${parts.join(" · ")}</div>`;
+  }
+  
+  // Imagen principal
   if (datos.imatge_principal) {
     html += `<img src="${datos.imatge_principal}" alt="${datos.titol}" class="imatge-principal" />`;
   }
+
+  // Texto 1
   html += `<div class="text">${renderTexto1(datos.text)}</div>`;
 
-    // Projectes relacionats
+  // Projectes relacionats
   if (datos.projectes_relacionats && datos.projectes_relacionats.length > 0) {
     html += `<div class="projectes-relacionats"><ul>`;
     for (const pr of datos.projectes_relacionats) {
@@ -59,8 +71,6 @@ function renderProyecto(datos) {
         .join("") +
       `</div>`;
   }
-
-
 
   return html;
 }

@@ -1,7 +1,8 @@
 {
-  "titol": "Unfunny_Curator",
-  "any": "2022-actualitat",
-  "lloc": "internet",
+  "titol": "unfunny _curator",
+  "any": "actualitat",
+  "lloc": "",
+  "ciutat": "",
   "imatge_principal": "img/unfunnyCurator/00.jpeg",
   "sinopsi": "Unfunny_Curator és un projecte de recerca i divulgació que qüestiona la figura del curator contemporani i la construcció d’èxit dins del món de l’art. El projecte proposa desacralitzar el discurs artístic i experimentar amb l’humor, la ironia i el meme per repensar pràctiques i relacions de poder a l’artworld.",
   "text": [
@@ -9,7 +10,7 @@
     "Aquesta recerca es comparteix a través de xarxes socials, activitats presencials i textos acadèmics i divulgatius. El projecte manté una actitud d’experimentació constant, proposant que l’humor i la vulnerabilitat siguin eines de resistència per construir altres maneres de treballar, entendre i viure l’art."
   ],
   "galeria": [
-    "img/unfunnyCurator/00.jpeg",
+    
     "img/unfunnyCurator/01.jpg",
     "img/unfunnyCurator/02.jpeg",
     "img/unfunnyCurator/03.jpg",
@@ -23,7 +24,11 @@
   ],
   "projectes_relacionats": [
     {
-      "titol": "Holets",
+      "titol": "tramas imaginarias",
+      "slug": "tramas-imaginarias"
+    },
+    {
+      "titol": "holets",
       "slug": "holets"
     }
   ]

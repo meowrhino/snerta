@@ -3,22 +3,21 @@ async function cargarProjectes() {
   return await res.json();
 }
 
-const ordenDisciplines = [
+const ordenCategorías = [
   { key: "curadoria", label: "curadoria" },
-  { key: "acompanyament", label: "acompanyament" },
   { key: "investigacio", label: "investigació" },
   { key: "exposicio", label: "exposició" },
   { key: "mediacio", label: "mediació" },
-  { key: "divulgacio", label: "divulgació" }
+  { key: "text", label: "divulgació" },
+  { key: "grupdestudi", label: "grup d'estudi" }
 ];
 
 function renderProjecteLinea(p) {
   const linea = [
     p.espai,
     p.ciutat,
-    p.disciplina,
+    p.text,
     p.feina,
-    p.sinopsi,
     p.any
   ].filter(Boolean).join(', ');
 
@@ -29,13 +28,13 @@ function renderProjecteLinea(p) {
   `;
 }
 
-async function renderProjectesPorDisciplina() {
+async function renderProjectesPorCategoria() {
   const projectes = await cargarProjectes();
   const cont = document.getElementById('projectes-list');
   cont.innerHTML = '';
 
-  ordenDisciplines.forEach(cat => {
-    const group = projectes.filter(p => p.disciplina === cat.key);
+  ordenCategorías.forEach(cat => {
+    const group = projectes.filter(p => p.categoria === cat.key);
     if (!group.length) return;
 
     const html = `
@@ -54,7 +53,7 @@ function renderMenuLinks() {
   const menu = document.createElement('div');
   menu.className = 'menu-links';
 
-  ordenDisciplines.forEach(cat => {
+  ordenCategorías.forEach(cat => {
     const a = document.createElement('a');
     a.href = `projectes.html#${cat.key}`;
     a.textContent = cat.label;
@@ -65,6 +64,6 @@ function renderMenuLinks() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  renderProjectesPorDisciplina();
-  renderMenuLinks();
+  renderProjectesPorCategoria();
+  // renderMenuLinks();
 });

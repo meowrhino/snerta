@@ -388,7 +388,6 @@ body {
   gap: 10vh;
   margin-top: 20vh;
   margin-bottom: 20vh;
-
 }
 #projectes-list h2 {
   font-size: var(--h3-size);
@@ -423,7 +422,7 @@ body {
   align-items: center;
   margin-top: 20vh;
   margin-bottom: 20vh;
-  gap: 5vh;
+  gap: 2.5vh;
 }
 
 #projecte-content h1 {
@@ -431,10 +430,9 @@ body {
   margin-bottom: 2rem;
 }
 
-.projecte-any-lloc {
-  font-size: 1.6rem;
-  display: flex;
-  gap: 0.7em;
+.projecte-any {
+  margin-top: 5vh;
+  font-size: 1.2rem;
 }
 .galeria-img-clickable {
   cursor: pointer;
@@ -449,6 +447,10 @@ body {
 .text {
   width: 80dvw;
   font-size: 1.5rem;
+}
+
+.projectes-relacionats {
+  text-align: center;
 }
 
 #projecte-content .galeria {
