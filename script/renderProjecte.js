@@ -3,14 +3,18 @@ function getSlugFromUrl() {
   return params.get("slug");
 }
 
+function go404() {
+  window.location.href = '404.html';
+}
+
 async function cargarDatosProyecto(slug) {
-  const res = await fetch(`data/proyectos_cat/${slug}.json`);
-  if (!res.ok) {
-    document.getElementById("projecte-content").innerHTML =
-      "<p>No s'ha trobat el projecte.</p>";
-    return;
+  try {
+    const res = await fetch(`data/proyectos_cat/${slug}.json`);
+    if (!res.ok) return null;
+    return await res.json();
+  } catch (e) {
+    return null;
   }
-  return await res.json();
 }
 
 // Helper para texto1
@@ -152,12 +156,14 @@ function crearPopupGaleriaSimple(imagenes, idxInicial = 0) {
 async function renderPaginaProyecto() {
   const slug = getSlugFromUrl();
   if (!slug) {
-    document.getElementById("projecte-content").innerHTML =
-      "<p>Error: No s'ha especificat cap projecte.</p>";
+    go404();
     return;
   }
   const datos = await cargarDatosProyecto(slug);
-  if (!datos) return;
+  if (!datos) {
+    go404();
+    return;
+  }
   document.getElementById("projecte-content").innerHTML = renderProyecto(datos);
 
   // POPUP GALERÍA
