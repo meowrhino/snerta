@@ -1,0 +1,27 @@
+{
+  "titol": "som aquí",
+  "any": "2023",
+  "lloc": "C.C. Urgell",
+  "ciutat": "Barcelona",
+  "imatge_principal": "",
+  "text": [
+   "Acompanyament de l'exposició Som aquí de Sira Lobo, dins del marc del festival d'il·lustració Il·luLola 2023.",
+   "L’exposició proposa una redescoberta de l’espai urbà desmuntant el paisatge a través de la il·lustració i el reconstruïnt-lo a través del joc. Fent visible allò que és invisible, el que és efímer i el que no fa soroll, l'artista ens apropa al barri de la nova esquerra de l'eixample fent un passeig d’alçada per baixar-hi a poc a poc i explorar de quina manera el mirem i l’habitem."
+
+  ],
+  "galeria": [
+ "img/somaqui/00.jpeg",
+ "img/somaqui/01.jpeg",
+ "img/somaqui/02.jpeg",
+ "img/somaqui/03.jpeg",
+ "img/somaqui/04.jpeg",
+ "img/somaqui/05.jpeg",
+ "img/somaqui/06.jpeg",
+ "img/somaqui/09.jpeg"
+
+    
+  
+  ],
+  "projectes_relacionats": [
+  ]
+}

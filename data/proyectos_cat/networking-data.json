@@ -1,0 +1,28 @@
+{
+  "titol": "this is a networking data visualization ;-)",
+  "any": 2025,
+  "lloc": "Tramas imaginarias, àngels barcelona espai 2",
+  "ciutat": "Barcelona",
+  "imatge_principal": "",
+  "projectes_relacionats": [],
+  "text": [
+"“This is a networking data visualization ;-)” és una acció performativa que experimenta amb les convencions pròpies del networking en el món de l’art, sumant-se a les interaccions que ja ocorren de per si en un espai com la inauguració d’una exposició.",
+"A través d’un sistema d’etiquetatge dispensat per mi mateixa – presentant-me com a punt d’informació i recursos ambulant – es fan visibles els rols, les disponibilitats i els capitals en joc durant aquestes interaccions, generant un desplaçament mínim però incòmode",
+"Acció dins del marc d'Unfunny_Curator."
+  ],
+
+  "galeria": [
+  "img/networkingdata/00.jpeg",
+  "img/networkingdata/01.jpeg",
+  "img/networkingdata/02.jpeg",
+  "img/networkingdata/03.jpeg",
+  "img/networkingdata/04.jpeg",
+  "img/networkingdata/05.jpeg",
+  "img/networkingdata/06.jpeg",
+  "img/networkingdata/07.jpeg",
+  "img/networkingdata/08.jpeg",
+  "img/networkingdata/09.jpeg",
+  "img/networkingdata/10.jpeg"
+   
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "titol": "caçadoris d'artspeak",
+  "any": 2025,
+  "lloc": "hangar",
+  "ciutat": "barcelona",
+  "imatge_principal": "",
+  "sinopsi": "",
+  "projectes_relacionats": [],
+  "text": [
+    "Activitat d'Unfunny_Curator en què es proposava detectar, analitzar i xerrar sobre artspeak: les paraulotes del món de l’art. Un llenguatge especialitzat i característic que condiciona la manera en què ens relacionem amb les exposicions i els projectes artístics, ja sigui com a agents del món de l’art o com a consumidors culturals. ",
+    "Vam analitzar fulls de sala diversos, detectant, emmagatzemant i debatent les nostres troballes. També vam disseccionar alguns statements o textos de projectes propis dels assistents. I, finalment vam bolcar totes les paraulotes caçades al xat gpt i li vam demanar que creés el text de sala definitiu.",
+    "Activitat dins del marc del màster Murad i amb la participació de Grup d'Estudi."
+  ],
+  "galeria": [
+  "img/caçadorisdartspeak/00.jpg",
+  "img/caçadorisdartspeak/01.jpg",
+  "img/caçadorisdartspeak/02.jpg",
+  "img/caçadorisdartspeak/03.jpg",
+  "img/caçadorisdartspeak/04.jpg",
+  "img/caçadorisdartspeak/05.jpg",
+  "img/caçadorisdartspeak/06.jpg",
+  "img/caçadorisdartspeak/07.jpg",
+  "img/caçadorisdartspeak/08.jpg",
+  "img/caçadorisdartspeak/09.jpg",
+  "img/caçadorisdartspeak/10.jpg",
+  "img/caçadorisdartspeak/11.jpg"
+  ]
+}

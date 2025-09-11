@@ -1,0 +1,26 @@
+{
+  "titol":"pls! i'm a star!: espai balda",
+  "any": 2024,
+  "lloc": "La meva habitació, Drassanes",
+  "ciutat": "Barcelona",
+  "imatge_principal": "",
+  "projectes_relacionats": [],
+  "text": [
+    "Curadoria i esdeveniment de inauguració de la biblioteca sobre curadoria i performativitat que he comissariat a la meva habitació.", 
+    "A partir de la premissa 'els curadors llegeixen i porten ulleres' decideixo inaugurar el primer capítol de la investigació performàtica – sobre la lectura – que pretén dur-me a la fama curadorial.",
+    "Durant la inauguració es presenta la meva biblioteca hipersticional, activem el 'Political compass del curador' i encantem les meves ulleres de curadora professional per dotar-les de superpoders màgics."
+  ],
+  "galeria": [
+
+    "img/espaibalda/00.jpeg",
+    "img/espaibalda/01.jpeg",
+    "img/espaibalda/02.jpeg",
+    "img/espaibalda/03.jpeg",
+    "img/espaibalda/04.jpeg",
+    "img/espaibalda/05.jpeg",
+    "img/espaibalda/06.jpeg",
+    "img/espaibalda/07.jpeg",
+    "img/espaibalda/08.jpeg"
+  
+  ]
+}

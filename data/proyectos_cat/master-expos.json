@@ -1,0 +1,22 @@
+{
+  "titol":"masterclass d'expos",
+  "any": 2025,
+  "lloc": "Màster exposicions d'Eina, La Capella",
+  "ciutat": "Barcelona",
+  "imatge_principal": "",
+  "projectes_relacionats": [],
+  "text": [
+    "Masterclass per les alumnes del màster d'Exposicions: Curadoria i disseny d'Eina.",
+    ""
+  ],
+  "galeria": [
+    "img/masterclass/00.jpeg",
+    "img/masterclass/01.jpeg",
+    "img/masterclass/02.jpeg",
+    "img/masterclass/03.jpeg",
+    "img/masterclass/04.jpeg",
+    "img/masterclass/05.jpeg"
+
+  
+  ]
+}

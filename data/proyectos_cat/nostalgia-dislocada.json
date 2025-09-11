@@ -1,0 +1,24 @@
+{
+  "titol": "nostàlgia dislocada",
+  "any": "2025",
+  "lloc": "C.C. Pere Pruna",
+  "ciutat": "Barcelona",
+  "imatge_principal": "",
+  "text": [
+    "Acompanyament curadorial i museogràfic per a l'exposició d'Adela Bacardit.",
+    "“Nostàlgia dislocada” és una exposició que presenta una sèrie de vint-i-una imatges foto-realistes creades mitjançant eines d’intel·ligència artificial. A través d’aquestes imatges, l’artista explora el procés de dol que es dona en el pas de la infància cap a l’edat adulta, posant sobre la taula les pors i incerteses que acompanyen aquesta transició vital.",
+    ""
+  ],
+  "galeria": [
+    "img/nostalgiadislocada/00.jpeg", 
+    "img/nostalgiadislocada/01.jpeg",
+    "img/nostalgiadislocada/02.jpeg",
+    "img/nostalgiadislocada/03.jpeg",
+    "img/nostalgiadislocada/04.jpeg",
+    "img/nostalgiadislocada/05.jpeg",
+    "img/nostalgiadislocada/06.jpeg"
+  
+  ],
+  "projectes_relacionats": [
+  ]
+}

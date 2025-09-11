@@ -243,11 +243,11 @@ body {
   margin: auto;
 }
 
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   #descripcio {
     padding-top: 20vh;
   }
-}
+} */
 
 #projectes {
   min-height: 100dvh;
@@ -295,7 +295,7 @@ body {
   list-style: none;
   opacity: 0;
   animation: fadeInOut 5s linear infinite;
-  margin-top: 2vh;
+  margin-top: 1vh;
 }
 
 .serveis-grid li:nth-child(1) {
@@ -340,21 +340,40 @@ body {
 /**CONTACTE */
 
 #contacte {
-  display: flex;
-  flex-direction: column;
-  min-height: 100dvh;
-  padding: 20px 0;
   position: relative;
 }
 
+.contacte-grid {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  font-family: "Playwrite NL", cursive;
+  font-size: clamp(1.5rem, 4vw, 2.2rem);
+
+  justify-content: center;
+  align-items: center;
+}
+
+.contacte-grid li {
+  list-style: none;
+  margin-top: 2vh;
+}
+
+.contacte-grid li h5 {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+/* 
+
 #contacte h4 {
   flex-grow: 0.9;
-  /* Ocupa todo el espacio disponible */
+
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 0;
-  /* Elimina márgenes por defecto del h4 */
+
   padding-top: 10%;
 }
 
@@ -369,14 +388,14 @@ body {
   gap: 30px;
   justify-content: center;
   padding: 20px 0;
-  /* Espaciado vertical opcional */
+
 }
 
 @media (max-width: 767px) {
   .contacte-llinks {
     flex-direction: column;
   }
-}
+} */
 
 /*https://es.wikipedia.org/wiki/Colores_web*/
 
@@ -399,13 +418,15 @@ body {
 .projectes-col {
   display: flex;
   flex-direction: column;
-
-  width: 60vw;
   max-width: 80vw;
-
   margin: auto;
-
   gap: 2vh;
+}
+
+@media (min-width: 1200px) {
+  .projectes-col {
+    width: 60vw;
+  }
 }
 
 .projecte-link {
@@ -428,12 +449,20 @@ body {
 #projecte-content h1 {
   font-size: var(--h2-size);
   margin-bottom: 2rem;
+  text-align: center;
+  line-height: 1.5;
 }
 
 .projecte-any {
-  margin-top: 5vh;
+  margin-top: 3vh;
   font-size: 1.2rem;
 }
+
+.projecte-lloc-ciutat {
+  text-align: center;
+  padding: 0 10vh;
+}
+
 .galeria-img-clickable {
   cursor: pointer;
 }

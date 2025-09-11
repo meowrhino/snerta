@@ -1,0 +1,20 @@
+{
+  "titol": "30 anys de Can Basté",
+  "any": 2025,
+  "lloc": "Can Basté, Barcelona",
+  "imatge_principal": "",
+  "projectes_relacionats": [],
+  "text": "Exposició commemorativa dels 30 anys de Can Basté com a centre cívic i projecte cultural arrelat al barri del Turó de la Peira. La mostra recull la memòria d’activitats, tallers i projectes que han tingut lloc al centre, amb especial atenció la seva especialització, la fotografia. L’exposició es divideix en seccions temàtiques que combinen imatges, documents i materials d’arxiu, posant en valor el model de gestió cívica i el paper de la comunitat.",
+  "galeria": [
+    "img/canbaste/00.jpeg",
+    "img/canbaste/01.jpeg",
+    "img/canbaste/02.jpeg",
+    "img/canbaste/03.jpeg",
+    "img/canbaste/04.jpeg",
+    "img/canbaste/05.jpeg",
+    "img/canbaste/06.jpeg",
+    "img/canbaste/07.jpeg",
+    "img/canbaste/08.jpeg",
+    "img/canbaste/10.jpeg"
+  ]
+}
