@@ -1,5 +1,5 @@
 {
-  "titol": "unfunny _curator",
+  "titol": "♥︎ unfunny _curator ♥︎",
   "any": "actualitat",
   "lloc": "",
   "ciutat": "",
@@ -7,8 +7,8 @@
   "text": [
     "Unfunny_Curator és un alter ego curadorial i, també, un projecte de mediació crítica i divulgació on analitzo de manera irònica les diverses problemàtiques del món de l’art local i les dificultats de professionalització derivades de la precarietat del sector.", 
     "Es tracta d’una investigació performàtica – la qual reivindica la teatralitat com a eina epistèmica – que hibrida els espais físics amb els espais digitals, utilitzant les xarxes socials i experimentant amb formats com el meme, l’arxiu o l’assaig, alhora que incorporant formats com la mediació, la performance o la curadoria.",
-    "Algunes de les activacions d’Unfunny_Curator s’han dut a terme a espais com Hangar, La Capella, Estructuras 3000, la Fundació Miró, àngels barcelona o la meva pròpia habitació.",
-    "Es pot seguir el projecte a @unfunny_curator_official "
+    "Algunes de les activacions d’Unfunny_Curator s’han dut a terme a espais com Hangar, La Capella, Estructuras 3000, la Fundació Miró, àngels barcelona, Lo Pardal o la meva pròpia habitació.",
+    "Memes i accions a <a href=https://www.instagram.com/unfunny_curator_official/>@unfunny_curator_official</a> "
   ],
   "galeria": [
     
@@ -26,12 +26,28 @@
   ],
   "projectes_relacionats": [
     {
-      "titol": "tramas imaginarias",
-      "slug": "tramas-imaginarias"
+      "titol": "the curator's project",
+      "slug": "the-curators-project"
+    },
+     {
+      "titol": "masterclass d'expos",
+      "slug": "master-expos"
     },
     {
-      "titol": "holets",
-      "slug": "holets"
+      "titol": "un unfunny_curatTour",
+      "slug": "lluerna"
+    },
+    {
+      "titol": "this is a networking data visualization ;-)",
+      "slug": "networking-data"
+    },
+     {
+      "titol": "caçadoris d'artspeak",
+      "slug": "caçadoris-dartspeak"
+    },
+    {
+      "titol": "pls! i'm a star!: espai balda",
+      "slug": "espai-balda"
     }
   ]
 }
