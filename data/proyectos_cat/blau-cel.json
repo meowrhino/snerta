@@ -1,12 +1,12 @@
 {
   "titol": "blau cel",
   "any": "2024",
-  "lloc": "C.C. Pere Pruna",
+  "lloc": "<a href='https://www.instagram.com/ccperepruna/?hl=es'target='_blank'>C.C. Pere Pruna</a>",
   "ciutat": "Barcelona",
   "imatge_principal": "",
   "text": [
-    "Curadoria per l'exposició de Núria Cintero.",
-    "Blau Cel és una exposició de l’artista multidisciplinària Núria Cintero, qui a través de diferents formats com el dibuix, el tèxtil o el gravat, dirigeix la nostra mirada cap a escenes quotidianes i objectes del dia a dia, convidant-nos a repensar el valor estètic d’aquests i reivindicant la simplicitat i la banalitat de les coses."
+    "Curadoria per l'exposició de <a href='https://www.instagram.com/nuriacintero/?hl=es'target='_blank'>Núria Cintero</a>.",
+    "'Blau Cel' és una exposició de l’artista multidisciplinària Núria Cintero, qui a través de diferents formats com el dibuix, el tèxtil o el gravat, dirigeix la nostra mirada cap a escenes quotidianes i objectes del dia a dia, convidant-nos a repensar el valor estètic d’aquests i reivindicant la simplicitat i la banalitat de les coses."
   ],
   "galeria": [
   "img/blaucel/01.jpeg",

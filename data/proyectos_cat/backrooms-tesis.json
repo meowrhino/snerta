@@ -1,0 +1,26 @@
+{
+  "titol": "the backrooms",
+  "any": 2022,
+  "lloc": "<a href='https://www.eina.cat/ca'target='_blank'>eina</a>",
+  "ciutat": "barcelona",
+  "imatge_principal": "",
+  "projectes_relacionats": [],
+  "text": [
+    "Projecte final del postgrau <a href='https://www.eina.cat/ca/master-curadoria-dart-i-disseny'target='_blank'y>Exposicions: Curadoria, disseny i espai</a> que parteix de la premisa: una exposició imaginària. La proposta expositiva es genera arrel d’investigar l’estètica d’internet Liminal Space, que recull imatges familiars i a la vegada extranyes (com un centre comercial buit o un passadís d’institut a les tres de la matinada), així com de la ficció col·lectiva i arxiu de font oberta de The Backrooms.", 
+    "Partint d’aquesta premisa es proposa una exposició situada al CCCB que tradueix i replica les característiques d’aquesta particular llegenda urbana que té obsessionats a milions d’internautes.",
+    "<a href='data/arxius/BertaEsteve_TheBackrooms_Project.pdf' target='_blank'>Descarregar projecte complet.</a>",
+    "Dins del marc de la investigació <a href='projecte.html?slug=backrooms'>sobre els Backrooms</a>."
+  ],
+  "galeria": [
+  "img/backroomtesis/00.png",
+  "img/backroomtesis/01.jpeg",
+  "img/backroomtesis/02.jpeg",
+  "img/backroomtesis/03.jpeg",
+  "img/backroomtesis/04.jpeg",
+  "img/backroomtesis/05.jpeg",
+  "img/backroomtesis/06.jpeg",
+  "img/backroomtesis/07.jpeg",
+  "img/backroomtesis/08.jpeg"
+  
+  ]
+}

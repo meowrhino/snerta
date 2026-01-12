@@ -1,0 +1,29 @@
+{
+  "titol": "liminal hunting",
+  "any": 2022,
+  "lloc": "online",
+  "ciutat": "",
+  "imatge_principal": "",
+  "projectes_relacionats": [],
+  "text": [
+     "Sèrie fotogràfica on col·lecciono imatges de potencials Backrooms detectats per allà on vaig. Es tracta de halls d'hotels, restaurants, bugaderies, parcs o oficines que emeten una aura inquietant.",
+     "Dins del marc de la investigació <a href='projecte.html?slug=backrooms'>sobre els Backrooms</a>."
+  ],
+  "galeria": [
+    "img/liminalhunting/00.jpeg",
+    "img/liminalhunting/01.jpeg",
+    "img/liminalhunting/02.jpeg",
+    "img/liminalhunting/03.jpeg",
+    "img/liminalhunting/04.jpeg",
+    "img/liminalhunting/05.jpeg",
+    "img/liminalhunting/06.jpeg",
+    "img/liminalhunting/07.jpeg",
+    "img/liminalhunting/08.jpeg",
+    "img/liminalhunting/09.jpeg",
+    "img/liminalhunting/10.jpeg",
+    "img/liminalhunting/12.jpeg",
+    "img/liminalhunting/13.jpeg",
+    "img/liminalhunting/14.jpeg"
+
+  ]
+}

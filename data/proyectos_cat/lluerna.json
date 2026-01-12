@@ -1,16 +1,17 @@
 {
   "titol": "un unfunny _curatour",
   "any": 2025,
-  "lloc": "fundació miró, lluerna: un museu possible",
+  "lloc": "<a href='https://www.fmirobcn.org/es/?utm_marketing_tactic=::::&gad_source=1&gad_campaignid=22252649908&gbraid=0AAAAAoRYtzwpQ4qSUdRvdRGcJXOEL3PX6&gclid=Cj0KCQiA5abIBhCaARIsAM3-zFXAWw7IKz1iZvkBWy1vwIhzZKWufhwazV8fvAHzPlcsBRn9mw3IpuEaAhrkEALw_wcB'target='_blank'>fundació miró</a>",
   "ciutat": "barcelona",
   "imatge_principal": "",
   "sinopsi": "",
   "projectes_relacionats": [],
   "text": [
-    "L'Unfunny_CuraTour va ser un tour exprés pel museu en clau d'artspeak, el llenguatge tècnic i sovint críptic del món de l'art, que adaptava el format del taller Caçadoris d'Artspeak en el context concret de la fundació.",
-    "La tasca dels participants era caçar i transcriure l'artspeak del discurs d'Unfunny_Curator, alhora que seguir el seu ritme frenètic i realitzar una sèrie de rols assignats a l'inici del tour. Vam poder comptar amb:",
+    "L'Unfunny_CuraTour va ser un tour exprés pel museu en clau d'artspeak, el llenguatge tècnic i sovint críptic del món de l'art. La tasca dels participants era caçar i transcriure l'artspeak del discurs del guia, alhora que seguir el seu ritme frenètic i realitzar una sèrie de rols assignats a l'inici del tour.", 
+    "Vam poder comptar amb:",
     "El polsador, encarregat de pitjar el botó d'alarma cada cop que es detectés artspeak. El transcriptor, encarregat de transcriure els mots detectats pel polsador. La bandera, encarregat d'assenyalar la localització del tour. El fotògraf, encarregat de registrar l'esdeveniment. El megàfon, amb el poder de canviar els rols dels assistents en qualsevol moment.",
-    "Al cicle Lluerna també hi van participar Mar García i Javi Soler, Agustina Fioretti i Sofia Montecinos."
+    "Projecte dins del cicle <a href='https://www.fmirobcn.org/ca/activitats/lluerna/9/lluerna-un-museu-possible'target='_blank'>Lluerna 8: un museu possible</a> on també hi participen <a href='https://www.instagram.com/margarciapink/?hl=es'target='_blank'>Mar García</a> i <a href='https://www.instagram.com/javisoler2/?hl=es'target='_blank'>Javi Soler</a>, <a href='https://agustinafioretti.cargo.site/'target='_blank'>Agustina Fioretti</a> i <a href='https://www.instagram.com/sofiamontecinosm/?hl=es'target='_blank'>Sofia Montecinos</a>.", 
+   "Dins del marc d' <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
   ],
   "galeria": [
     "img/lluerna/00.jpeg",

@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Playwrite+NL:wght@100..400&display=swap");
 
 :root {
-  --background--color: #3f3d3a;
-  --text--color: cornsilk;
-  --hs--color: mistyrose;
-  --a--color: #ff877a;
-  --a--color--hover: #40e6b0;
+  --background--color: hsl(0, 0%, 100%);
+  --text--color: #303030;
+  --hs--color: #ff99a5;
+  --a--color: #5C67FF;
+  --a--color--hover: DarkOliveGreen;
 
   --h1-size: clamp(2.5rem, 8vw, 8rem);
   --h2-size: clamp(2rem, 6vw, 5rem);
@@ -80,13 +80,13 @@ p {
 }
 
 .menu-links a {
-  color: LightGray;
-  font-weight: 400;
+  color: #FF99a5;
+  font-weight: 590;
   text-decoration: none;
   transition: color 0.2s;
 }
 .menu-links a.active {
-  color: #ff8c42;
+  color: #3f3d3a;
   font-weight: bold;
 }
 .menu-links a:hover {

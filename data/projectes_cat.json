@@ -1,6 +1,17 @@
 [
    {
     "categoria": "curadoria",
+    "slug": "caixa-sorpresa",
+    "titol": "caixa sorpresa grup d'estudi",
+    "espai": "la capella",
+    "ciutat": "barcelona",
+    "text": "exposició comissariada a l'Espai Rampa",
+    "feina": "curadoria i coordinació",
+    "any": 2025
+  },
+
+   {
+    "categoria": "curadoria",
     "slug": "30-anys-de-can-baste",
     "titol": "30 anys de can basté",
     "espai": "can basté",
@@ -105,6 +116,16 @@
     "feina": "co-curadoria i comunicació",
     "any": "2023"
   },
+    {
+    "categoria": "curadoria",
+    "slug": "backrooms-tesis",
+    "titol": "the backrooms",
+    "espai": "eina",
+    "ciutat": "barcelona",
+    "text": "prototip expositiu",
+    "feina": "",
+    "any": "2022"
+  },
 
   {
     "categoria": "investigacio",
@@ -131,12 +152,23 @@
   {
     "categoria": "investigacio",
     "slug": "sobre-fanfiction",
-    "titol": "you're invited to my room",
+    "titol": "fanfiction",
     "espai": "",
     "ciutat": "",
-    "text": "sobre fanfiction i fandoms",
+    "text": "sobre ficcions col·lectives i fandoms",
     "feina": "",
     "any": "2018-2021"
+  },
+
+  {
+    "categoria": "exposicions",
+    "slug": "la-gran-cura",
+    "titol": "la gran cura; tot tombant, convoco",
+    "espai": "lo pardal",
+    "ciutat": "agramunt",
+    "text": "exposició col·lectiva amb Laura Albajar i Enric Marzà per Lo Niu '25",
+    "feina": "com a unfunny_curator",
+    "any": "2025"
   },
 
   {
@@ -160,7 +192,16 @@
     "feina": "",
     "any": "2024"
   },
-
+{
+    "categoria": "exposicions",
+    "slug": "liminal-hunting",
+    "titol": "liminal hunting",
+    "espai": "online",
+    "ciutat": "",
+    "text": "projecte de fotografia",
+    "feina": "",
+    "any": "2022 - present"
+  },
   {
     "categoria": "exposicions",
     "slug": "vip-zone",
@@ -195,6 +236,26 @@
   },
 
  {
+    "categoria": "mediacio",
+    "slug": "meditacio-massana",
+    "titol": "masterclass, tot anirà bé",
+    "espai": "escola massana",
+    "ciutat": "barcelona",
+    "text": "classe",
+    "feina": "ponència + meditació pel tfg",
+    "any": "2025"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "fuera-carta",
+    "titol": "encuentros fuera de carta",
+    "espai": "cccb",
+    "ciutat": "barcelona",
+    "text": "col·laboració amb Zuloark pel congrés de Cultura i ciutadania",
+    "feina": "mediadora",
+    "any": "2025"
+  },
+{
     "categoria": "mediacio",
     "slug": "master-expos",
     "titol": "masterclass, màster d'exposicions d'eina",

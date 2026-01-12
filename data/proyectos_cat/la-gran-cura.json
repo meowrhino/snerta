@@ -1,0 +1,28 @@
+{
+  "titol": "la gran cura",
+  "any": "2025",
+  "lloc": "<a href='https://www.lopardal.com/'target='_blank'>lo pardal - fundació guillem viladot</a>",
+  "ciutat": "agramunt",
+  "imatge_principal": "",
+  "text": [
+    "‘La gran cura’ és una macroexposició. ‘La gran cura’ és una gimcana. ‘La gran cura’ és el comissariat més gran que ha fet <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a> fins la data.",
+    "Aquest projecte és una publicació expandida i una gimcana per Agramunt on es proposa als participants que recullin textos per diversos punts del poble. Es tracta de textos de sala escrits per a establiments com una perruqueria, una ferreteria, una església o un cementiri, proposant llegir aquests espais de la mateixa manera que les exposicions d'art contemporani i obrint un debat sobre el llenguatge i el discurs que s'utilitza en el sector.",
+    "Dins del marc de l'exposició <a href='https://www.lopardal.com/exposicions-lo-pardal-actuals-fitxa.php?id=110'target='_blank'>Tot tombant, convoco</a> de <a href='https://www.instagram.com/lauraalbajar/?hl=es'target='_blank'>Laura Albajar</a>, <a href='https://www.instagram.com/enricmarza/?hl=es'target='_blank'>Enric Marzà</a> i <a href='https://www.instagram.com/unfunny_curator_official/?hl=es' target='_blank'>Unfunny_Curator</a>, resultat de la residència de creació <a href='https://www.lopardal.com/lo-niu.php' target='_blank'>Lo Niu 2025</a>.",
+    "Dins del marc d' <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+  ],
+  "galeria": [
+    "img/lagrancura/00.jpeg",
+    "img/lagrancura/01.jpeg",
+    "img/lagrancura/02.jpg",
+    "img/lagrancura/03.jpeg",
+    "img/lagrancura/04.jpg",
+    "img/lagrancura/05.jpeg",
+    "img/lagrancura/06.jpg",
+    "img/lagrancura/07.jpeg",
+    "img/lagrancura/08.jpg",
+    "img/lagrancura/09.jpg",
+    "img/lagrancura/10.jpeg",
+    "img/lagrancura/11.jpg"
+  ],
+  "projectes_relacionats": []
+}

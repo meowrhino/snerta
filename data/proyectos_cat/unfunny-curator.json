@@ -1,5 +1,5 @@
 {
-  "titol": "♥︎ unfunny _curator ♥︎",
+  "titol": "sobre unfunny _curator",
   "any": "actualitat",
   "lloc": "",
   "ciutat": "",
@@ -7,8 +7,8 @@
   "text": [
     "Unfunny_Curator és un alter ego curadorial i, també, un projecte de mediació crítica i divulgació on analitzo de manera irònica les diverses problemàtiques del món de l’art local i les dificultats de professionalització derivades de la precarietat del sector.", 
     "Es tracta d’una investigació performàtica – la qual reivindica la teatralitat com a eina epistèmica – que hibrida els espais físics amb els espais digitals, utilitzant les xarxes socials i experimentant amb formats com el meme, l’arxiu o l’assaig, alhora que incorporant formats com la mediació, la performance o la curadoria.",
-    "Algunes de les activacions d’Unfunny_Curator s’han dut a terme a espais com Hangar, La Capella, Estructuras 3000, la Fundació Miró, àngels barcelona, Lo Pardal o la meva pròpia habitació.",
-    "Memes i accions a <a href=https://www.instagram.com/unfunny_curator_official/>@unfunny_curator_official</a> "
+    "Algunes de les activacions d’Unfunny_Curator s’han dut a terme a espais com <a href='https://hangar.org/es/'target='_blank'>Hangar</a>, <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>, <a href='https://www.fmirobcn.org/es/?utm_marketing_tactic=::::&gad_source=1&gad_campaignid=22252649908&gbraid=0AAAAAoRYtzwpQ4qSUdRvdRGcJXOEL3PX6&gclid=Cj0KCQiA5abIBhCaARIsAM3-zFXAWw7IKz1iZvkBWy1vwIhzZKWufhwazV8fvAHzPlcsBRn9mw3IpuEaAhrkEALw_wcB'target='_blank'>Fundació Miró</a>, <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona</a>, <a href='https://www.lopardal.com/'target='_blank'>Lo Pardal</a> o la meva pròpia habitació.",
+    "Pots seguir-me a <a href='https://www.instagram.com/unfunny_curator_official/'target='_blank'>@unfunny_curator_official</a> "
   ],
   "galeria": [
     
@@ -25,6 +25,14 @@
     "img/unfunnyCurator/10.jpg"
   ],
   "projectes_relacionats": [
+     {
+      "titol": "masterclass: tot anirà bé",
+      "slug": "meditacio-massana"
+    },
+    {
+      "titol": "la gran cura",
+      "slug": "la-gran-cura"
+    },
     {
       "titol": "the curator's project",
       "slug": "the-curators-project"
@@ -48,6 +56,14 @@
     {
       "titol": "pls! i'm a star!: espai balda",
       "slug": "espai-balda"
+    },
+     {
+      "titol": "cap a una investigació performàtica",
+      "slug": "investigacio-performatica"
+    },
+     {
+      "titol": "berta esteve is not illiterate (anymore)",
+      "slug": "not-illiterate"
     }
   ]
 }

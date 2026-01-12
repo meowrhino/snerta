@@ -1,13 +1,13 @@
 {
   "titol":"masterclass d'expos",
   "any": 2025,
-  "lloc": "Màster exposicions d'Eina, La Capella",
+  "lloc": "<a href='https://www.lacapella.barcelona/es'target='_blank'>la capella</a>",
   "ciutat": "Barcelona",
   "imatge_principal": "",
   "projectes_relacionats": [],
   "text": [
-    "Masterclass per les alumnes del màster d'Exposicions: Curadoria i disseny d'Eina.",
-    ""
+    "Masterclass per les alumnes del màster d'<a href='https://www.eina.cat/ca/master-curadoria-dart-i-disseny'target='_blank'>Exposicions: Curadoria i disseny</a> d'Eina.", 
+    "Dins del marc d' <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>"
   ],
   "galeria": [
     "img/masterclass/00.jpeg",

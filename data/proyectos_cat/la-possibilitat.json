@@ -1,14 +1,15 @@
 {
   "titol": "la possibilitat de no haver sigut",
   "any": "2023",
-  "lloc": "Santa Mònica",
+  "lloc": "<a href='https://www.santamonica.cat/es'target='_blank'>Santa Mònica</a>",
   "ciutat": "Barcelona",
   "imatge_principal": "",
   "text": [
-    "Participació a la taula curadorial per a l'exposició col·lectiva com a membre i coordinadora de Grup d'Estudi.",
-   "Aquesta mostra funciona com a annex de l’exposició Antifuturismo Cimarrón, visitable simultàniament a la Virreina i a la planta baixa de Santa Mònica, i parteix d’una pregunta que sorgeix als seminaris preparatius d’aquesta: Què passaria si Europa, com a trop, no hagués existit?",
+    "Participació a la taula curadorial per a l'exposició col·lectiva com a membre i coordinadora de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+   "<a href='https://www.santamonica.cat/ca/exposicions-i-activitats/exposicions/2023/la-possibilitat-denohaversigut'target='_blank'>La possibilitat de no haver sigut</a> funciona com a annex de l’exposició <a href='https://ajuntament.barcelona.cat/lavirreina/es/exposiciones/anti-futurismo-cimarron/663'target='_blank'>Antifuturismo Cimarrón</a> i parteix de la següent pregunta: Què passaria si Europa, com a trop, no hagués existit?",
    "Tenint en compte la paradoxa de plantejar aquesta pregunta dins la institució museística i dins territori europeu, Grup d’Estudi ha optat per afrontar la tasca curatorial com a un exercici de reflexió entorn el propi procés de treball, problematitzant l’encàrrec en si mateix i proposant un contrarelat. Aquest es manifesta de manera gràfica i performàtica, intervenint els formats expositius i el programa de mediació i activitats.",
-   "Co-curadoria: Grup d'Estudi, Difraccions, Flux, Jiser i Sabers migrants, Koniclab, Mixtur i Sâlmon."
+   "Co-curadoria: <a href='https://www.instagram.com/grupdestudi/?hl=es'target='_blank'>Grup d'Estudi</a>, <a href='https://difraccions.cat/'target='_blank'>Difraccions</a>, <a href='https://www.fluxfestival.org/'target='_blank'>Flux</a>, <a href='https://jiser.org/es/'target='_blank'>Jiser</a> i <a href='https://sabersmigrants.net/es/'target='_blank'>Sabers Migrants</a>, <a href='https://koniclab.info/'target='_blank'>Kònic Thtr</a>, <a href='https://mixturbcn.com/es'target='_blank'>Mixtur</a> i <a href='https://www.festivalsalmon.com/es/'target='_blank'>Sâlmon</a>.",
+   "Dins del marc de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>."
   ],
   "galeria": [
     "img/lapossibilitat/00.jpg",

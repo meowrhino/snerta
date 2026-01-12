@@ -1,15 +1,16 @@
 {
   "titol": "caçadoris d'artspeak",
   "any": 2025,
-  "lloc": "hangar",
+  "lloc": "<a href='https://hangar.org/es/'target='_blank'>hangar.org</a>",
   "ciutat": "barcelona",
   "imatge_principal": "",
   "sinopsi": "",
   "projectes_relacionats": [],
   "text": [
-    "Activitat d'Unfunny_Curator en què es proposava detectar, analitzar i xerrar sobre artspeak: les paraulotes del món de l’art. Un llenguatge especialitzat i característic que condiciona la manera en què ens relacionem amb les exposicions i els projectes artístics, ja sigui com a agents del món de l’art o com a consumidors culturals. ",
+    "Activitat d'<a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a> en què es proposava detectar, analitzar i xerrar sobre artspeak: les paraulotes del món de l’art. Un llenguatge especialitzat i característic que condiciona la manera en què ens relacionem amb les exposicions i els projectes artístics, ja sigui com a agents del món de l’art o com a consumidors culturals. ",
     "Vam analitzar fulls de sala diversos, detectant, emmagatzemant i debatent les nostres troballes. També vam disseccionar alguns statements o textos de projectes propis dels assistents. I, finalment vam bolcar totes les paraulotes caçades al xat gpt i li vam demanar que creés el text de sala definitiu.",
-    "Activitat dins del marc del màster Murad i amb la participació de Grup d'Estudi."
+    "Activitat vinculada al màster <a href='https://www.eina.cat/es/master-universitario-investigacion-arte-diseno'target='_blank'>MURAD</a> i amb la participació de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+    "Dins del marc d' <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
   ],
   "galeria": [
   "img/caçadorisdartspeak/00.jpg",

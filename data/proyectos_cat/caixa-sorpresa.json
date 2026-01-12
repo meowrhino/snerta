@@ -1,0 +1,26 @@
+{
+  "titol":"caixa sorpresa grup d'estudi",
+  "any": 2025,
+  "lloc": "<a href='https://www.lacapella.barcelona/es' target='_blank'>la capella</a>",
+  "ciutat": "barcelona",
+  "imatge_principal": "",
+  "projectes_relacionats": [],
+  "text": [
+    "Grup d'Estudi converteix l'Espai Rampa de La Capella en una caixa sorpresa. <a href='https://www.lacapella.barcelona/ca/programacio/exposicions/caixa-sorpresa-grup-destudi'target='_blank'>Caixa sorpresa Grup d'Estudi</a> succeeix en un dispositiu expositiu obra d'<a href='https://estructuras3000.com/'target='_blank'>Estructures 3000</a> s'obre quatre vegades per a revelar quatre exposicions escollides mitjançant quatre convocatòries experimentals.",
+    "Projecte de comissariat escollit a les beques Barcelona Creació '24.",
+    "Dins del marc de <a href='projecte.html?slug=grup-destudi'>Grup d'Estudi</a>."
+  ],
+  "galeria": [
+    "img/caixasorpresa/00.jpg",
+    "img/caixasorpresa/01.jpg",
+    "img/caixasorpresa/02.jpg",
+    "img/caixasorpresa/03.jpg",
+    "img/caixasorpresa/04.jpg",
+    "img/caixasorpresa/05.jpg",
+    "img/caixasorpresa/06.jpg",
+    "img/caixasorpresa/07.jpg",
+    "img/caixasorpresa/08.jpg",
+    "img/caixasorpresa/09.jpg"
+  
+  ]
+}

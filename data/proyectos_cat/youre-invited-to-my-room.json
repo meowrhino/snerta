@@ -1,0 +1,24 @@
+{
+  "titol": "you're invited to my room",
+  "any": 2018,
+  "lloc": "la meva habitació",
+  "ciutat": "barcelona",
+  "imatge_principal": "",
+  "sinopsi": "",
+  "projectes_relacionats": [],
+  "text": [
+   "Esdeveniment que consta en l’acció d’obrir les portes de la meva habitació durant un cap de setmana sencer, on presento un univers espacial i emocional al que només hi podràn accedir els pocs que hi siguin convidats: els meus millors amics. L’habitació, dotada de connexió a internet, és on totes aquestes pràctiques viuen lliurement.",
+   "Materialització i proposta que sorgeix de la investigació teòrica 'You're invited to my room', explora les pràctiques fan i el fenòmen del fanfiction.",
+   "Dins del marc de la investigació <a href='projecte.html?slug=sobre-fanfiction'>sobre el fanfiction</a>."
+  ],
+  "galeria": [
+  "img/youreinvited/00.jpeg",
+  "img/youreinvited/01.jpeg",
+  "img/youreinvited/02.jpeg",
+  "img/youreinvited/03.jpeg",
+  "img/youreinvited/04.jpeg"
+
+
+
+  ]
+}

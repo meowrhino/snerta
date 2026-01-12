@@ -1,14 +1,15 @@
 {
   "titol": "the curator's project",
   "any": "2025",
-  "lloc": "del poder sobre el poder, Estructuras 3000",
+  "lloc": "<a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>",
   "ciutat": "Esplugues de Llobregat",
   "imatge_principal": "",
   "text": [
-    "The Curator's Project és una sèrie de fotografies on Unfunny_Curator, el meu alter ego curadorial, imita retrats extrets d'internet de directors de museus locals, en un intent de manifestar el meu desig d'esdevenir una curadora exitosa del sector.",
+    "<a href='https://www.instagram.com/p/DMLn55zqoF4/?hl=es&img_index=1'target='_blank'>The Curator's Project</a> és una sèrie de fotografies on Unfunny_Curator, el meu alter ego curadorial, imita retrats extrets d'internet de directors de museus locals, en un intent de manifestar el meu desig d'esdevenir una curadora exitosa del sector.",
     "Aquest gest mimètic em permet estudiar aquestes figures i les seves maneres de presentar-se i representar-se — la seva indumentària, postura, presència, expressió, així com els espais que habiten —, alhora que realitzar un exercici hipersticional on el pensament màgic, la manifestació i la transfiguració esdevenen eines tant útils com absurdes.", 
-    "Fotografies de Sofia Montecinos.",
-    "Aquest projecte es va mostrar a l'exposició Del poder sobre el poder a Estructuras 3000, amb activacions de Jordi Bretcha, Bet Pahissa i Ainara Elejalde."
+    "Aquest projecte es va mostrar a l'exposició Del poder sobre el poder a <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>, amb activacions de <a href='https://www.instagram.com/jordibretcha/?hl=es'target='_blank'>Jordi Bretcha</a>, <a href='https://www.instagram.com/betpahissa/?hl=es'target='_blank'>Bet Pahissa</a> i <a href='https://www.instagram.com/ainara.bel/?hl=es'target='_blank'>Ainara Elejalde</a>.",
+    "Dins del marc d' <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>", 
+    "Fotografies de <a href='https://www.instagram.com/sofiamontecinosm/?hl=es'target='_blank'>Sofia Montecinos</a>."
   ],
   "galeria": [
     "img/thecuratorsproject/01.jpeg",

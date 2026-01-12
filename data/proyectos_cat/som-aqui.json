@@ -1,11 +1,11 @@
 {
   "titol": "som aquí",
   "any": "2023",
-  "lloc": "C.C. Urgell",
+  "lloc": "<a href='https://www.ccurgell.cat/'target='_blank'>C.C.Urgell</a>",
   "ciutat": "Barcelona",
   "imatge_principal": "",
   "text": [
-   "Acompanyament de l'exposició Som aquí de Sira Lobo, dins del marc del festival d'il·lustració Il·luLola 2023.",
+   "Acompanyament de l'exposició <a href='https://www.siralobo.com/project/som-aqui-solo-exhibition/'target='_blank'>Som aquí</a> de <a href='https://www.siralobo.com/'target='_blank'>Sira Lobo</a>, dins del marc del <a href='https://www.ccurgell.cat/illulola-festival-dillustracio-infantil-i-juvenil/'target='_blank'>Festival Il·luLola</a>.",
    "L’exposició proposa una redescoberta de l’espai urbà desmuntant el paisatge a través de la il·lustració i el reconstruïnt-lo a través del joc. Fent visible allò que és invisible, el que és efímer i el que no fa soroll, l'artista ens apropa al barri de la nova esquerra de l'eixample fent un passeig d’alçada per baixar-hi a poc a poc i explorar de quina manera el mirem i l’habitem."
 
   ],
