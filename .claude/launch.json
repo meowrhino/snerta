@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "snerta",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/private/tmp/claude-501/-Users-meowrhino-Documents-GitHub-snerta/743b7d77-d97c-4f2b-9c28-20f2a73198e8/scratchpad/server.js"],
+      "port": 8340
+    }
+  ]
+}

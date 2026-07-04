@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Playwrite+NL:wght@100..400&display=swap");
+/* La fuente Playwrite NL se carga desde el <head> de cada html (preconnect + link) */
 
 :root {
   --background--color: hsl(0, 0%, 100%);

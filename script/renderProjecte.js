@@ -45,7 +45,7 @@ function renderProyecto(datos) {
   
   // Imagen principal
   if (datos.imatge_principal) {
-    html += `<img src="${datos.imatge_principal}" alt="${datos.titol}" class="imatge-principal" />`;
+    html += `<img src="${datos.imatge_principal}" alt="${datos.titol}" class="imatge-principal" decoding="async" />`;
   }
 
   // Texto 1
@@ -71,7 +71,7 @@ function renderProyecto(datos) {
     html +=
       `<div class="galeria">` +
       datos.galeria
-        .map((img, idx) => `<img src="${img}" data-idx="${idx}" alt="">`)
+        .map((img, idx) => `<img src="${img}" data-idx="${idx}" alt="" loading="lazy" decoding="async">`)
         .join("") +
       `</div>`;
   }
@@ -122,14 +122,20 @@ function crearPopupGaleriaSimple(imagenes, idxInicial = 0) {
     }, 0);
   }
 
+  // Cierra el popup y limpia el listener de teclado
+  function cerrarPopup() {
+    overlay.remove();
+    document.removeEventListener("keydown", keyHandler);
+  }
+
   // Cerrar al hacer click fuera de strip
   overlay.onclick = (e) => {
-    if (e.target === overlay) overlay.remove();
+    if (e.target === overlay) cerrarPopup();
   };
 
   // Tecla escape cierra
   function keyHandler(e) {
-    if (e.key === "Escape") overlay.remove();
+    if (e.key === "Escape") cerrarPopup();
     if (e.key === "ArrowLeft") {
       idxActual = (idxActual - 1 + imagenes.length) % imagenes.length;
       renderStrip();
@@ -140,15 +146,6 @@ function crearPopupGaleriaSimple(imagenes, idxInicial = 0) {
     }
   }
   document.addEventListener("keydown", keyHandler);
-
-  // Limpia eventos al cerrar
-  overlay.addEventListener("remove", () => {
-    document.removeEventListener("keydown", keyHandler);
-  });
-  overlay.ontransitionend = function () {
-    if (!document.body.contains(overlay))
-      document.removeEventListener("keydown", keyHandler);
-  };
 
   renderStrip();
 }

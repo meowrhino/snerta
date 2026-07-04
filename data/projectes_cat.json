@@ -344,6 +344,17 @@
   },
 
   {
+    "categoria": "mediacio",
+    "slug": "level-362",
+    "titol": "level 362",
+    "espai": "eina",
+    "ciutat": "barcelona",
+    "text": "gimcana de terror dins la investigació sobre els backrooms",
+    "feina": "",
+    "any": "2022"
+  },
+
+  {
     "categoria": "text",
     "slug": "investigacio-performatica",
     "titol": "cap a una investigació performàtica: teatralitat com a metodologia de recerca experimental",
@@ -400,7 +411,6 @@
 
   {
     "categoria": "text",
-    "slug": "dont-remember-artists",
     "titol": "why i don't remember artists",
     "espai": "wetland.network",
     "ciutat": "en línia",

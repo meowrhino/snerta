@@ -21,9 +21,19 @@ function renderProjecteLinea(p) {
     p.any
   ].filter(Boolean).join(', ');
 
+  // con "slug" enlaza a la ficha; con "url" enlaza fuera; sin ninguno, solo texto
+  let titol;
+  if (p.slug) {
+    titol = `<a href="projecte.html?slug=${p.slug}" class="projecte-link"><strong>${p.titol}</strong></a>`;
+  } else if (p.url) {
+    titol = `<a href="${p.url}" target="_blank" class="projecte-link"><strong>${p.titol}</strong></a>`;
+  } else {
+    titol = `<strong>${p.titol}</strong>`;
+  }
+
   return `
     <div class="projecte-linia">
-      <a href="projecte.html?slug=${p.slug}" class="projecte-link"><strong>${p.titol}</strong></a>${linea ? ', ' + linea : ''}
+      ${titol}${linea ? ', ' + linea : ''}
     </div>
   `;
 }
@@ -62,11 +72,6 @@ function renderMenuLinks() {
 
   document.body.appendChild(menu);
 }
-
-document.addEventListener('DOMContentLoaded', () => {
-  renderProjectesPorCategoria();
-  // renderMenuLinks();
-});
 
 // === Anclaje robusto tras render dinámico ===
 
