@@ -1,0 +1,25 @@
+{
+  "titol": "pls! i'm a star!: espai balda",
+  "any": 2024,
+  "lloc": "La meva habitació, Drassanes",
+  "ciutat": "Barcelona",
+  "imatge_principal": "",
+  "projectes_relacionats": [],
+  "text": [
+    "Curating and opening event of the library on curating and performativity that I curated in my bedroom.",
+    "Starting from the premise 'curators read and wear glasses', I decide to open the first chapter of the performative research –on reading– that aims to bring me curatorial fame.",
+    "During the opening my hyperstitional library is presented, we activate the 'Curator's Political Compass' and enchant my professional curator glasses to grant them magical superpowers.",
+    "As part of <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+  ],
+  "galeria": [
+    "img/espaibalda/00.webp",
+    "img/espaibalda/01.webp",
+    "img/espaibalda/02.webp",
+    "img/espaibalda/03.webp",
+    "img/espaibalda/04.webp",
+    "img/espaibalda/05.webp",
+    "img/espaibalda/06.webp",
+    "img/espaibalda/07.webp",
+    "img/espaibalda/08.webp"
+  ]
+}

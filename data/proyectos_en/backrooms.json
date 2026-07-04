@@ -1,0 +1,40 @@
+{
+  "titol": "about the backrooms",
+  "any": "2022 - 2025",
+  "lloc": "",
+  "ciutat": "",
+  "imatge_principal": "",
+  "sinopsi": "",
+  "projectes_relacionats": [
+    {
+      "titol": "the backrooms",
+      "slug": "backrooms-tesis"
+    },
+    {
+      "titol": "level 362",
+      "slug": "level-362"
+    },
+    {
+      "titol": "liminal hunting",
+      "slug": "liminal-hunting"
+    },
+    {
+      "titol": "the backrooms: analog found footage",
+      "slug": "vist-des-denlloc"
+    },
+    {
+      "titol": "an industrial after-life",
+      "slug": "after-life"
+    }
+  ],
+  "text": [
+    "'If you're not careful and you no-clip out of reality in the wrong areas, you'll end up in the Backrooms, where there's nothing but the stink of old, damp carpet, the madness of mono-yellow, the endless sound of fluorescent lights buzzing and flickering, and approximately six hundred million square miles of randomly segmented empty rooms where you'll be trapped. God help you if you hear something wandering nearby, because it sure as hell has heard you too.'",
+    "This is a research project on the cybernetic horror legend and collective fiction of the Backrooms, exploring liminal horror in the form of essay, speculative exhibition, photographic report, short film or scavenger hunt. Passing through spaces such as <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href=https://www.eina.cat/ca>EINA</a>, <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona</a> or <a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>."
+  ],
+  "galeria": [
+    "img/thebackrooms/00.webp",
+    "img/thebackrooms/01.webp",
+    "img/thebackrooms/02.webp",
+    "img/thebackrooms/03.webp"
+  ]
+}

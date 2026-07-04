@@ -1,0 +1,68 @@
+{
+  "titol": "about unfunny _curator",
+  "any": "present",
+  "lloc": "",
+  "ciutat": "",
+  "imatge_principal": "",
+  "text": [
+    "Unfunny_Curator is a curatorial alter ego and also a project of critical mediation and dissemination where I ironically analyse the various issues of the local art world and the difficulties of professionalisation arising from the sector's precariousness.",
+    "It is a performative research –which vindicates theatricality as an epistemic tool– that hybridises physical and digital spaces, using social media and experimenting with formats such as the meme, the archive or the essay, while incorporating formats such as mediation, performance or curating.",
+    "Some of Unfunny_Curator's activations have taken place in spaces such as <a href='https://hangar.org/es/'target='_blank'>Hangar</a>, <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>, <a href='https://www.fmirobcn.org/es/?utm_marketing_tactic=::::&gad_source=1&gad_campaignid=22252649908&gbraid=0AAAAAoRYtzwpQ4qSUdRvdRGcJXOEL3PX6&gclid=Cj0KCQiA5abIBhCaARIsAM3-zFXAWw7IKz1iZvkBWy1vwIhzZKWufhwazV8fvAHzPlcsBRn9mw3IpuEaAhrkEALw_wcB'target='_blank'>Fundació Miró</a>, <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona</a>, <a href='https://www.lopardal.com/'target='_blank'>Lo Pardal</a> or my own bedroom.",
+    "You can follow me at <a href='https://www.instagram.com/unfunny_curator_official/'target='_blank'>@unfunny_curator_official</a> "
+  ],
+  "galeria": [
+    "img/unfunnyCurator/00.webp",
+    "img/unfunnyCurator/01.webp",
+    "img/unfunnyCurator/02.webp",
+    "img/unfunnyCurator/03.webp",
+    "img/unfunnyCurator/04.webp",
+    "img/unfunnyCurator/05.webp",
+    "img/unfunnyCurator/06.webp",
+    "img/unfunnyCurator/07.webp",
+    "img/unfunnyCurator/08.webp",
+    "img/unfunnyCurator/09.webp",
+    "img/unfunnyCurator/10.webp"
+  ],
+  "projectes_relacionats": [
+    {
+      "titol": "masterclass: everything will be fine",
+      "slug": "meditacio-massana"
+    },
+    {
+      "titol": "la gran cura",
+      "slug": "la-gran-cura"
+    },
+    {
+      "titol": "the curator's project",
+      "slug": "the-curators-project"
+    },
+    {
+      "titol": "exhibitions masterclass",
+      "slug": "master-expos"
+    },
+    {
+      "titol": "un unfunny _curatour",
+      "slug": "lluerna"
+    },
+    {
+      "titol": "this is a networking data visualization ;-)",
+      "slug": "networking-data"
+    },
+    {
+      "titol": "caçadoris d'artspeak",
+      "slug": "caçadoris-dartspeak"
+    },
+    {
+      "titol": "pls! i'm a star!: espai balda",
+      "slug": "espai-balda"
+    },
+    {
+      "titol": "towards a performative research",
+      "slug": "investigacio-performatica"
+    },
+    {
+      "titol": "berta esteve is not illiterate (anymore)",
+      "slug": "not-illiterate"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "titol": "holets",
+  "any": 2025,
+  "lloc": "<a href='https://cuartolocation.com/'target='_blank'>cuarto location</a>",
+  "ciutat": "Hospitalet de Llobregat",
+  "imatge_principal": "",
+  "projectes_relacionats": [],
+  "text": [
+    "Curaduría para “Holets”, una exposición que reimagina el legendario local del Valle de Arán y que toma como eje vertebrador la figura del holet, el elfo, una de las criaturas en las que se ha dejado de creer desde hace mucho tiempo.",
+    "<a href='https://www.instagram.com/gberinif/?hl=es'target='_blank'>Berini</a>, la artista, propone hibridar las estéticas contemporáneas con imágenes tradicionales que pertenecen al folclore de su territorio de origen. Las influencias rurales, cuando se ponen en relación con estéticas y referencias urbanas, generan un conglomerado que nos muestra que es posible hacer convivir dos imaginarios que habitualmente se nos presentan separados e incluso como contrarios."
+  ],
+  "galeria": [
+    "img/holets/00.webp",
+    "img/holets/01.webp",
+    "img/holets/02.webp",
+    "img/holets/03.webp",
+    "img/holets/04.webp",
+    "img/holets/05.webp",
+    "img/holets/06.webp",
+    "img/holets/07.webp",
+    "img/holets/08.webp",
+    "img/holets/09.webp"
+  ]
+}

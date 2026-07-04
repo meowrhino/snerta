@@ -86,7 +86,7 @@ p {
   transition: color 0.2s;
 }
 .menu-links a.active {
-  color: #3f3d3a;
+  color: var(--text--color);
   font-weight: bold;
 }
 .menu-links a:hover {
@@ -131,9 +131,6 @@ ul {
   }
 }
 
-.menu-links a.active {
-  color: LightGray;
-}
 
 /* @media (min-width: 768px) {
   .container {

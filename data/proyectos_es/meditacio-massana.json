@@ -1,0 +1,25 @@
+{
+  "titol": "masterclass: todo irá bien",
+  "any": "2025",
+  "lloc": "<a href='https://www.escolamassana.cat/ca/'target='_blank'>escola massana</a>",
+  "ciutat": "barcelona",
+  "imatge_principal": "",
+  "text": [
+    "Clase para un grupo de alumnas que cursan la asignatura de TFG en la <a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>.",
+    "Durante la sesión se muestra el proyecto de <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a> y se desarrolla el concepto de investigación performática. Para terminar se propone una activación: una meditación colectiva a través de la cual se visualiza el próximo año, sanando y trascendiendo la ansiedad que el trabajo final de grado provoca en los estudiantes.",
+    "Dentro del marco de <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+  ],
+  "galeria": [
+    "img/meditaciomassana/00.webp",
+    "img/meditaciomassana/01.webp",
+    "img/meditaciomassana/02.webp",
+    "img/meditaciomassana/03.webp",
+    "img/meditaciomassana/04.webp",
+    "img/meditaciomassana/05.webp",
+    "img/meditaciomassana/06.webp",
+    "img/meditaciomassana/07.webp",
+    "img/meditaciomassana/08.webp",
+    "img/meditaciomassana/09.webp"
+  ],
+  "projectes_relacionats": []
+}

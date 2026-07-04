@@ -1,0 +1,21 @@
+{
+  "titol": "30 years of Can Basté",
+  "any": 2025,
+  "lloc": "<a href='https://www.canbaste.com/' target='_blank'>can basté</a>",
+  "ciutat": "barcelona",
+  "imatge_principal": "",
+  "projectes_relacionats": [],
+  "text": "Commemorative exhibition of the 30 years of <a href='https://www.canbaste.com/'target='_blank'>Can Basté</a> as a civic centre and cultural project rooted in the Turó de la Peira neighbourhood. The show gathers the memory of activities, workshops and projects that have taken place at the centre, with special attention to its speciality, photography. The exhibition is divided into thematic sections that combine images, documents and archive materials, highlighting the model of civic management and the role of the community.",
+  "galeria": [
+    "img/canbaste/00.webp",
+    "img/canbaste/01.webp",
+    "img/canbaste/02.webp",
+    "img/canbaste/03.webp",
+    "img/canbaste/04.webp",
+    "img/canbaste/05.webp",
+    "img/canbaste/06.webp",
+    "img/canbaste/07.webp",
+    "img/canbaste/08.webp",
+    "img/canbaste/10.webp"
+  ]
+}

@@ -1,16 +1,25 @@
 async function cargarProjectes() {
-  const res = await fetch('data/projectes_cat.json');
-  return await res.json();
+  return await LANG.cargar((l) => `data/projectes_${l}.json`);
 }
 
-const ordenCategorías = [
-  { key: "curadoria", label: "curadoria" },
-  { key: "investigacio", label: "investigació" },
-  { key: "exposicions", label: "exposicions" },
-  { key: "mediacio", label: "mediació" },
-  { key: "text", label: "divulgació" },
-  { key: "grupdestudi", label: "grup d'estudi" }
-];
+// Etiquetas de las categorías por idioma (el "key" nunca cambia).
+const CATEGORIAS = {
+  cat: {
+    curadoria: "curadoria", investigacio: "investigació", exposicions: "exposicions",
+    mediacio: "mediació", text: "divulgació", grupdestudi: "grup d'estudi"
+  },
+  es: {
+    curadoria: "curaduría", investigacio: "investigación", exposicions: "exposiciones",
+    mediacio: "mediación", text: "divulgación", grupdestudi: "grupo de estudio"
+  },
+  en: {
+    curadoria: "curating", investigacio: "research", exposicions: "exhibitions",
+    mediacio: "mediation", text: "writing", grupdestudi: "study group"
+  }
+};
+
+const ordenCategorías = ["curadoria", "investigacio", "exposicions", "mediacio", "text", "grupdestudi"]
+  .map((key) => ({ key, label: (CATEGORIAS[LANG.actual] || CATEGORIAS.cat)[key] }));
 
 function renderProjecteLinea(p) {
   const linea = [
@@ -57,20 +66,9 @@ async function renderProjectesPorCategoria() {
     `;
     cont.innerHTML += html;
   });
-}
 
-function renderMenuLinks() {
-  const menu = document.createElement('div');
-  menu.className = 'menu-links';
-
-  ordenCategorías.forEach(cat => {
-    const a = document.createElement('a');
-    a.href = `projectes.html#${cat.key}`;
-    a.textContent = cat.label;
-    menu.appendChild(a);
-  });
-
-  document.body.appendChild(menu);
+  // arrastra el idioma a los enlaces recién creados
+  if (window.LANG) LANG.reescribirEnlaces(cont);
 }
 
 // === Anclaje robusto tras render dinámico ===

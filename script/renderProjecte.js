@@ -8,13 +8,8 @@ function go404() {
 }
 
 async function cargarDatosProyecto(slug) {
-  try {
-    const res = await fetch(`data/proyectos_cat/${slug}.json`);
-    if (!res.ok) return null;
-    return await res.json();
-  } catch (e) {
-    return null;
-  }
+  // idioma actual con fallback automático a la ficha en catalán
+  return await LANG.cargar((l) => `data/proyectos_${l}/${slug}.json`);
 }
 
 // Helper para texto1
@@ -161,7 +156,9 @@ async function renderPaginaProyecto() {
     go404();
     return;
   }
-  document.getElementById("projecte-content").innerHTML = renderProyecto(datos);
+  const cont = document.getElementById("projecte-content");
+  cont.innerHTML = renderProyecto(datos);
+  if (window.LANG) LANG.reescribirEnlaces(cont);
 
   // POPUP GALERÍA
   if (datos.galeria && datos.galeria.length > 0) {

@@ -1,0 +1,29 @@
+{
+  "titol": "caçadoris d'artspeak",
+  "any": 2025,
+  "lloc": "<a href='https://hangar.org/es/'target='_blank'>hangar.org</a>",
+  "ciutat": "barcelona",
+  "imatge_principal": "",
+  "sinopsi": "",
+  "projectes_relacionats": [],
+  "text": [
+    "Actividad de <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a> en la que se proponía detectar, analizar y charlar sobre artspeak: las palabrotas del mundo del arte. Un lenguaje especializado y característico que condiciona la manera en que nos relacionamos con las exposiciones y los proyectos artísticos, ya sea como agentes del mundo del arte o como consumidores culturales.",
+    "Analizamos diversas hojas de sala, detectando, almacenando y debatiendo nuestros hallazgos. También diseccionamos algunos statements o textos de proyectos propios de los asistentes. Y, finalmente, volcamos todas las palabrotas cazadas en el chat gpt y le pedimos que creara el texto de sala definitivo.",
+    "Actividad vinculada al máster <a href='https://www.eina.cat/es/master-universitario-investigacion-arte-diseno'target='_blank'>MURAD</a> y con la participación de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+    "Dentro del marco de <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
+  ],
+  "galeria": [
+    "img/caçadorisdartspeak/00.webp",
+    "img/caçadorisdartspeak/01.webp",
+    "img/caçadorisdartspeak/02.webp",
+    "img/caçadorisdartspeak/03.webp",
+    "img/caçadorisdartspeak/04.webp",
+    "img/caçadorisdartspeak/05.webp",
+    "img/caçadorisdartspeak/06.webp",
+    "img/caçadorisdartspeak/07.webp",
+    "img/caçadorisdartspeak/08.webp",
+    "img/caçadorisdartspeak/09.webp",
+    "img/caçadorisdartspeak/10.webp",
+    "img/caçadorisdartspeak/11.webp"
+  ]
+}

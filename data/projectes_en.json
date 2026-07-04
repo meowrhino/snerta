@@ -1,0 +1,411 @@
+[
+  {
+    "categoria": "curadoria",
+    "slug": "caixa-sorpresa",
+    "titol": "caixa sorpresa grup d'estudi",
+    "espai": "la capella",
+    "ciutat": "barcelona",
+    "text": "exhibition curated at Espai Rampa",
+    "feina": "curating and coordination",
+    "any": 2025
+  },
+  {
+    "categoria": "curadoria",
+    "slug": "30-anys-de-can-baste",
+    "titol": "30 anys de can basté",
+    "espai": "can basté",
+    "ciutat": "barcelona",
+    "text": "retrospective exhibition",
+    "feina": "exhibition design and production",
+    "any": 2025
+  },
+  {
+    "categoria": "curadoria",
+    "slug": "holets",
+    "titol": "holets",
+    "espai": "cuarto location",
+    "ciutat": "barcelona",
+    "text": "exhibition by Berini",
+    "feina": "curating",
+    "any": 2025
+  },
+  {
+    "categoria": "curadoria",
+    "slug": "tramas-imaginarias",
+    "titol": "tramas imaginarias",
+    "espai": "àngels barcelona espai 2",
+    "ciutat": "barcelona",
+    "text": "exhibition by the murad master",
+    "feina": "co-curating",
+    "any": 2025
+  },
+  {
+    "categoria": "curadoria",
+    "slug": "nostalgia-dislocada",
+    "titol": "nostàlgia dislocada",
+    "espai": "c.c. pere pruna",
+    "ciutat": "barcelona",
+    "text": "exhibition by Adela Bacardit",
+    "feina": "mentoring",
+    "any": 2025
+  },
+  {
+    "categoria": "curadoria",
+    "slug": "espai-balda",
+    "titol": "pls! i'm a star!: espai balda",
+    "espai": "la meva habitació",
+    "ciutat": "barcelona",
+    "text": "archive exhibition",
+    "feina": "curating",
+    "any": 2024
+  },
+  {
+    "categoria": "curadoria",
+    "slug": "som-aqui",
+    "titol": "som aquí",
+    "espai": "c.c. urgell",
+    "ciutat": "barcelona",
+    "text": "exhibition by Sira Lobo",
+    "feina": "mentoring and exhibition design",
+    "any": 2024
+  },
+  {
+    "categoria": "curadoria",
+    "slug": "blau-cel",
+    "titol": "blau cel",
+    "espai": "c.c. pere pruna",
+    "ciutat": "barcelona",
+    "text": "exhibition by Núria Cintero",
+    "feina": "mentoring",
+    "any": 2024
+  },
+  {
+    "categoria": "curadoria",
+    "slug": "la-possibilitat",
+    "titol": "la possibilitat de no haver sigut",
+    "espai": "santa mònica",
+    "ciutat": "barcelona",
+    "text": "co-curated with grup d'estudi",
+    "feina": "curating and coordination",
+    "any": 2023
+  },
+  {
+    "categoria": "curadoria",
+    "slug": "podate-los-dedos",
+    "titol": "pódate los dedos a ver si crecen",
+    "espai": "c.c. pere pruna",
+    "ciutat": "barcelona",
+    "text": "exhibition by Mario Molins",
+    "feina": "mentoring and exhibition design",
+    "any": 2023
+  },
+  {
+    "categoria": "curadoria",
+    "slug": "mu-dança",
+    "titol": "mu-dança!, crear situacions 1",
+    "espai": "santa mònica",
+    "ciutat": "barcelona",
+    "text": "week of activations and events",
+    "feina": "co-curating and communication",
+    "any": "2023"
+  },
+  {
+    "categoria": "curadoria",
+    "slug": "backrooms-tesis",
+    "titol": "the backrooms",
+    "espai": "eina",
+    "ciutat": "barcelona",
+    "text": "exhibition prototype",
+    "feina": "",
+    "any": "2022"
+  },
+  {
+    "categoria": "investigacio",
+    "slug": "unfunny-curator",
+    "titol": "unfunny_curator",
+    "espai": "",
+    "ciutat": "",
+    "text": "on success, professionalisation and the artworld",
+    "feina": "",
+    "any": "actualitat"
+  },
+  {
+    "categoria": "investigacio",
+    "slug": "backrooms",
+    "titol": "the backrooms",
+    "espai": "",
+    "ciutat": "",
+    "text": "on liminal horror and collective fictions",
+    "feina": "",
+    "any": "2022-2024"
+  },
+  {
+    "categoria": "investigacio",
+    "slug": "sobre-fanfiction",
+    "titol": "fanfiction",
+    "espai": "",
+    "ciutat": "",
+    "text": "on collective fictions and fandoms",
+    "feina": "",
+    "any": "2018-2021"
+  },
+  {
+    "categoria": "exposicions",
+    "slug": "la-gran-cura",
+    "titol": "la gran cura; tot tombant, convoco",
+    "espai": "lo pardal",
+    "ciutat": "agramunt",
+    "text": "group exhibition with Laura Albajar and Enric Marzà for Lo Niu '25",
+    "feina": "as unfunny_curator",
+    "any": "2025"
+  },
+  {
+    "categoria": "exposicions",
+    "slug": "the-curators-project",
+    "titol": "the curator's project, del poder sobre el poder",
+    "espai": "estructuras 3000",
+    "ciutat": "esplugues de llobregat",
+    "text": "photography exhibition and activations by jordi bretcha, bet pahissa and ainara bel",
+    "feina": "as unfunny_curator",
+    "any": "2025"
+  },
+  {
+    "categoria": "exposicions",
+    "slug": "vist-des-denlloc",
+    "titol": "the backrooms: analog found footage, vist des d'enlloc",
+    "espai": "la capella",
+    "ciutat": "barcelona",
+    "text": "video for a group exhibition",
+    "feina": "",
+    "any": "2024"
+  },
+  {
+    "categoria": "exposicions",
+    "slug": "liminal-hunting",
+    "titol": "liminal hunting",
+    "espai": "online",
+    "ciutat": "",
+    "text": "photography project",
+    "feina": "",
+    "any": "2022 - present"
+  },
+  {
+    "categoria": "exposicions",
+    "slug": "vip-zone",
+    "titol": "vip zone: contemporary art hit, apertus 02",
+    "espai": "àngels barcelona espai 2",
+    "ciutat": "barcelona",
+    "text": "installation with Eloi Rodríguez Romeu for a group exhibition",
+    "feina": "",
+    "any": "2018"
+  },
+  {
+    "categoria": "exposicions",
+    "slug": "an-industrial",
+    "titol": "an industrial after-life, apertus 02",
+    "espai": "escola massana",
+    "ciutat": "barcelona",
+    "text": "installation for the apertus 02 seminar",
+    "feina": "",
+    "any": "2018"
+  },
+  {
+    "categoria": "exposicions",
+    "slug": "youre-invited-to-my-room",
+    "titol": "you're invited to my room",
+    "espai": "a la meva habitació i a l'escola massana",
+    "ciutat": "poblenou, barcelona",
+    "text": "installation",
+    "feina": "",
+    "any": "2018"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "meditacio-massana",
+    "titol": "masterclass, tot anirà bé",
+    "espai": "escola massana",
+    "ciutat": "barcelona",
+    "text": "class",
+    "feina": "talk + meditation for the final-degree project",
+    "any": "2025"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "fuera-carta",
+    "titol": "encuentros fuera de carta",
+    "espai": "cccb",
+    "ciutat": "barcelona",
+    "text": "collaboration with Zuloark for the Culture and Citizenship congress",
+    "feina": "mediator",
+    "any": "2025"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "master-expos",
+    "titol": "masterclass, màster d'exposicions d'eina",
+    "espai": "la capella",
+    "ciutat": "barcelona",
+    "text": "class",
+    "feina": "as berta esteve + unfunny_curator",
+    "any": "2025"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "lluerna",
+    "titol": "un unfunny_curatour, lluerna: un museu possible",
+    "espai": "fundació miró",
+    "ciutat": "barcelona",
+    "text": "lecture and performative guided tour",
+    "feina": "as unfunny_curator",
+    "any": "2025"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "max-foc",
+    "titol": "qui juga amb foc, es pot dir foc a una flama que no crema?",
+    "espai": "estructuras 3000",
+    "ciutat": "esplugues de llobregat",
+    "text": "performative lecture by Max Azemar",
+    "feina": "technical assistance",
+    "any": "2025"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "confe-max",
+    "titol": "conferència performativa sobre conferència performativa",
+    "espai": "escola massana",
+    "ciutat": "barcelona",
+    "text": "performative lecture by Max Azemar",
+    "feina": "technical assistance",
+    "any": "2025"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "networking-data",
+    "titol": "this is a networking data visualization ;-), tramas imaginarias",
+    "espai": "àngels barcelona espai 2",
+    "ciutat": "barcelona",
+    "text": "facilitation and performance",
+    "feina": "as unfunny_curator",
+    "any": "2025"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "caçadoris-dartspeak",
+    "titol": "caçadoris d'artspeak",
+    "espai": "hangar",
+    "ciutat": "barcelona",
+    "text": "workshop with the murad master",
+    "feina": "as unfunny_curator",
+    "any": "2025"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "exit-through-the-alehop",
+    "titol": "grup d'estudi for you: èxit through the ale-hop, art nou '23",
+    "espai": "moco museum i fundació joan brossa",
+    "ciutat": "barcelona",
+    "text": "performative guided tour",
+    "feina": "as grup d'estudi",
+    "any": "2023"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "tinstamtmmottmr",
+    "titol": "there is no such thing as making too much money or taking too many risks, art nou '23",
+    "espai": "estructuras 3000",
+    "ciutat": "barcelona",
+    "text": "performative guided tours of the exhibitions by Ignasi Aballí and Núria Güell",
+    "feina": "",
+    "any": "2023"
+  },
+  {
+    "categoria": "mediacio",
+    "slug": "level-362",
+    "titol": "level 362",
+    "espai": "eina",
+    "ciutat": "barcelona",
+    "text": "horror scavenger hunt within the research on the backrooms",
+    "feina": "",
+    "any": "2022"
+  },
+  {
+    "categoria": "text",
+    "slug": "investigacio-performatica",
+    "titol": "cap a una investigació performàtica: teatralitat com a metodologia de recerca experimental",
+    "espai": "la murad",
+    "ciutat": "online",
+    "text": "academic paper",
+    "feina": "",
+    "any": "2025"
+  },
+  {
+    "categoria": "text",
+    "slug": "breaking-canon",
+    "titol": "breaking canon: fanfiction i crítica",
+    "espai": "autopublicació",
+    "ciutat": "online",
+    "text": "essay",
+    "feina": "",
+    "any": "2025"
+  },
+  {
+    "categoria": "text",
+    "slug": "not-illiterate",
+    "titol": "berta esteve is not illiterate (anymore)",
+    "espai": "autopublicació",
+    "ciutat": "online",
+    "text": "essay",
+    "feina": "",
+    "any": "2025"
+  },
+  {
+    "categoria": "text",
+    "slug": "media-rants",
+    "titol": "media rants",
+    "espai": "@snerta.esteve",
+    "ciutat": "online",
+    "text": "mini-essays on audiovisual tropes",
+    "feina": "",
+    "any": "2022-2023"
+  },
+  {
+    "categoria": "text",
+    "slug": "buscar-fanfics",
+    "titol": "com buscar fanfics?: moure's en arxiu fan per a una experiència afectiva òptima, para k kieres saber eso?",
+    "espai": "la virreina ci",
+    "ciutat": "barcelona",
+    "text": "lecture",
+    "feina": "",
+    "any": "2021"
+  },
+  {
+    "categoria": "text",
+    "titol": "why i don't remember artists",
+    "espai": "wetland.network",
+    "ciutat": "online",
+    "text": "essay",
+    "feina": "",
+    "any": "2019"
+  },
+  {
+    "categoria": "text",
+    "slug": "youre-invited-tfg",
+    "titol": "you're invited to my room: guia + assaig",
+    "espai": "escola massana",
+    "ciutat": "online",
+    "text": "final-degree project",
+    "feina": "",
+    "any": "2018"
+  },
+  {
+    "categoria": "grupdestudi",
+    "slug": "grup-destudi",
+    "titol": "grup d'estudi",
+    "espai": "",
+    "ciutat": "barcelona",
+    "text": "collective of artists and curators devoted to cataloguing and proposing new forms of public presentation of artistic production",
+    "feina": "member and coordinator",
+    "any": "2019-2025"
+  }
+]

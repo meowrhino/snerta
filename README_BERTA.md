@@ -101,6 +101,23 @@ node tools/galeria.js miproyecto
 
 Te imprime el bloque `"galeria": [...]` listo para copiar y pegar.
 
+## Idiomas (catalán / español / inglés)
+
+La web está en tres idiomas. **El catalán es el principal**: si algo no está
+traducido, sale en catalán automáticamente (nunca da error). Así que puedes
+añadir un proyecto solo en catalán y ya funciona; traducirlo es opcional.
+
+Cuando quieras traducir:
+- **Un proyecto**: copia `data/proyectos_cat/<slug>.json` a
+  `data/proyectos_es/<slug>.json` (español) o `data/proyectos_en/<slug>.json`
+  (inglés) y traduce los textos. **Deja igual** `slug`, `galeria` y las imágenes.
+- **El listado**: traduce `text` y `feina` en `data/projectes_es.json` /
+  `projectes_en.json` (los `slug` no se tocan).
+- **La portada**: edita `index-es.html` / `index-en.html`.
+
+Hay una explicación más detallada en `IDIOMAS.md`. Y `node tools/validar.js` te
+dice qué proyectos aún no están traducidos (por si quieres ir completándolos).
+
 ## PDFs (cv, publicaciones)
 
 Van en `data/arxius/`. Intenta que no pasen de unos 5 MB (desde Vista Previa

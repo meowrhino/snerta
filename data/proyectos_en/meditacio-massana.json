@@ -1,0 +1,25 @@
+{
+  "titol": "masterclass: everything will be fine",
+  "any": "2025",
+  "lloc": "<a href='https://www.escolamassana.cat/ca/'target='_blank'>escola massana</a>",
+  "ciutat": "barcelona",
+  "imatge_principal": "",
+  "text": [
+    "Class for a group of students taking the final-degree-project course at <a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>.",
+    "During the session the <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a> project is shown and the concept of performative research is developed. To finish, an activation is proposed: a collective meditation through which the coming year is visualised, healing and transcending the anxiety that the final-degree project causes in students.",
+    "As part of <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+  ],
+  "galeria": [
+    "img/meditaciomassana/00.webp",
+    "img/meditaciomassana/01.webp",
+    "img/meditaciomassana/02.webp",
+    "img/meditaciomassana/03.webp",
+    "img/meditaciomassana/04.webp",
+    "img/meditaciomassana/05.webp",
+    "img/meditaciomassana/06.webp",
+    "img/meditaciomassana/07.webp",
+    "img/meditaciomassana/08.webp",
+    "img/meditaciomassana/09.webp"
+  ],
+  "projectes_relacionats": []
+}

@@ -1,0 +1,22 @@
+{
+  "titol": "som aquí",
+  "any": "2023",
+  "lloc": "<a href='https://www.ccurgell.cat/'target='_blank'>C.C.Urgell</a>",
+  "ciutat": "Barcelona",
+  "imatge_principal": "",
+  "text": [
+    "Acompañamiento de la exposición <a href='https://www.siralobo.com/project/som-aqui-solo-exhibition/'target='_blank'>Som aquí</a> de <a href='https://www.siralobo.com/'target='_blank'>Sira Lobo</a>, dentro del marco del <a href='https://www.ccurgell.cat/illulola-festival-dillustracio-infantil-i-juvenil/'target='_blank'>Festival Il·luLola</a>.",
+    "La exposición propone un redescubrimiento del espacio urbano desmontando el paisaje a través de la ilustración y reconstruyéndolo a través del juego. Haciendo visible lo invisible, lo efímero y lo que no hace ruido, la artista nos acerca al barrio de la nova esquerra de l'eixample dando un paseo en altura para bajar poco a poco y explorar de qué manera lo miramos y lo habitamos."
+  ],
+  "galeria": [
+    "img/somaqui/00.webp",
+    "img/somaqui/01.webp",
+    "img/somaqui/02.webp",
+    "img/somaqui/03.webp",
+    "img/somaqui/04.webp",
+    "img/somaqui/05.webp",
+    "img/somaqui/06.webp",
+    "img/somaqui/09.webp"
+  ],
+  "projectes_relacionats": []
+}
