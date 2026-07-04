@@ -12,29 +12,16 @@
 - [x] README para Berta: `README_BERTA.md`.
 - [x] Validador de contenido: `node tools/validar.js` (sintaxis JSON, fichas que faltan, imágenes rotas).
 - [x] Generador de galerías: `node tools/galeria.js <carpeta>`.
+- [x] Limpieza: borrados `old/`, `data/proyectos_cat/falsos/`, css viejos, `projectes.json` obsoleto, pngs de sobres sin usar y todos los originales jpg/jpeg/png ya convertidos (recuperables del historial de git).
 
 ## Pendiente
 
-- [ ] **Borrar archivos muertos y originales** (bloqueado en la sesión, comando abajo).
-- [ ] **Decidir qué hacer con el motor de idiomas**: `script/renderHome.js` + `paraElFuturo/` están a medias y sin conectar. O se remata (traducir 40 fichas a ES/EN...) o se borra y la web queda en catalán.
+- [ ] **Decidir qué hacer con el motor de idiomas** → plan completo en `IDIOMAS.md`. Lo caro no es el código, es que Berta traduzca 40 fichas × 2 idiomas y mantenga 3 versiones de cada proyecto nuevo.
 - [ ] Comprimir los 2 PDFs gigantes de `data/arxius/` (47 MB y 43 MB). Desde Vista Previa: Exportar → "Reduce File Size", o instalar ghostscript.
-- [ ] Ficha para "why i don't remember artists" (o `"url"` externa a wetland.network) y devolverle el `slug`.
+- [ ] Ficha para "why i don't remember artists" (o `"url"` externa a wetland.network) y devolverle el `slug` en el listado.
 - [ ] SEO por proyecto (meta description / og:image dinámicos en projecte.html).
 - [ ] Opcional: miniaturas separadas para el grid de galería (ahora grid y popup usan el mismo webp).
-- [ ] Opcional: adelgazar el historial de git (~416 MB de imágenes viejas).
-
-### Comando de limpieza (ejecutar manu, revisar antes)
-
-```bash
-# archivos muertos
-git rm -r data/proyectos_cat/falsos old
-git rm 'css/??.css' css/css_old projectes.json
-# pngs de sobres no usados y originales ya convertidos a webp
-git rm img/sobre_*.png img/sobreblanco_*.png img/sobreclar_*.png img/sobregris_*.png img/sobreverd_*.png
-find img -mindepth 2 -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) -exec git rm -q {} +
-```
-
-(`img/saltamontes.png` se queda: es el favicon.)
+- [ ] Opcional: adelgazar el historial de git (~416 MB de imágenes viejas; `git filter-repo` o BFG, con cuidado).
 
 ## Flujo para Berta
 
