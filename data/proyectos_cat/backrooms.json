@@ -4,7 +4,6 @@
   "lloc": "",
   "ciutat": "",
   "imatge_principal": "",
-  "sinopsi": "",
   "projectes_relacionats": [
     {
       "titol": "the backrooms",
@@ -24,7 +23,7 @@
     },
     {
       "titol": "an industrial after-life",
-      "slug": "after-life"
+      "slug": "an-industrial"
     }
   ],
     

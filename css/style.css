@@ -132,18 +132,6 @@ ul {
 }
 
 
-/* @media (min-width: 768px) {
-  .container {
-    margin: 30px 200px;
-  }
-}
-
-@media (max-width: 767px) {
-  .container {
-    margin: 30px 20px;
-  }
-} */
-
 body {
   font-family: Helvetica, sans-serif;
   font-weight: 400;
@@ -239,12 +227,6 @@ body {
 
   margin: auto;
 }
-
-/* @media (max-width: 767px) {
-  #descripcio {
-    padding-top: 20vh;
-  }
-} */
 
 #projectes {
   min-height: 100dvh;
@@ -360,39 +342,6 @@ body {
   text-align: center;
   font-family: Helvetica, sans-serif;
 }
-
-/* 
-
-#contacte h4 {
-  flex-grow: 0.9;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0;
-
-  padding-top: 10%;
-}
-
-@media (max-width: 767px) {
-  #contacte h4 {
-    font-size: 20px;
-  }
-}
-
-.contacte-llinks {
-  display: flex;
-  gap: 30px;
-  justify-content: center;
-  padding: 20px 0;
-
-}
-
-@media (max-width: 767px) {
-  .contacte-llinks {
-    flex-direction: column;
-  }
-} */
 
 /*https://es.wikipedia.org/wiki/Colores_web*/
 

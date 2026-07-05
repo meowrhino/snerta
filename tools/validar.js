@@ -70,6 +70,10 @@ for (const l of IDIOMAS) {
       if (!fs.existsSync(path.join(ROOT, img)))
         error(`proyectos_${l}/${f}.json referencia una imagen que no existe: ${img}`);
     }
+    for (const pr of ficha.projectes_relacionats || []) {
+      if (pr.slug && !fs.existsSync(path.join(ROOT, `data/proyectos_${l}/${pr.slug}.json`)))
+        error(`proyectos_${l}/${f}.json tiene un relacionado con slug "${pr.slug}" sin ficha data/proyectos_${l}/${pr.slug}.json`);
+    }
   }
   if (l !== "cat" && faltanTrad > 0)
     aviso(`${faltanTrad} ficha(s) sin traducir a "${l}" (saldrán en catalán): ok, es opcional`);

@@ -26,9 +26,15 @@ El idioma elegido se guarda en `localStorage`, así se mantiene al navegar entre
 
 | Página | Catalán | Español | Inglés |
 |---|---|---|---|
-| Home | `index.html` | `index-es.html` | `index-en.html` |
+| Home | `index.html` (plantilla) | `index-es.html` (generado) | `index-en.html` (generado) |
 | Listado | `data/projectes_cat.json` | `data/projectes_es.json` | `data/projectes_en.json` |
 | Fichas | `data/proyectos_cat/<slug>.json` | `data/proyectos_es/<slug>.json` | `data/proyectos_en/<slug>.json` |
+
+`index-es.html` e `index-en.html` son HTML estático de verdad (nada se renderiza
+en el navegador): se generan una vez, en el momento de editar, con
+`node tools/build-homes.js`, a partir de `index.html` + `data/home_translations.json`.
+Así se evita mantener tres copias del mismo HTML a mano, sin perder el "cero
+flash de carga" ni el SEO de páginas estáticas.
 
 Los scripts `renderProjectes.js` y `renderProjecte.js` piden el JSON del idioma
 actual con `LANG.cargar(...)`, que prueba primero el idioma y, si el archivo no
@@ -53,7 +59,11 @@ Para traducir una ficha nueva: copia `data/proyectos_cat/<slug>.json` a
 Para el listado: edita `data/projectes_es.json` / `projectes_en.json` traduciendo
 `text` y `feina` de cada entrada (los `slug` intactos).
 
-Para la home: edita el HTML de `index-es.html` / `index-en.html`.
+Para la home: **no se edita `index-es.html` / `index-en.html` directamente**,
+se generan con `node tools/build-homes.js` a partir de `index.html` (catalán,
+la plantilla) y `data/home_translations.json` (textos es/en). Edita uno de los
+dos y vuelve a ejecutar el script; si falta un texto, el propio script dice
+cuál. Ver la sección "Herramientas" más abajo.
 
 > Las traducciones actuales se generaron con los scripts de `scratchpad` en la
 > revisión de julio 2026 a partir del catalán; a partir de ahora se mantienen a mano.

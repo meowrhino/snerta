@@ -50,13 +50,12 @@ function renderProjecteLinea(p) {
 async function renderProjectesPorCategoria() {
   const projectes = await cargarProjectes();
   const cont = document.getElementById('projectes-list');
-  cont.innerHTML = '';
 
-  ordenCategorías.forEach(cat => {
+  const html = ordenCategorías.map(cat => {
     const group = projectes.filter(p => p.categoria === cat.key);
-    if (!group.length) return;
+    if (!group.length) return '';
 
-    const html = `
+    return `
       <section class="projectes" id="${cat.key}">
         <h2>${cat.label}</h2>
         <div class="projectes-col">
@@ -64,8 +63,8 @@ async function renderProjectesPorCategoria() {
         </div>
       </section>
     `;
-    cont.innerHTML += html;
-  });
+  }).join('');
+  cont.innerHTML = html;
 
   // arrastra el idioma a los enlaces recién creados
   if (window.LANG) LANG.reescribirEnlaces(cont);

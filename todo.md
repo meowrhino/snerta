@@ -22,9 +22,10 @@
 - [x] Documentado en `IDIOMAS.md` y `README_BERTA.md`.
 
 ### Herramientas para Berta
-- [x] `node tools/validar.js` — valida los 3 idiomas, fichas que faltan, imágenes rotas, traducciones pendientes.
+- [x] `node tools/validar.js` — valida los 3 idiomas, fichas que faltan, imágenes rotas, traducciones pendientes, y ahora también que cada relacionado tenga su ficha.
 - [x] `node tools/galeria.js <carpeta>` — genera el array de galería.
 - [x] `README_BERTA.md` — guía de edición y traducción.
+- [x] `node tools/build-homes.js` — genera `index-es.html` / `index-en.html` desde `index.html` + `data/home_translations.json`. Ya no hay que editar los tres HTML de la portada a mano.
 
 ## Pendiente / opcional
 
@@ -32,7 +33,6 @@
 - [ ] SEO por proyecto (meta description / og:image dinámicos en projecte.html).
 - [ ] Miniaturas separadas para el grid de galería (ahora grid y popup usan el mismo webp).
 - [ ] Adelgazar el historial de git (~pesa por imágenes viejas; `git filter-repo`/BFG con cuidado).
-- [ ] La portada es HTML estático triplicado (index / index-es / index-en): si se cambia la estructura, tocar los tres.
 
 ## Flujo para Berta
 

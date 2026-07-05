@@ -1,0 +1,102 @@
+{
+  "es": {
+    "lang": "es",
+    "meta": {
+      "description": "curadora, investigadora y artista; expos, jajas & internet",
+      "keywords": "comisariado, arte colectivo, cultura catalana, performance, robo",
+      "author": "berta esteve"
+    },
+    "heroLinks": {
+      "grupEstudi": "sobre grup d'estudi",
+      "unfunnyCurator": "sobre Unfunny_Curator",
+      "fanfiction": "sobre fanfiction",
+      "backrooms": "sobre los backrooms"
+    },
+    "subtext": {
+      "linea1": "curadora, investigadora y artista",
+      "linea2": "expos, jajas & internet "
+    },
+    "descripcio": {
+      "ariaLabel": "descripción de berta",
+      "parrafos": [
+        "Soy curadora, artista e investigadora especializada en el acompañamiento de proyectos y la producción de exposiciones y mediaciones. En mi práctica hibrido la crítica institucional con el imaginario pop y la cultura de internet.",
+        "Tengo formación en artes y diseño, curaduría e investigación artística. He realizado proyectos artísticos y curatoriales en espacios como <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href='https://www.santamonica.cat/es' target='_blank'>Santa Mònica</a>, <a href='https://hangar.org/es/' target='_blank'>Hangar</a>, <a href='https://fundaciojoanbrossa.cat/' target='_blank'>Fundació Brossa</a>, <a href='https://www.lopardal.com/' target='_blank'>Lo Pardal</a>, <a href='https://www.fmirobcn.org/ca/' target='_blank'>Fundació Miró</a>, <a href='https://ajuntament.barcelona.cat/ccivics/perepruna' target='_blank'>C.C. Pere Pruna</a> o <a href='https://www.canbaste.com/' target='_blank'>Can Basté</a>. También soy miembro del colectivo de artistas y curadoras <a href=\"projecte.html?slug=grup-destudi\">Grup d'Estudi</a>.",
+        "Actualmente llevo a cabo el proyecto <a href=\"projecte.html?slug=unfunny-curator\">Unfunny_Curator</a>, un alter ego curatorial y proyecto de mediación que reflexiona sobre diversas problemáticas del mundo del arte, hibridando los espacios físicos con los espacios digitales."
+      ],
+      "cvLinkText": "cv aquí"
+    },
+    "categories": {
+      "curadoria": "curaduría",
+      "investigacio": "investigación",
+      "exposicions": "exposiciones",
+      "mediacio": "mediación",
+      "text": "divulgación",
+      "grupdestudi": "grupo de estudio"
+    },
+    "acompanyaments": {
+      "ariaLabel": "qué puede hacer berta por ti",
+      "heading": "puedo ayudarte a:",
+      "items": ["curar", "conceptualizar", "producir", "investigar", "mediar", "coordinar"],
+      "paragraph": "proyectos artísticos, expositivos y/o culturales <br> generalmente cobro las tutorías a 30€/h y el resto de proyectos habría que presupuestarlos :-) "
+    },
+    "contacte": {
+      "ariaLabel": "contacta con berta"
+    },
+    "menuAbajo": {
+      "descripcio": "sobre mí",
+      "projectes": "proyectos",
+      "acompanyaments": "acompañamientos",
+      "contacte": "contacto"
+    }
+  },
+  "en": {
+    "lang": "en",
+    "meta": {
+      "description": "curator, researcher and artist; shows, lols & internet",
+      "keywords": "curating, collective art, catalan culture, performance, theft",
+      "author": "berta esteve"
+    },
+    "heroLinks": {
+      "grupEstudi": "about grup d'estudi",
+      "unfunnyCurator": "about Unfunny_Curator",
+      "fanfiction": "about fanfiction",
+      "backrooms": "about the backrooms"
+    },
+    "subtext": {
+      "linea1": "curator, researcher and artist",
+      "linea2": "shows, lols & internet "
+    },
+    "descripcio": {
+      "ariaLabel": "about berta",
+      "parrafos": [
+        "I'm a curator, artist and researcher specialised in mentoring projects and producing exhibitions and mediations. In my practice I blend institutional critique with pop imaginaries and internet culture.",
+        "I trained in art and design, curating and artistic research. I've carried out artistic and curatorial projects in spaces such as <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href='https://www.santamonica.cat/es' target='_blank'>Santa Mònica</a>, <a href='https://hangar.org/es/' target='_blank'>Hangar</a>, <a href='https://fundaciojoanbrossa.cat/' target='_blank'>Fundació Brossa</a>, <a href='https://www.lopardal.com/' target='_blank'>Lo Pardal</a>, <a href='https://www.fmirobcn.org/ca/' target='_blank'>Fundació Miró</a>, <a href='https://ajuntament.barcelona.cat/ccivics/perepruna' target='_blank'>C.C. Pere Pruna</a> or <a href='https://www.canbaste.com/' target='_blank'>Can Basté</a>. I'm also a member of the artist-and-curator collective <a href=\"projecte.html?slug=grup-destudi\">Grup d'Estudi</a>.",
+        "I'm currently running the project <a href=\"projecte.html?slug=unfunny-curator\">Unfunny_Curator</a>, a curatorial alter ego and mediation project that reflects on various issues of the art world, blending physical and digital spaces."
+      ],
+      "cvLinkText": "cv here"
+    },
+    "categories": {
+      "curadoria": "curating",
+      "investigacio": "research",
+      "exposicions": "exhibitions",
+      "mediacio": "mediation",
+      "text": "writing",
+      "grupdestudi": "study group"
+    },
+    "acompanyaments": {
+      "ariaLabel": "what berta can do for you",
+      "heading": "i can help you:",
+      "items": ["curate", "conceptualise", "produce", "research", "mediate", "coordinate"],
+      "paragraph": "artistic, exhibition and/or cultural projects <br> i usually charge 30€/h for tutoring and the rest of projects would need a quote :-) "
+    },
+    "contacte": {
+      "ariaLabel": "get in touch with berta"
+    },
+    "menuAbajo": {
+      "descripcio": "about me",
+      "projectes": "projects",
+      "acompanyaments": "mentoring",
+      "contacte": "contact"
+    }
+  }
+}

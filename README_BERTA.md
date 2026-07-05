@@ -113,7 +113,16 @@ Cuando quieras traducir:
   (inglés) y traduce los textos. **Deja igual** `slug`, `galeria` y las imágenes.
 - **El listado**: traduce `text` y `feina` en `data/projectes_es.json` /
   `projectes_en.json` (los `slug` no se tocan).
-- **La portada**: edita `index-es.html` / `index-en.html`.
+- **La portada**: NO se edita `index-es.html` ni `index-en.html` directamente
+  (se generan solos y cualquier cambio a mano se perdería). El texto en
+  catalán vive en `index.html`; el texto en castellano e inglés vive en
+  `data/home_translations.json`. Después de tocar cualquiera de los dos,
+  ejecuta:
+  ```
+  node tools/build-homes.js
+  ```
+  y regenera `index-es.html` / `index-en.html` automáticamente. Si falta algún
+  texto en el JSON, el script te dice exactamente cuál.
 
 Hay una explicación más detallada en `IDIOMAS.md`. Y `node tools/validar.js` te
 dice qué proyectos aún no están traducidos (por si quieres ir completándolos).

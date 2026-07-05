@@ -162,7 +162,6 @@ async function renderPaginaProyecto() {
 
   // POPUP GALERÍA
   if (datos.galeria && datos.galeria.length > 0) {
-    let mostrarImagenPopup;
     document.querySelectorAll(".galeria img").forEach((img, idx) => {
       img.classList.add("galeria-img-clickable");
       img.onclick = () => crearPopupGaleriaSimple(datos.galeria, idx);
