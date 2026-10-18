@@ -1,0 +1,101 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "sobre unfunny _curator",
+    "es": "sobre unfunny _curator",
+    "en": "about unfunny _curator"
+  },
+  "year": {
+    "ca": "actualitat",
+    "es": "actualidad",
+    "en": "present"
+  },
+  "text": {
+    "ca": [
+      "Unfunny_Curator és un alter ego curadorial i, també, un projecte de mediació crítica i divulgació on analitzo de manera irònica les diverses problemàtiques del món de l’art local i les dificultats de professionalització derivades de la precarietat del sector.",
+      "Es tracta d’una investigació performàtica – la qual reivindica la teatralitat com a eina epistèmica – que hibrida els espais físics amb els espais digitals, utilitzant les xarxes socials i experimentant amb formats com el meme, l’arxiu o l’assaig, alhora que incorporant formats com la mediació, la performance o la curadoria.",
+      "Algunes de les activacions d’Unfunny_Curator s’han dut a terme a espais com <a href='https://hangar.org/es/'target='_blank'>Hangar</a>, <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>, <a href='https://www.fmirobcn.org/es/?utm_marketing_tactic=::::&gad_source=1&gad_campaignid=22252649908&gbraid=0AAAAAoRYtzwpQ4qSUdRvdRGcJXOEL3PX6&gclid=Cj0KCQiA5abIBhCaARIsAM3-zFXAWw7IKz1iZvkBWy1vwIhzZKWufhwazV8fvAHzPlcsBRn9mw3IpuEaAhrkEALw_wcB'target='_blank'>Fundació Miró</a>, <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona</a>, <a href='https://www.lopardal.com/'target='_blank'>Lo Pardal</a> o la meva pròpia habitació.",
+      "Pots seguir-me a <a href='https://www.instagram.com/unfunny_curator_official/'target='_blank'>@unfunny_curator_official</a> "
+    ],
+    "es": [
+      "Unfunny_Curator es un alter ego curatorial y, también, un proyecto de mediación crítica y divulgación donde analizo de manera irónica las diversas problemáticas del mundo del arte local y las dificultades de profesionalización derivadas de la precariedad del sector.",
+      "Se trata de una investigación performática –que reivindica la teatralidad como herramienta epistémica– que hibrida los espacios físicos con los espacios digitales, utilizando las redes sociales y experimentando con formatos como el meme, el archivo o el ensayo, a la vez que incorporando formatos como la mediación, la performance o la curaduría.",
+      "Algunas de las activaciones de Unfunny_Curator se han llevado a cabo en espacios como <a href='https://hangar.org/es/'target='_blank'>Hangar</a>, <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>, <a href='https://www.fmirobcn.org/es/?utm_marketing_tactic=::::&gad_source=1&gad_campaignid=22252649908&gbraid=0AAAAAoRYtzwpQ4qSUdRvdRGcJXOEL3PX6&gclid=Cj0KCQiA5abIBhCaARIsAM3-zFXAWw7IKz1iZvkBWy1vwIhzZKWufhwazV8fvAHzPlcsBRn9mw3IpuEaAhrkEALw_wcB'target='_blank'>Fundació Miró</a>, <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona</a>, <a href='https://www.lopardal.com/'target='_blank'>Lo Pardal</a> o mi propia habitación.",
+      "Puedes seguirme en <a href='https://www.instagram.com/unfunny_curator_official/'target='_blank'>@unfunny_curator_official</a> "
+    ],
+    "en": [
+      "Unfunny_Curator is a curatorial alter ego and also a project of critical mediation and dissemination where I ironically analyse the various issues of the local art world and the difficulties of professionalisation arising from the sector's precariousness.",
+      "It is a performative research –which vindicates theatricality as an epistemic tool– that hybridises physical and digital spaces, using social media and experimenting with formats such as the meme, the archive or the essay, while incorporating formats such as mediation, performance or curating.",
+      "Some of Unfunny_Curator's activations have taken place in spaces such as <a href='https://hangar.org/es/'target='_blank'>Hangar</a>, <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>, <a href='https://www.fmirobcn.org/es/?utm_marketing_tactic=::::&gad_source=1&gad_campaignid=22252649908&gbraid=0AAAAAoRYtzwpQ4qSUdRvdRGcJXOEL3PX6&gclid=Cj0KCQiA5abIBhCaARIsAM3-zFXAWw7IKz1iZvkBWy1vwIhzZKWufhwazV8fvAHzPlcsBRn9mw3IpuEaAhrkEALw_wcB'target='_blank'>Fundació Miró</a>, <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona</a>, <a href='https://www.lopardal.com/'target='_blank'>Lo Pardal</a> or my own bedroom.",
+      "You can follow me at <a href='https://www.instagram.com/unfunny_curator_official/'target='_blank'>@unfunny_curator_official</a> "
+    ]
+  },
+  "related": [
+    {
+      "title": {
+        "ca": "masterclass: tot anirà bé",
+        "es": "masterclass: todo irá bien",
+        "en": "masterclass: everything will be fine"
+      },
+      "project": "meditacio-massana"
+    },
+    {
+      "title": "la gran cura",
+      "project": "la-gran-cura"
+    },
+    {
+      "title": "the curator's project",
+      "project": "the-curators-project"
+    },
+    {
+      "title": {
+        "ca": "masterclass d'expos",
+        "es": "masterclass de expos",
+        "en": "exhibitions masterclass"
+      },
+      "project": "master-expos"
+    },
+    {
+      "title": {
+        "ca": "un unfunny_curatTour",
+        "es": "un unfunny _curatour",
+        "en": "un unfunny _curatour"
+      },
+      "project": "lluerna"
+    },
+    {
+      "title": "this is a networking data visualization ;-)",
+      "project": "networking-data"
+    },
+    {
+      "title": "caçadoris d'artspeak",
+      "project": "cacadoris-dartspeak"
+    },
+    {
+      "title": "pls! i'm a star!: espai balda",
+      "project": "espai-balda"
+    },
+    {
+      "title": {
+        "ca": "cap a una investigació performàtica",
+        "es": "hacia una investigación performática",
+        "en": "towards a performative research"
+      },
+      "project": "investigacio-performatica"
+    },
+    {
+      "title": "berta esteve is not illiterate (anymore)",
+      "project": "not-illiterate"
+    }
+  ],
+  "photos": 11,
+  "card": {
+    "title": "unfunny_curator",
+    "summary": {
+      "ca": "sobre èxit, professionalització i l’artworld",
+      "es": "sobre éxito, profesionalización y el artworld",
+      "en": "on success, professionalisation and the artworld"
+    },
+    "year": "actualitat"
+  }
+}

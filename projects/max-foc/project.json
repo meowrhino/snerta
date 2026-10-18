@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "qui juga amb foc",
+    "es": "quién juega con fuego",
+    "en": "who plays with fire"
+  },
+  "year": "2025",
+  "place": "<a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>",
+  "city": "Esplugues de Llobregat",
+  "text": {
+    "ca": [
+      "Assistència tècnica a la conferència performativa sobre foc i amb foc de <a href='https://maxazemar.hotglue.me/'target='_blank'>Max Azemar</a>. ",
+      "Hi ha una insistència a parlar de pensament crític, d’emergència, de revolució. Sovint, aquestes paraules s’han institucionalitzat tant, que ja no encenen res i esdevenen una motllura. Aquesta exposició vol interrogar el lloc on aquestes paraules es buiden. Vol pensar el foc —no com a metàfora domèstica o espectacular—, sinó com a acte, com a fricció, com a esdeveniment que desborda.",
+      "Exposició amb obra de <a href='https://www.instagram.com/silvietarragona/?hl=es'target='_blank'>Sílvia Tarragona</a> i activació de <a href='https://maxazemar.hotglue.me/'target='_blank'>Max Azemar</a>, a cura d'<a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>."
+    ],
+    "es": [
+      "Asistencia técnica a la conferencia performativa sobre el fuego y con fuego de <a href='https://maxazemar.hotglue.me/'target='_blank'>Max Azemar</a>.",
+      "Hay una insistencia en hablar de pensamiento crítico, de emergencia, de revolución. A menudo, estas palabras se han institucionalizado tanto que ya no encienden nada y se convierten en una moldura. Esta exposición quiere interrogar el lugar donde estas palabras se vacían. Quiere pensar el fuego —no como metáfora doméstica o espectacular—, sino como acto, como fricción, como acontecimiento que desborda.",
+      "Exposición con obra de <a href='https://www.instagram.com/silvietarragona/?hl=es'target='_blank'>Sílvia Tarragona</a> y activación de <a href='https://maxazemar.hotglue.me/'target='_blank'>Max Azemar</a>, a cargo de <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>."
+    ],
+    "en": [
+      "Technical assistance for the performative lecture about fire and with fire by <a href='https://maxazemar.hotglue.me/'target='_blank'>Max Azemar</a>.",
+      "There is an insistence on talking about critical thinking, emergency, revolution. Often, these words have become so institutionalised that they no longer ignite anything and turn into a mere moulding. This exhibition wants to interrogate the place where these words empty out. It wants to think fire —not as a domestic or spectacular metaphor—, but as act, as friction, as an event that overflows.",
+      "Exhibition with work by <a href='https://www.instagram.com/silvietarragona/?hl=es'target='_blank'>Sílvia Tarragona</a> and an activation by <a href='https://maxazemar.hotglue.me/'target='_blank'>Max Azemar</a>, curated by <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>."
+    ]
+  },
+  "photos": 8,
+  "card": {
+    "title": "qui juga amb foc, es pot dir foc a una flama que no crema?",
+    "place": "estructuras 3000",
+    "city": "esplugues de llobregat",
+    "summary": {
+      "ca": "conferència performativa de Max Azemar",
+      "es": "conferencia performativa de Max Azemar",
+      "en": "performative lecture by Max Azemar"
+    },
+    "role": {
+      "ca": "assistència tècnica",
+      "es": "asistencia técnica",
+      "en": "technical assistance"
+    },
+    "year": "2025"
+  }
+}

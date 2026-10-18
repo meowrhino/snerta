@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "sobre grup d'estudi",
+    "es": "sobre grup d'estudi",
+    "en": "about grup d'estudi"
+  },
+  "year": {
+    "ca": "des de 2019",
+    "es": "desde 2019",
+    "en": "since 2019"
+  },
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "Col·lectiu d'artistes i curadores que es dedica a la catalogació i a la proposició de noves formes de presentació pública de les produccions artístiques i que defensa la radical mobilitat, en termes de l'adscripció al grup, dels seus integrants.",
+      "Gd'E ha rebut la Beca de Suport a la Creació de La Caixa 2020 produint el llibre “Exhibition View” i ha realitzat projectes expositius, performatius, curatorials i de mediació a <a href='https://ajuntament.barcelona.cat/lavirreina/ca' target='_blank'>La Virreina CI</a> (Para k kieres saber eso?, 2021), a la galeria <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona espai 2</a> (Sala Grup d'Estudi, 2021), al <a href=https://www.macba.cat/ca/?gad_source=1&gad_campaignid=778934358&gbraid=0AAAAADPmzcp8mj9OXsUjhVKRPy-E9GCip&gclid=Cj0KCQiAr5nKBhCpARIsACa_NiOQBZJ4Jmjr4ZDoxgGz2AbWfJSZ3_lPGqW0zlPRE05ZqpRr6Kju2MwaAtAbEALw_wcB'target='_blank'>MACBA</a> (Marxandatge Grup d'Estudi, 2021 i Cheer, boo, fund, 2024), al  <a href='https://www.centrelectura.cat/cdlweb/' target='_blank'>CDLReus</a> (Sala Grup d'Estudi Rosa Mangrané, 2022), a <a href='https://indexfoundation.se/' target='_blank'>Index Foundation</a> d'Estocolm (Exhibition View Control Wars, 2022), a la Capella de Guarda-si-venes (I això què és, 2022), a la <a href='https://fundaciojoanbrossa.cat/'target='_blank'>Fundació Brossa</a> (Carpa Grup d'Estudi, 2022 i <a href='projecte.html?slug=exit-through-the-alehop'>Grup d'Estudi for you: Èxit through the Ale-hop</a>, 2023), al <a href='https://www.santamonica.cat/es'target='_blank'>Santa Mònica</a> (<a href='projecte.html?slug=la-possibilitat'>La possibilitat de no haver sigut</a>, 2023-2024), <a href='https://www.exibart.es/'target='_blank'>Exibart</a> (Interferencias 1, 2024) i <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a> (<a href='projecte.html?slug=caixa-sorpresa'>Caixa sorpresa Grup d'Estudi</a>, 2025).",
+      "Ens pots seguir a <a href='https://www.instagram.com/grupdestudi/?hl=es'target='_blank'>@grupdestudi</a>"
+    ],
+    "es": [
+      "Colectivo de artistas y curadoras que se dedica a la catalogación y a la proposición de nuevas formas de presentación pública de las producciones artísticas y que defiende la radical movilidad, en términos de la adscripción al grupo, de sus integrantes.",
+      "Gd'E ha recibido la Beca de Apoyo a la Creación de La Caixa 2020 produciendo el libro “Exhibition View” y ha realizado proyectos expositivos, performativos, curatoriales y de mediación en <a href='https://ajuntament.barcelona.cat/lavirreina/ca' target='_blank'>La Virreina CI</a> (Para k kieres saber eso?, 2021), en la galería <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona espai 2</a> (Sala Grup d'Estudi, 2021), en el <a href=https://www.macba.cat/ca/?gad_source=1&gad_campaignid=778934358&gbraid=0AAAAADPmzcp8mj9OXsUjhVKRPy-E9GCip&gclid=Cj0KCQiAr5nKBhCpARIsACa_NiOQBZJ4Jmjr4ZDoxgGz2AbWfJSZ3_lPGqW0zlPRE05ZqpRr6Kju2MwaAtAbEALw_wcB'target='_blank'>MACBA</a> (Marxandatge Grup d'Estudi, 2021 y Cheer, boo, fund, 2024), en el <a href='https://www.centrelectura.cat/cdlweb/' target='_blank'>CDLReus</a> (Sala Grup d'Estudi Rosa Mangrané, 2022), en <a href='https://indexfoundation.se/' target='_blank'>Index Foundation</a> de Estocolmo (Exhibition View Control Wars, 2022), en la Capella de Guarda-si-venes (I això què és, 2022), en la <a href='https://fundaciojoanbrossa.cat/'target='_blank'>Fundació Brossa</a> (Carpa Grup d'Estudi, 2022 y <a href='projecte.html?slug=exit-through-the-alehop'>Grup d'Estudi for you: Èxit through the Ale-hop</a>, 2023), en el <a href='https://www.santamonica.cat/es'target='_blank'>Santa Mònica</a> (<a href='projecte.html?slug=la-possibilitat'>La possibilitat de no haver sigut</a>, 2023-2024), <a href='https://www.exibart.es/'target='_blank'>Exibart</a> (Interferencias 1, 2024) y <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a> (<a href='projecte.html?slug=caixa-sorpresa'>Caixa sorpresa Grup d'Estudi</a>, 2025).",
+      "Nos puedes seguir en <a href='https://www.instagram.com/grupdestudi/?hl=es'target='_blank'>@grupdestudi</a>"
+    ],
+    "en": [
+      "Collective of artists and curators devoted to cataloguing and proposing new forms of public presentation of artistic production, and which defends the radical mobility of its members in terms of belonging to the group.",
+      "Gd'E received the La Caixa 2020 Creation Support Grant, producing the book “Exhibition View”, and has carried out exhibition, performative, curatorial and mediation projects at <a href='https://ajuntament.barcelona.cat/lavirreina/ca' target='_blank'>La Virreina CI</a> (Para k kieres saber eso?, 2021), at the gallery <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona espai 2</a> (Sala Grup d'Estudi, 2021), at <a href=https://www.macba.cat/ca/?gad_source=1&gad_campaignid=778934358&gbraid=0AAAAADPmzcp8mj9OXsUjhVKRPy-E9GCip&gclid=Cj0KCQiAr5nKBhCpARIsACa_NiOQBZJ4Jmjr4ZDoxgGz2AbWfJSZ3_lPGqW0zlPRE05ZqpRr6Kju2MwaAtAbEALw_wcB'target='_blank'>MACBA</a> (Marxandatge Grup d'Estudi, 2021 and Cheer, boo, fund, 2024), at <a href='https://www.centrelectura.cat/cdlweb/' target='_blank'>CDLReus</a> (Sala Grup d'Estudi Rosa Mangrané, 2022), at <a href='https://indexfoundation.se/' target='_blank'>Index Foundation</a> in Stockholm (Exhibition View Control Wars, 2022), at the Capella de Guarda-si-venes (I això què és, 2022), at <a href='https://fundaciojoanbrossa.cat/'target='_blank'>Fundació Brossa</a> (Carpa Grup d'Estudi, 2022 and <a href='projecte.html?slug=exit-through-the-alehop'>Grup d'Estudi for you: Èxit through the Ale-hop</a>, 2023), at <a href='https://www.santamonica.cat/es'target='_blank'>Santa Mònica</a> (<a href='projecte.html?slug=la-possibilitat'>La possibilitat de no haver sigut</a>, 2023-2024), <a href='https://www.exibart.es/'target='_blank'>Exibart</a> (Interferencias 1, 2024) and <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a> (<a href='projecte.html?slug=caixa-sorpresa'>Caixa sorpresa Grup d'Estudi</a>, 2025).",
+      "You can follow us at <a href='https://www.instagram.com/grupdestudi/?hl=es'target='_blank'>@grupdestudi</a>"
+    ]
+  },
+  "photos": 15,
+  "card": {
+    "title": "grup d'estudi",
+    "city": "barcelona",
+    "summary": {
+      "ca": "col·lectiu d'artistes i curadores que es dediquen a la catalogació i a la proposició de noves formes de presentació pública de les produccions artístiques",
+      "es": "colectivo de artistas y curadoras dedicadas a la catalogación y a la propuesta de nuevas formas de presentación pública de las producciones artísticas",
+      "en": "collective of artists and curators devoted to cataloguing and proposing new forms of public presentation of artistic production"
+    },
+    "role": {
+      "ca": "membre i coordinadora",
+      "es": "miembro y coordinadora",
+      "en": "member and coordinator"
+    },
+    "year": "2019-2025"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "som aquí",
+  "year": "2023",
+  "place": "<a href='https://www.ccurgell.cat/'target='_blank'>C.C.Urgell</a>",
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "Acompanyament de l'exposició <a href='https://www.siralobo.com/project/som-aqui-solo-exhibition/'target='_blank'>Som aquí</a> de <a href='https://www.siralobo.com/'target='_blank'>Sira Lobo</a>, dins del marc del <a href='https://www.ccurgell.cat/illulola-festival-dillustracio-infantil-i-juvenil/'target='_blank'>Festival Il·luLola</a>.",
+      "L’exposició proposa una redescoberta de l’espai urbà desmuntant el paisatge a través de la il·lustració i el reconstruïnt-lo a través del joc. Fent visible allò que és invisible, el que és efímer i el que no fa soroll, l'artista ens apropa al barri de la nova esquerra de l'eixample fent un passeig d’alçada per baixar-hi a poc a poc i explorar de quina manera el mirem i l’habitem."
+    ],
+    "es": [
+      "Acompañamiento de la exposición <a href='https://www.siralobo.com/project/som-aqui-solo-exhibition/'target='_blank'>Som aquí</a> de <a href='https://www.siralobo.com/'target='_blank'>Sira Lobo</a>, dentro del marco del <a href='https://www.ccurgell.cat/illulola-festival-dillustracio-infantil-i-juvenil/'target='_blank'>Festival Il·luLola</a>.",
+      "La exposición propone un redescubrimiento del espacio urbano desmontando el paisaje a través de la ilustración y reconstruyéndolo a través del juego. Haciendo visible lo invisible, lo efímero y lo que no hace ruido, la artista nos acerca al barrio de la nova esquerra de l'eixample dando un paseo en altura para bajar poco a poco y explorar de qué manera lo miramos y lo habitamos."
+    ],
+    "en": [
+      "Mentoring of the exhibition <a href='https://www.siralobo.com/project/som-aqui-solo-exhibition/'target='_blank'>Som aquí</a> by <a href='https://www.siralobo.com/'target='_blank'>Sira Lobo</a>, within the <a href='https://www.ccurgell.cat/illulola-festival-dillustracio-infantil-i-juvenil/'target='_blank'>Il·luLola Festival</a>.",
+      "The exhibition proposes a rediscovery of urban space by dismantling the landscape through illustration and rebuilding it through play. Making visible what is invisible, ephemeral and silent, the artist brings us closer to the nova esquerra de l'eixample neighbourhood, taking a walk up high to come down slowly and explore the way we look at it and inhabit it."
+    ]
+  },
+  "photos": 8,
+  "card": {
+    "title": "som aquí",
+    "place": "c.c. urgell",
+    "city": "barcelona",
+    "summary": {
+      "ca": "exposició de Sira Lobo",
+      "es": "exposición de Sira Lobo",
+      "en": "exhibition by Sira Lobo"
+    },
+    "role": {
+      "ca": "acompanyament i museografia",
+      "es": "acompañamiento y museografía",
+      "en": "mentoring and exhibition design"
+    },
+    "year": "2024"
+  }
+}

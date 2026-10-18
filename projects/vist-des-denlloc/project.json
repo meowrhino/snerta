@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "the backrooms: analog found footage",
+  "year": "2024",
+  "place": "<a href='https://www.lacapella.barcelona/es'target='_blank'>la capella</a>",
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "'The Backrooms: Analog Found Footage' pren com a referència el gènere fílmic dels backrooms per a explorar conceptes com la dissociació, la percepció deformada de l'espai i el temps, la desrealització o la memòria. Es tracta d'un film que posa en relació un vídeo gravat digitalment al 2022 amb el metratge analògic registrat dins del marc del seminari <a href='https://graf.cat/events/event/vist-des-denlloc/'target='_blank'>Vist des d'enlloc</a> impartit per <a href='https://www.valentinalvaradomatos.com/'target='_blank'>Valentina Alvarado Matos</a>.",
+      "Vist des d'enlloc creua jocs a l'atzar, metodologies de filmar en format analògic i relats breus escrits per traduir-los en filmacions.",
+      "L'exposició és l'obertura al públic dels resultats del seminari al que hi participen Paloma Labay Renedo, ⁠Berta Esteve, ⁠Pablo Apellániz, ⁠⁠Andrea Romero Langa, ⁠⁠Lara Chust Ibañez, Marina Bueno Arrufat, Ximena Vilchis Laija, Kaloyan Iordanov i Alejandro Robles.",
+      "Dins del marc de la investigació <a href='projecte.html?slug=backrooms'>sobre els Backrooms</a>."
+    ],
+    "es": [
+      "'The Backrooms: Analog Found Footage' toma como referencia el género fílmico de los backrooms para explorar conceptos como la disociación, la percepción deformada del espacio y el tiempo, la desrealización o la memoria. Se trata de un film que pone en relación un vídeo grabado digitalmente en 2022 con el metraje analógico registrado dentro del marco del seminario <a href='https://graf.cat/events/event/vist-des-denlloc/'target='_blank'>Vist des d'enlloc</a> impartido por <a href='https://www.valentinalvaradomatos.com/'target='_blank'>Valentina Alvarado Matos</a>.",
+      "Vist des d'enlloc cruza juegos al azar, metodologías de filmar en formato analógico y relatos breves escritos para traducirlos en filmaciones.",
+      "La exposición es la apertura al público de los resultados del seminario en el que participan Paloma Labay Renedo, Berta Esteve, Pablo Apellániz, Andrea Romero Langa, Lara Chust Ibañez, Marina Bueno Arrufat, Ximena Vilchis Laija, Kaloyan Iordanov y Alejandro Robles.",
+      "Dentro del marco de la investigación <a href='projecte.html?slug=backrooms'>sobre los Backrooms</a>."
+    ],
+    "en": [
+      "'The Backrooms: Analog Found Footage' takes the backrooms film genre as a reference to explore concepts such as dissociation, the distorted perception of space and time, derealisation or memory. It is a film that puts a video shot digitally in 2022 in relation with analogue footage recorded within the seminar <a href='https://graf.cat/events/event/vist-des-denlloc/'target='_blank'>Vist des d'enlloc</a> taught by <a href='https://www.valentinalvaradomatos.com/'target='_blank'>Valentina Alvarado Matos</a>.",
+      "Vist des d'enlloc crosses chance games, methodologies of filming in analogue format and short stories written to be translated into footage.",
+      "The exhibition is the public opening of the seminar's results, featuring Paloma Labay Renedo, Berta Esteve, Pablo Apellániz, Andrea Romero Langa, Lara Chust Ibañez, Marina Bueno Arrufat, Ximena Vilchis Laija, Kaloyan Iordanov and Alejandro Robles.",
+      "As part of the research <a href='projecte.html?slug=backrooms'>on the Backrooms</a>."
+    ]
+  },
+  "photos": 8,
+  "card": {
+    "title": "the backrooms: analog found footage, vist des d'enlloc",
+    "place": "la capella",
+    "city": "barcelona",
+    "summary": {
+      "ca": "vídeo per a exposició col·lectiva",
+      "es": "vídeo para exposición colectiva",
+      "en": "video for a group exhibition"
+    },
+    "year": "2024"
+  }
+}

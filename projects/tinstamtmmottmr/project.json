@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "there is no such thing as making too much money or taking too many risks",
+  "year": "2023",
+  "place": "<a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>",
+  "city": "Esplugues de Llobregat",
+  "text": {
+    "ca": [
+      "Visites guiades performatives per a les exposicions de <a href='https://www.nuriaguell.com/'target='_blank'>Núria Güell</a> i <a href='https://ignasiaballi.net/'target='_blank'>Ignasi Aballí</a> dins del marc del projecte <a href='https://estructuras3000.com/projectes/thereis/thereis.html'target='_blank'>TINSTAMTMMOTTMR</a> curat per <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>.",
+      "Què passa quan portes a artistes ja reconeguts per exposar en el marc d'un cicle de creació jove i emergent? A partir de la creació d'un white cube apuntalat dins d'Estructures 3000 l'espai comú queda anul·lat per tal d'acollir una obra cada dia.",
+      "Dins del marc del <a href='https://artnou.net/es/inicio/'target='_blank'>Festival Art Nou</a> 2023."
+    ],
+    "es": [
+      "Visitas guiadas performativas para las exposiciones de <a href='https://www.nuriaguell.com/'target='_blank'>Núria Güell</a> y <a href='https://ignasiaballi.net/'target='_blank'>Ignasi Aballí</a> dentro del marco del proyecto <a href='https://estructuras3000.com/projectes/thereis/thereis.html'target='_blank'>TINSTAMTMMOTTMR</a> comisariado por <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>.",
+      "¿Qué pasa cuando llevas a artistas ya reconocidos a exponer en el marco de un ciclo de creación joven y emergente? A partir de la creación de un white cube apuntalado dentro de Estructures 3000, el espacio común queda anulado para acoger una obra cada día.",
+      "Dentro del marco del <a href='https://artnou.net/es/inicio/'target='_blank'>Festival Art Nou</a> 2023."
+    ],
+    "en": [
+      "Performative guided tours for the exhibitions by <a href='https://www.nuriaguell.com/'target='_blank'>Núria Güell</a> and <a href='https://ignasiaballi.net/'target='_blank'>Ignasi Aballí</a> within the project <a href='https://estructuras3000.com/projectes/thereis/thereis.html'target='_blank'>TINSTAMTMMOTTMR</a> curated by <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>.",
+      "What happens when you bring already established artists to exhibit within a cycle of young, emerging creation? Through the creation of a white cube propped up inside Estructures 3000, the common space is annulled in order to host one work each day.",
+      "Within the <a href='https://artnou.net/es/inicio/'target='_blank'>Art Nou Festival</a> 2023."
+    ]
+  },
+  "photos": 8,
+  "card": {
+    "title": "there is no such thing as making too much money or taking too many risks, art nou '23",
+    "place": "estructuras 3000",
+    "city": "barcelona",
+    "summary": {
+      "ca": "visites guiades performatives a les exposicions d'Ignasi Aballí i Núria Güell",
+      "es": "visitas guiadas performativas a las exposiciones de Ignasi Aballí y Núria Güell",
+      "en": "performative guided tours of the exhibitions by Ignasi Aballí and Núria Güell"
+    },
+    "year": "2023"
+  }
+}

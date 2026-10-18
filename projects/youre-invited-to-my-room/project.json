@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "you're invited to my room",
+  "year": "2018",
+  "place": "la meva habitació",
+  "city": "barcelona",
+  "text": {
+    "ca": [
+      "Esdeveniment que consta en l’acció d’obrir les portes de la meva habitació durant un cap de setmana sencer, on presento un univers espacial i emocional al que només hi podràn accedir els pocs que hi siguin convidats: els meus millors amics. L’habitació, dotada de connexió a internet, és on totes aquestes pràctiques viuen lliurement.",
+      "Materialització i proposta que sorgeix de la investigació teòrica 'You're invited to my room', explora les pràctiques fan i el fenòmen del fanfiction.",
+      "Dins del marc de la investigació <a href='projecte.html?slug=sobre-fanfiction'>sobre el fanfiction</a>."
+    ],
+    "es": [
+      "Evento que consiste en la acción de abrir las puertas de mi habitación durante un fin de semana entero, donde presento un universo espacial y emocional al que solo podrán acceder los pocos que sean invitados: mis mejores amigos. La habitación, dotada de conexión a internet, es donde todas estas prácticas viven libremente.",
+      "Materialización y propuesta que surge de la investigación teórica 'You're invited to my room', explora las prácticas fan y el fenómeno del fanfiction.",
+      "Dentro del marco de la investigación <a href='projecte.html?slug=sobre-fanfiction'>sobre el fanfiction</a>."
+    ],
+    "en": [
+      "Event consisting of the action of opening the doors of my bedroom for a whole weekend, where I present a spatial and emotional universe that only the few who are invited will be able to access: my best friends. The bedroom, equipped with an internet connection, is where all these practices live freely.",
+      "A materialisation and proposal that emerges from the theoretical research 'You're invited to my room', exploring fan practices and the phenomenon of fanfiction.",
+      "As part of the research <a href='projecte.html?slug=sobre-fanfiction'>on fanfiction</a>."
+    ]
+  },
+  "photos": 5,
+  "card": {
+    "title": "you're invited to my room",
+    "place": "a la meva habitació i a l'escola massana",
+    "city": "poblenou, barcelona",
+    "summary": {
+      "ca": "instal·lació",
+      "es": "instalación",
+      "en": "installation"
+    },
+    "year": "2018"
+  }
+}

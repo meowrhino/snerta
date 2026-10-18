@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "30 anys de Can Basté",
+    "es": "30 años de Can Basté",
+    "en": "30 years of Can Basté"
+  },
+  "year": "2025",
+  "place": "<a href='https://www.canbaste.com/' target='_blank'>can basté</a>",
+  "city": "barcelona",
+  "text": {
+    "ca": [
+      "Exposició commemorativa dels 30 anys de <a href='https://www.canbaste.com/'target='_blank'>Can Basté</a> com a centre cívic i projecte cultural arrelat al barri del Turó de la Peira. La mostra recull la memòria d’activitats, tallers i projectes que han tingut lloc al centre, amb especial atenció la seva especialització, la fotografia. L’exposició es divideix en seccions temàtiques que combinen imatges, documents i materials d’arxiu, posant en valor el model de gestió cívica i el paper de la comunitat."
+    ],
+    "es": [
+      "Exposición conmemorativa de los 30 años de <a href='https://www.canbaste.com/'target='_blank'>Can Basté</a> como centro cívico y proyecto cultural arraigado en el barrio del Turó de la Peira. La muestra recoge la memoria de actividades, talleres y proyectos que han tenido lugar en el centro, con especial atención a su especialización, la fotografía. La exposición se divide en secciones temáticas que combinan imágenes, documentos y materiales de archivo, poniendo en valor el modelo de gestión cívica y el papel de la comunidad."
+    ],
+    "en": [
+      "Commemorative exhibition of the 30 years of <a href='https://www.canbaste.com/'target='_blank'>Can Basté</a> as a civic centre and cultural project rooted in the Turó de la Peira neighbourhood. The show gathers the memory of activities, workshops and projects that have taken place at the centre, with special attention to its speciality, photography. The exhibition is divided into thematic sections that combine images, documents and archive materials, highlighting the model of civic management and the role of the community."
+    ]
+  },
+  "photos": 10,
+  "card": {
+    "title": "30 anys de can basté",
+    "place": "can basté",
+    "city": "barcelona",
+    "summary": {
+      "ca": "exposició retrospectiva",
+      "es": "exposición retrospectiva",
+      "en": "retrospective exhibition"
+    },
+    "role": {
+      "ca": "museografia i producció",
+      "es": "museografía y producción",
+      "en": "exhibition design and production"
+    },
+    "year": "2025"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "conferència performativa sobre conferència performativa",
+    "es": "conferencia performativa sobre conferencia performativa",
+    "en": "performative lecture on performative lecture"
+  },
+  "year": "2025",
+  "place": "<a href='https://www.escolamassana.cat/ca/'target='_blank'>escola massana</a>",
+  "city": "barcelona",
+  "text": {
+    "ca": [
+      "Assistència tècnica a la conferència performativa sobre conferència performativa que <a href='https://maxazemar.hotglue.me/'target='_blank'>Max Azemar</a> realitza pels alumnes cursant l'assignatura de TFG a l'<a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>.",
+      "La conferència utilitza la cartolina d'escola com a suport en ves del clàssic power point i, entre altres accions performatives, el conferenciant té el guió escrit pel cos, es llença un petard al mig del discurs, es sintonitzen els subway surfers per a potenciar l'atenció i els assistents tenen el poder d'interrompre en qualsevol moment la sessió amb una sorollosa botzina."
+    ],
+    "es": [
+      "Asistencia técnica a la conferencia performativa sobre conferencia performativa que <a href='https://maxazemar.hotglue.me/'target='_blank'>Max Azemar</a> realiza para el alumnado que cursa la asignatura de TFG en la <a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>.",
+      "La conferencia utiliza la cartulina de escuela como soporte en vez del clásico power point y, entre otras acciones performativas, el conferenciante tiene el guion escrito por el cuerpo, se lanza un petardo en mitad del discurso, se sintonizan los subway surfers para potenciar la atención y los asistentes tienen el poder de interrumpir en cualquier momento la sesión con una ruidosa bocina."
+    ],
+    "en": [
+      "Technical assistance for the performative lecture on performative lecture that <a href='https://maxazemar.hotglue.me/'target='_blank'>Max Azemar</a> gives to the students taking the final-degree-project course at <a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>.",
+      "The lecture uses school cardboard as a support instead of the classic power point and, among other performative actions, the speaker has the script written on his body, a firecracker goes off in the middle of the talk, subway surfers is played to boost attention, and the audience has the power to interrupt the session at any moment with a noisy horn."
+    ]
+  },
+  "photos": 8,
+  "card": {
+    "title": "conferència performativa sobre conferència performativa",
+    "place": "escola massana",
+    "city": "barcelona",
+    "summary": {
+      "ca": "conferència performativa de Max Azemar",
+      "es": "conferencia performativa de Max Azemar",
+      "en": "performative lecture by Max Azemar"
+    },
+    "role": {
+      "ca": "assistència tècnica",
+      "es": "asistencia técnica",
+      "en": "technical assistance"
+    },
+    "year": "2025"
+  }
+}

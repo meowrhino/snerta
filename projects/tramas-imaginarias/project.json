@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "tramas imaginarias",
+  "year": "2025",
+  "place": "<a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona espai 2</a>",
+  "city": "barcelona",
+  "text": {
+    "ca": [
+      "Exposició col·lectiva amb treballs dels i les participants del <a href='https://www.eina.cat/es/master-universitario-investigacion-arte-diseno'target='_blank'>Màster Universitari de Recerca en Art i Disseny, MURAD</a>. Cada peça desplega un imaginari propi vinculat als processos individuals de recerca, tant des de l’àmbit formal com teòric o metodològic.",
+      "Curada conjuntament amb <a href='https://www.instagram.com/sofiamontecinosm/?hl=es'target='_blank'>Sofia Montecinos</a>, <a href='https://www.instagram.com/lumeng200/?hl=es'target='_blank'>Lu Meng</a>.",
+      "Artistes: Marta Casas, Clara de Sousa, Hong Xu, Huseyin Ozel, Laura Fajardo, Sofia Montecinos, Bai Yuchen, Lu Meng, Lina Fernandez G, Liang Xin, Yu Shilan, Jiaxin Zhang, Sihan Li, Miaomiao Cheng, Unfunny_Curator & Sofía Aguilar."
+    ],
+    "es": [
+      "Exposición colectiva con trabajos de los y las participantes del <a href='https://www.eina.cat/es/master-universitario-investigacion-arte-diseno'target='_blank'>Máster Universitario de Investigación en Arte y Diseño, MURAD</a>. Cada pieza despliega un imaginario propio vinculado a los procesos individuales de investigación, tanto desde el ámbito formal como teórico o metodológico.",
+      "Comisariada conjuntamente con <a href='https://www.instagram.com/sofiamontecinosm/?hl=es'target='_blank'>Sofia Montecinos</a>, <a href='https://www.instagram.com/lumeng200/?hl=es'target='_blank'>Lu Meng</a>.",
+      "Artistas: Marta Casas, Clara de Sousa, Hong Xu, Huseyin Ozel, Laura Fajardo, Sofia Montecinos, Bai Yuchen, Lu Meng, Lina Fernandez G, Liang Xin, Yu Shilan, Jiaxin Zhang, Sihan Li, Miaomiao Cheng, Unfunny_Curator & Sofía Aguilar."
+    ],
+    "en": [
+      "Group exhibition with works by the participants of the <a href='https://www.eina.cat/es/master-universitario-investigacion-arte-diseno'target='_blank'>University Master's in Art and Design Research, MURAD</a>. Each piece unfolds its own imaginary tied to the participants' individual research processes, whether from a formal, theoretical or methodological standpoint.",
+      "Co-curated with <a href='https://www.instagram.com/sofiamontecinosm/?hl=es'target='_blank'>Sofia Montecinos</a>, <a href='https://www.instagram.com/lumeng200/?hl=es'target='_blank'>Lu Meng</a>.",
+      "Artists: Marta Casas, Clara de Sousa, Hong Xu, Huseyin Ozel, Laura Fajardo, Sofia Montecinos, Bai Yuchen, Lu Meng, Lina Fernandez G, Liang Xin, Yu Shilan, Jiaxin Zhang, Sihan Li, Miaomiao Cheng, Unfunny_Curator & Sofía Aguilar."
+    ]
+  },
+  "photos": 9,
+  "card": {
+    "title": "tramas imaginarias",
+    "place": "àngels barcelona espai 2",
+    "city": "barcelona",
+    "summary": {
+      "ca": "exposició del murad",
+      "es": "exposición del máster murad",
+      "en": "exhibition by the murad master"
+    },
+    "role": {
+      "ca": "co-curadoria",
+      "es": "co-curaduría",
+      "en": "co-curating"
+    },
+    "year": "2025"
+  }
+}

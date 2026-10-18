@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "la gran cura",
+  "year": "2025",
+  "place": "<a href='https://www.lopardal.com/'target='_blank'>lo pardal - fundació guillem viladot</a>",
+  "city": "agramunt",
+  "text": {
+    "ca": [
+      "‘La gran cura’ és una macroexposició. ‘La gran cura’ és una gimcana. ‘La gran cura’ és el comissariat més gran que ha fet <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a> fins la data.",
+      "Aquest projecte és una publicació expandida i una gimcana per Agramunt on es proposa als participants que recullin textos per diversos punts del poble. Es tracta de textos de sala escrits per a establiments com una perruqueria, una ferreteria, una església o un cementiri, proposant llegir aquests espais de la mateixa manera que les exposicions d'art contemporani i obrint un debat sobre el llenguatge i el discurs que s'utilitza en el sector.",
+      "Dins del marc de l'exposició <a href='https://www.lopardal.com/exposicions-lo-pardal-actuals-fitxa.php?id=110'target='_blank'>Tot tombant, convoco</a> de <a href='https://www.instagram.com/lauraalbajar/?hl=es'target='_blank'>Laura Albajar</a>, <a href='https://www.instagram.com/enricmarza/?hl=es'target='_blank'>Enric Marzà</a> i <a href='https://www.instagram.com/unfunny_curator_official/?hl=es' target='_blank'>Unfunny_Curator</a>, resultat de la residència de creació <a href='https://www.lopardal.com/lo-niu.php' target='_blank'>Lo Niu 2025</a>.",
+      "Dins del marc d' <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+    ],
+    "es": [
+      "'La gran cura' es una macroexposición. 'La gran cura' es una gincana. 'La gran cura' es el comisariado más grande que ha hecho <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a> hasta la fecha.",
+      "Este proyecto es una publicación expandida y una gincana por Agramunt donde se propone a los participantes que recojan textos por diversos puntos del pueblo. Se trata de textos de sala escritos para establecimientos como una peluquería, una ferretería, una iglesia o un cementerio, proponiendo leer estos espacios de la misma manera que las exposiciones de arte contemporáneo y abriendo un debate sobre el lenguaje y el discurso que se utiliza en el sector.",
+      "Dentro del marco de la exposición <a href='https://www.lopardal.com/exposicions-lo-pardal-actuals-fitxa.php?id=110'target='_blank'>Tot tombant, convoco</a> de <a href='https://www.instagram.com/lauraalbajar/?hl=es'target='_blank'>Laura Albajar</a>, <a href='https://www.instagram.com/enricmarza/?hl=es'target='_blank'>Enric Marzà</a> y <a href='https://www.instagram.com/unfunny_curator_official/?hl=es' target='_blank'>Unfunny_Curator</a>, resultado de la residencia de creación <a href='https://www.lopardal.com/lo-niu.php' target='_blank'>Lo Niu 2025</a>.",
+      "Dentro del marco de <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+    ],
+    "en": [
+      "'La gran cura' is a macro-exhibition. 'La gran cura' is a scavenger hunt. 'La gran cura' is the largest curatorial project <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a> has done to date.",
+      "This project is an expanded publication and a scavenger hunt around Agramunt where participants are asked to collect texts from various points of the town. They are room texts written for establishments such as a hairdresser's, a hardware shop, a church or a cemetery, proposing to read these spaces the same way as contemporary art exhibitions and opening a debate on the language and discourse used in the sector.",
+      "Within the exhibition <a href='https://www.lopardal.com/exposicions-lo-pardal-actuals-fitxa.php?id=110'target='_blank'>Tot tombant, convoco</a> by <a href='https://www.instagram.com/lauraalbajar/?hl=es'target='_blank'>Laura Albajar</a>, <a href='https://www.instagram.com/enricmarza/?hl=es'target='_blank'>Enric Marzà</a> and <a href='https://www.instagram.com/unfunny_curator_official/?hl=es' target='_blank'>Unfunny_Curator</a>, the result of the creation residency <a href='https://www.lopardal.com/lo-niu.php' target='_blank'>Lo Niu 2025</a>.",
+      "As part of <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+    ]
+  },
+  "photos": 12,
+  "card": {
+    "title": "la gran cura; tot tombant, convoco",
+    "place": "lo pardal",
+    "city": "agramunt",
+    "summary": {
+      "ca": "exposició col·lectiva amb Laura Albajar i Enric Marzà per Lo Niu '25",
+      "es": "exposición colectiva con Laura Albajar y Enric Marzà para Lo Niu '25",
+      "en": "group exhibition with Laura Albajar and Enric Marzà for Lo Niu '25"
+    },
+    "role": {
+      "ca": "com a unfunny_curator",
+      "es": "como unfunny_curator",
+      "en": "as unfunny_curator"
+    },
+    "year": "2025"
+  }
+}

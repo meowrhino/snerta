@@ -1,0 +1,129 @@
+{
+  "$schema": "../schema/about.json",
+  "description": {
+    "ca": "curadora, investigadora i artista; expos, jajas & internet",
+    "es": "curadora, investigadora y artista; expos, jajas & internet",
+    "en": "curator, researcher and artist; shows, lols & internet"
+  },
+  "subtitle": {
+    "ca": [
+      "curadora, investigadora i artista",
+      "expos, jajas & internet"
+    ],
+    "es": [
+      "curadora, investigadora y artista",
+      "expos, jajas & internet"
+    ],
+    "en": [
+      "curator, researcher and artist",
+      "shows, lols & internet"
+    ]
+  },
+  "links": [
+    {
+      "project": "grup-destudi",
+      "text": {
+        "ca": "sobre grup d'estudi",
+        "es": "sobre grup d'estudi",
+        "en": "about grup d'estudi"
+      }
+    },
+    {
+      "project": "unfunny-curator",
+      "text": {
+        "ca": "sobre Unfunny_Curator",
+        "es": "sobre Unfunny_Curator",
+        "en": "about Unfunny_Curator"
+      }
+    },
+    {
+      "project": "sobre-fanfiction",
+      "text": {
+        "ca": "sobre fanfiction",
+        "es": "sobre fanfiction",
+        "en": "about fanfiction"
+      }
+    },
+    {
+      "project": "backrooms",
+      "text": {
+        "ca": "sobre els backrooms",
+        "es": "sobre los backrooms",
+        "en": "about the backrooms"
+      }
+    }
+  ],
+  "bio": {
+    "ca": [
+      "Soc curadora, artista, investigadora i museògrafa especialitzada en l’acompanyament de projectes i la producció d’exposicions i mediacions. En la meva pràctica hibrido la crítica institucional amb l’imaginari pop i la cultura d’internet.",
+      "Tinc formació en arts i disseny, curadoria, museografia i investigació artística. He realitzat projectes artístics i curatorials a espais com <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href='https://www.santamonica.cat/es' target='_blank'>Santa Mònica</a>, <a href='https://hangar.org/es/' target='_blank'>Hangar</a>, <a href='https://fundaciojoanbrossa.cat/' target='_blank'>Fundació Brossa</a>, <a href='https://www.lopardal.com/' target='_blank'>Lo Pardal</a>, <a href='https://www.fmirobcn.org/ca/' target='_blank'>Fundació Miró</a>, <a href='https://ajuntament.barcelona.cat/ccivics/perepruna' target='_blank'>C.C. Pere Pruna</a> o <a href='https://www.canbaste.com/' target='_blank'>Can Basté</a>. També soc membre del col·lectiu d’artistes i curadores <a href=\"projecte.html?slug=grup-destudi\">Grup d'Estudi</a>.",
+      "Actualment duc a terme el projecte <a href=\"projecte.html?slug=unfunny-curator\">Unfunny_Curator</a>, un alter ego curatorial i projecte de mediació que reflexiona sobre diverses problemàtiques del món de l’art, hibridant els espais físics amb els espais digitals."
+    ],
+    "es": [
+      "Soy curadora, artista, investigadora y museógrafa especializada en el acompañamiento de proyectos y la producción de exposiciones y mediaciones. En mi práctica hibrido la crítica institucional con el imaginario pop y la cultura de internet.",
+      "Tengo formación en artes y diseño, curaduría, museografía e investigación artística. He realizado proyectos artísticos y curatoriales en espacios como <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href='https://www.santamonica.cat/es' target='_blank'>Santa Mònica</a>, <a href='https://hangar.org/es/' target='_blank'>Hangar</a>, <a href='https://fundaciojoanbrossa.cat/' target='_blank'>Fundació Brossa</a>, <a href='https://www.lopardal.com/' target='_blank'>Lo Pardal</a>, <a href='https://www.fmirobcn.org/ca/' target='_blank'>Fundació Miró</a>, <a href='https://ajuntament.barcelona.cat/ccivics/perepruna' target='_blank'>C.C. Pere Pruna</a> o <a href='https://www.canbaste.com/' target='_blank'>Can Basté</a>. También soy miembro del colectivo de artistas y curadoras <a href=\"projecte.html?slug=grup-destudi\">Grup d'Estudi</a>.",
+      "Actualmente llevo a cabo el proyecto <a href=\"projecte.html?slug=unfunny-curator\">Unfunny_Curator</a>, un alter ego curatorial y proyecto de mediación que reflexiona sobre diversas problemáticas del mundo del arte, hibridando los espacios físicos con los espacios digitales."
+    ],
+    "en": [
+      "I'm a curator, artist, researcher and museographer specialised in mentoring projects and producing exhibitions and mediations. In my practice I blend institutional critique with pop imaginaries and internet culture.",
+      "I trained in art and design, curating, museography and artistic research. I've carried out artistic and curatorial projects in spaces such as <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href='https://www.santamonica.cat/es' target='_blank'>Santa Mònica</a>, <a href='https://hangar.org/es/' target='_blank'>Hangar</a>, <a href='https://fundaciojoanbrossa.cat/' target='_blank'>Fundació Brossa</a>, <a href='https://www.lopardal.com/' target='_blank'>Lo Pardal</a>, <a href='https://www.fmirobcn.org/ca/' target='_blank'>Fundació Miró</a>, <a href='https://ajuntament.barcelona.cat/ccivics/perepruna' target='_blank'>C.C. Pere Pruna</a> or <a href='https://www.canbaste.com/' target='_blank'>Can Basté</a>. I'm also a member of the artist-and-curator collective <a href=\"projecte.html?slug=grup-destudi\">Grup d'Estudi</a>.",
+      "I'm currently running the project <a href=\"projecte.html?slug=unfunny-curator\">Unfunny_Curator</a>, a curatorial alter ego and mediation project that reflects on various issues of the art world, blending physical and digital spaces."
+    ]
+  },
+  "cv": {
+    "file": "berta_cv_2025.pdf",
+    "text": {
+      "ca": "cv aquí",
+      "es": "cv aquí",
+      "en": "cv here"
+    }
+  },
+  "services": {
+    "title": {
+      "ca": "puc ajudar-te a:",
+      "es": "puedo ayudarte a:",
+      "en": "i can help you:"
+    },
+    "items": {
+      "ca": [
+        "curar",
+        "conceptualitzar",
+        "produir",
+        "investigar",
+        "mediar",
+        "coordinar"
+      ],
+      "es": [
+        "curar",
+        "conceptualizar",
+        "producir",
+        "investigar",
+        "mediar",
+        "coordinar"
+      ],
+      "en": [
+        "curate",
+        "conceptualise",
+        "produce",
+        "research",
+        "mediate",
+        "coordinate"
+      ]
+    },
+    "text": {
+      "ca": "projectes artistics, expositius i/o culturals <br> generalment cobro les tutories a 30€/h i la resta de projectes caldria pressupostar-los :-) ",
+      "es": "proyectos artísticos, expositivos y/o culturales <br> generalmente cobro las tutorías a 30€/h y el resto de proyectos habría que presupuestarlos :-) ",
+      "en": "artistic, exhibition and/or cultural projects <br> i usually charge 30€/h for tutoring and the rest of projects would need a quote :-) "
+    }
+  },
+  "contact": [
+    {
+      "email": "berta.esteve.marco@gmail.com",
+      "instagram": "snerta.esteve"
+    },
+    {
+      "email": "unfunnycurator@gmail.com",
+      "instagram": "unfunny_curator_official"
+    }
+  ]
+}

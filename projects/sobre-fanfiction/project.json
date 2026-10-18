@@ -1,0 +1,75 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "sobre fanfiction",
+    "es": "sobre fanfiction",
+    "en": "about fanfiction"
+  },
+  "year": "2018-2022",
+  "place": "online",
+  "city": {
+    "ca": "la meva habitació",
+    "es": "mi habitación",
+    "en": "my room"
+  },
+  "text": {
+    "ca": [
+      "Sobre fandoms, fanfiction i trencar el canon <3",
+      "En aquest projecte em centro en investigar les pràctiques fan i, en concret, el fenòmen de fanfiction: aquelles narratives fan que incideixen i transformen el contingut oficial, entenent-la com una pràctica d’investigació afectiva i romàntica pròpia de l’experiència queer, i que fuig activament de ser capitalitzada. L’anàlisis del fenòmen em duu a plantejar-me com les característiques sintàctiques, estructurals i afectives del fanfic són sensibles a incidir en les produccions artístiques i curadorials, aportant noves metodologies creatives.",
+      "Aquesta investigació ha pres diverses formes al llarg dels anys, des d'assajos, instal·lacions, conferències, publicacions o assajos afectius varis."
+    ],
+    "es": [
+      "Sobre fandoms, fanfiction y romper el canon <3",
+      "En este proyecto me centro en investigar las prácticas fan y, en concreto, el fenómeno del fanfiction: aquellas narrativas fan que inciden y transforman el contenido oficial, entendiéndolo como una práctica de investigación afectiva y romántica propia de la experiencia queer, y que huye activamente de ser capitalizada. El análisis del fenómeno me lleva a plantearme cómo las características sintácticas, estructurales y afectivas del fanfic son susceptibles de incidir en las producciones artísticas y curatoriales, aportando nuevas metodologías creativas.",
+      "Esta investigación ha tomado diversas formas a lo largo de los años: desde ensayos, instalaciones, conferencias, publicaciones o varios ensayos afectivos."
+    ],
+    "en": [
+      "On fandoms, fanfiction and breaking the canon <3",
+      "In this project I focus on researching fan practices and, specifically, the phenomenon of fanfiction: those fan narratives that affect and transform official content, understanding it as a practice of affective and romantic research proper to the queer experience, one that actively resists being capitalised. Analysing the phenomenon leads me to wonder how the syntactic, structural and affective features of the fanfic are able to influence artistic and curatorial production, contributing new creative methodologies.",
+      "This research has taken many forms over the years: from essays, installations, lectures and publications to various affective essays."
+    ]
+  },
+  "related": [
+    {
+      "title": "you're invited to my room",
+      "project": "youre-invited-to-my-room"
+    },
+    {
+      "title": {
+        "ca": "you're invited to my room: guia + assaig",
+        "es": "you're invited to my room: guía + ensayo",
+        "en": "you're invited to my room: guide + essay"
+      },
+      "project": "youre-invited-tfg"
+    },
+    {
+      "title": {
+        "ca": "com buscar fanfics?",
+        "es": "¿cómo buscar fanfics?",
+        "en": "how to find fanfics?"
+      },
+      "project": "buscar-fanfics"
+    },
+    {
+      "title": {
+        "ca": "breaking canon: fanfiction i crítica",
+        "es": "breaking canon",
+        "en": "breaking canon"
+      },
+      "project": "breaking-canon"
+    },
+    {
+      "title": "why i don't remember artists"
+    }
+  ],
+  "photos": 8,
+  "card": {
+    "title": "fanfiction",
+    "summary": {
+      "ca": "sobre ficcions col·lectives i fandoms",
+      "es": "sobre ficciones colectivas y fandoms",
+      "en": "on collective fictions and fandoms"
+    },
+    "year": "2018-2021"
+  }
+}

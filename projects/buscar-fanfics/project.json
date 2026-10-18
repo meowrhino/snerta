@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "com buscar fanfics?",
+    "es": "¿cómo buscar fanfics?",
+    "en": "how to find fanfics?"
+  },
+  "year": "2021",
+  "place": "<a href='https://ajuntament.barcelona.cat/lavirreina/es'target='_blank'>La Virreina CI</a>",
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "Xerrada-tutorial on s'explica com navegar per l'arxiu digital de fanfiction.net amb l'objectiu d'aconseguir que cada individu tingui les eines per a explorar-lo i poder trobar les històries que responguin als desitjos i necessitats afectives concretes.",
+      "Dins del marc de cicle de conferències <a href='https://ajuntament.barcelona.cat/lavirreina/es'target='_blank'>Para k kieres saber eso?</a> comissariat per <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+      "Dins del marc de la investigació <a href=projecte.html?slug=sobre-fanfiction>sobre el fanfiction</a>."
+    ],
+    "es": [
+      "Charla-tutorial donde se explica cómo navegar por el archivo digital de fanfiction.net con el objetivo de conseguir que cada individuo tenga las herramientas para explorarlo y poder encontrar las historias que respondan a sus deseos y necesidades afectivas concretas.",
+      "Dentro del marco del ciclo de conferencias <a href='https://ajuntament.barcelona.cat/lavirreina/es'target='_blank'>Para k kieres saber eso?</a> comisariado por <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+      "Dentro del marco de la investigación <a href=projecte.html?slug=sobre-fanfiction>sobre el fanfiction</a>."
+    ],
+    "en": [
+      "Talk-tutorial explaining how to navigate the digital archive of fanfiction.net, aiming to give each individual the tools to explore it and find the stories that answer their specific desires and affective needs.",
+      "Part of the lecture series <a href='https://ajuntament.barcelona.cat/lavirreina/es'target='_blank'>Para k kieres saber eso?</a> curated by <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+      "As part of the research <a href=projecte.html?slug=sobre-fanfiction>on fanfiction</a>."
+    ]
+  },
+  "photos": 7,
+  "card": {
+    "title": "com buscar fanfics?: moure's en arxiu fan per a una experiència afectiva òptima, para k kieres saber eso?",
+    "place": "la virreina ci",
+    "city": "barcelona",
+    "summary": {
+      "ca": "conferència",
+      "es": "conferencia",
+      "en": "lecture"
+    },
+    "year": "2021"
+  }
+}

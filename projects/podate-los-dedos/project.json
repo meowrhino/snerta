@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "pódate los dedos, a ver si crecen",
+  "year": "2023",
+  "place": "<a href='https://www.instagram.com/ccperepruna/?hl=es'target='_blank'>C.C. Pere Pruna</a>",
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "Acompanyament i gràfica expositiva per a l'artista <a href='http://mariomolins.com/'target='_blank'>Mario Molins</a>.",
+      "'Pódate los dedos, a ver si crecen' és una proposta expositiva a partir de la qual es pretén conscienciar dels creixements i de les essències interiors i exteriors de la natura que ens envolta. En aquest projecte l'artista treballa amb arbres caiguts i branques podades, que trasllada a la intimitat del seu taller per crear escultures que desitgen apropar-nos d’una manera física a l’arbori."
+    ],
+    "es": [
+      "Acompañamiento y gráfica expositiva para el artista <a href='http://mariomolins.com/'target='_blank'>Mario Molins</a>.",
+      "'Pódate los dedos, a ver si crecen' es una propuesta expositiva a partir de la cual se pretende concienciar de los crecimientos y de las esencias interiores y exteriores de la naturaleza que nos rodea. En este proyecto el artista trabaja con árboles caídos y ramas podadas, que traslada a la intimidad de su taller para crear esculturas que desean acercarnos de una manera física a lo arbóreo."
+    ],
+    "en": [
+      "Mentoring and exhibition graphics for the artist <a href='http://mariomolins.com/'target='_blank'>Mario Molins</a>.",
+      "'Pódate los dedos, a ver si crecen' is an exhibition proposal that seeks to raise awareness of the growths and the inner and outer essences of the nature surrounding us. In this project the artist works with fallen trees and pruned branches, which he moves into the intimacy of his studio to create sculptures that wish to bring us physically closer to the arboreal."
+    ]
+  },
+  "photos": 9,
+  "card": {
+    "title": "pódate los dedos a ver si crecen",
+    "place": "c.c. pere pruna",
+    "city": "barcelona",
+    "summary": {
+      "ca": "exposició de Mario Molins",
+      "es": "exposición de Mario Molins",
+      "en": "exhibition by Mario Molins"
+    },
+    "role": {
+      "ca": "acompanyament i disseny expositiu",
+      "es": "acompañamiento y diseño expositivo",
+      "en": "mentoring and exhibition design"
+    },
+    "year": "2023"
+  }
+}

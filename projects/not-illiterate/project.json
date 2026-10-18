@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "berta esteve is not illiterate (anymore)",
+  "year": "2024",
+  "text": {
+    "ca": [
+      "En aquest text es desplega el concepte d’Investigació performàtica, el qual afirma que allò performàtic (teatral) és una eina que pot multiplicar exponencialment el potencial performatiu d’una investigació, i el posa en relació amb altres aproximacions sensorials a les pràctiques creatives com les dels teòrics Mani Kaul, Barbara Bolt o Andrea Soto Calderón.",
+      "L'assaig parteix de l’inhabilitat de llegir de l’autora per a donar lloc a una exploració de la lectura de manera teatral, experimental i humorística amb l’objectiu d’assolir l’èxit professional.",
+      "Descarregar <a href='data/arxius/berta_esteve_not_illiterate.pdf' target='_blank'>berta esteve is not illiterate (anymore)</a>",
+      "Dins del marc d' <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
+    ],
+    "es": [
+      "En este texto se despliega el concepto de Investigación performática, que afirma que lo performático (teatral) es una herramienta que puede multiplicar exponencialmente el potencial performativo de una investigación, y lo pone en relación con otras aproximaciones sensoriales a las prácticas creativas como las de los teóricos Mani Kaul, Barbara Bolt o Andrea Soto Calderón.",
+      "El ensayo parte de la inhabilidad de leer de la autora para dar lugar a una exploración de la lectura de manera teatral, experimental y humorística con el objetivo de alcanzar el éxito profesional.",
+      "Descargar <a href='data/arxius/berta_esteve_not_illiterate.pdf' target='_blank'>berta esteve is not illiterate (anymore)</a>",
+      "Dentro del marco de <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
+    ],
+    "en": [
+      "This text unfolds the concept of performative research (Investigación performática), which claims that the performatic (theatrical) is a tool that can exponentially multiply the performative potential of a research, and puts it in relation with other sensory approaches to creative practice such as those of the theorists Mani Kaul, Barbara Bolt or Andrea Soto Calderón.",
+      "The essay departs from the author's inability to read to give rise to an exploration of reading in a theatrical, experimental and humorous way, with the aim of achieving professional success.",
+      "Download <a href='data/arxius/berta_esteve_not_illiterate.pdf' target='_blank'>berta esteve is not illiterate (anymore)</a>",
+      "As part of <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
+    ]
+  },
+  "photos": 7,
+  "card": {
+    "title": "berta esteve is not illiterate (anymore)",
+    "place": "autopublicació",
+    "city": {
+      "ca": "en línia",
+      "es": "en línea",
+      "en": "online"
+    },
+    "summary": {
+      "ca": "assaig",
+      "es": "ensayo",
+      "en": "essay"
+    },
+    "year": "2025"
+  }
+}

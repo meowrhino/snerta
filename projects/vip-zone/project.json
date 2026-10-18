@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "vip zone: contemporary art hit",
+  "year": "2018",
+  "place": "<a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona espai 2</a>",
+  "city": "barcelona",
+  "text": {
+    "ca": [
+      "Instal·lació juntament amb <a href='https://somamexico.org/archivo/persona?id=2421&nombre=Eloi%20Rodr%C3%ADguez%20Romeu'target='_blank'>Eloi Rodríguez Romeu</a> dins de l'exposició col·lectiva <a href='http://angelsbarcelona.com/en/project/apertus-02-noitcelfer-reflection/61'target='_blank'>Apertus 02: Reflection</a> a <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona espai 2</a>.",
+      "Al delimitar una zona de la galeria es crea un gap entre qui està a dins i qui està a fora, diferenciant l'espai per la seva estètica i els beneficis que ofereix. Els assistents hi troben un pica-pica, un còctel de benvinguda dissenyat per a l'ocasió i un karaoke. Aquest gest ens permet parlar de l’oci i l’exclusivitat dins del sector artístic."
+    ],
+    "es": [
+      "Instalación junto con <a href='https://somamexico.org/archivo/persona?id=2421&nombre=Eloi%20Rodr%C3%ADguez%20Romeu'target='_blank'>Eloi Rodríguez Romeu</a> dentro de la exposición colectiva <a href='http://angelsbarcelona.com/en/project/apertus-02-noitcelfer-reflection/61'target='_blank'>Apertus 02: Reflection</a> en <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona espai 2</a>.",
+      "Al delimitar una zona de la galería se crea un gap entre quien está dentro y quien está fuera, diferenciando el espacio por su estética y los beneficios que ofrece. Los asistentes encuentran allí un picoteo, un cóctel de bienvenida diseñado para la ocasión y un karaoke. Este gesto nos permite hablar del ocio y la exclusividad dentro del sector artístico."
+    ],
+    "en": [
+      "Installation together with <a href='https://somamexico.org/archivo/persona?id=2421&nombre=Eloi%20Rodr%C3%ADguez%20Romeu'target='_blank'>Eloi Rodríguez Romeu</a> within the group exhibition <a href='http://angelsbarcelona.com/en/project/apertus-02-noitcelfer-reflection/61'target='_blank'>Apertus 02: Reflection</a> at <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona espai 2</a>.",
+      "By demarcating an area of the gallery, a gap is created between those inside and those outside, differentiating the space by its aesthetics and the perks it offers. Attendees find there a snack spread, a welcome cocktail designed for the occasion and a karaoke. This gesture lets us talk about leisure and exclusivity within the art sector."
+    ]
+  },
+  "photos": 7,
+  "card": {
+    "title": "vip zone: contemporary art hit, apertus 02",
+    "place": "àngels barcelona espai 2",
+    "city": "barcelona",
+    "summary": {
+      "ca": "instal·lació amb Eloi Rodríguez Romeu per a exposició col·lectiva",
+      "es": "instalación con Eloi Rodríguez Romeu para exposición colectiva",
+      "en": "installation with Eloi Rodríguez Romeu for a group exhibition"
+    },
+    "year": "2018"
+  }
+}

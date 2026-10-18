@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "nostàlgia dislocada",
+    "es": "nostalgia dislocada",
+    "en": "dislocated nostalgia"
+  },
+  "year": "2025",
+  "place": "<a href='https://www.instagram.com/ccperepruna/?hl=es'target='_blank'>C.C. Pere Pruna</a>",
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "Acompanyament curadorial i museogràfic per a l'exposició d'<a href='https://www.instagram.com/adelabacardit/?hl=es'target='_blank'>Adela Bacardit</a>.",
+      "“Nostàlgia dislocada” és una exposició que presenta una sèrie de vint-i-una imatges foto-realistes creades mitjançant eines d’intel·ligència artificial. A través d’aquestes imatges, l’artista explora el procés de dol que es dona en el pas de la infància cap a l’edat adulta, posant sobre la taula les pors i incerteses que acompanyen aquesta transició vital.",
+      ""
+    ],
+    "es": [
+      "Acompañamiento curatorial y museográfico para la exposición de <a href='https://www.instagram.com/adelabacardit/?hl=es'target='_blank'>Adela Bacardit</a>.",
+      "“Nostàlgia dislocada” es una exposición que presenta una serie de veintiuna imágenes fotorrealistas creadas mediante herramientas de inteligencia artificial. A través de estas imágenes, la artista explora el proceso de duelo que se da en el paso de la infancia a la edad adulta, poniendo sobre la mesa los miedos e incertidumbres que acompañan esta transición vital."
+    ],
+    "en": [
+      "Curatorial and museographic mentoring for the exhibition by <a href='https://www.instagram.com/adelabacardit/?hl=es'target='_blank'>Adela Bacardit</a>.",
+      "“Nostàlgia dislocada” is an exhibition presenting a series of twenty-one photorealistic images created with artificial intelligence tools. Through these images, the artist explores the mourning process that takes place in the passage from childhood to adulthood, putting on the table the fears and uncertainties that accompany this vital transition."
+    ]
+  },
+  "photos": 7,
+  "card": {
+    "title": "nostàlgia dislocada",
+    "place": "c.c. pere pruna",
+    "city": "barcelona",
+    "summary": {
+      "ca": "exposició d'Adela Bacardit",
+      "es": "exposición de Adela Bacardit",
+      "en": "exhibition by Adela Bacardit"
+    },
+    "role": {
+      "ca": "acompanyament",
+      "es": "acompañamiento",
+      "en": "mentoring"
+    },
+    "year": "2025"
+  }
+}

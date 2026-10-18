@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "blau cel",
+  "year": "2024",
+  "place": "<a href='https://www.instagram.com/ccperepruna/?hl=es'target='_blank'>C.C. Pere Pruna</a>",
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "Curadoria per l'exposició de <a href='https://www.instagram.com/nuriacintero/?hl=es'target='_blank'>Núria Cintero</a>.",
+      "'Blau Cel' és una exposició de l’artista multidisciplinària Núria Cintero, qui a través de diferents formats com el dibuix, el tèxtil o el gravat, dirigeix la nostra mirada cap a escenes quotidianes i objectes del dia a dia, convidant-nos a repensar el valor estètic d’aquests i reivindicant la simplicitat i la banalitat de les coses."
+    ],
+    "es": [
+      "Curaduría para la exposición de <a href='https://www.instagram.com/nuriacintero/?hl=es'target='_blank'>Núria Cintero</a>.",
+      "'Blau Cel' es una exposición de la artista multidisciplinar Núria Cintero, quien a través de diferentes formatos como el dibujo, el textil o el grabado, dirige nuestra mirada hacia escenas cotidianas y objetos del día a día, invitándonos a repensar su valor estético y reivindicando la simplicidad y la banalidad de las cosas."
+    ],
+    "en": [
+      "Curating for the exhibition by <a href='https://www.instagram.com/nuriacintero/?hl=es'target='_blank'>Núria Cintero</a>.",
+      "'Blau Cel' is an exhibition by the multidisciplinary artist Núria Cintero, who, through different formats such as drawing, textile or engraving, directs our gaze towards everyday scenes and objects, inviting us to rethink their aesthetic value and vindicating the simplicity and banality of things."
+    ]
+  },
+  "photos": 9,
+  "card": {
+    "title": "blau cel",
+    "place": "c.c. pere pruna",
+    "city": "barcelona",
+    "summary": {
+      "ca": "exposició de Núria Cintero",
+      "es": "exposición de Núria Cintero",
+      "en": "exhibition by Núria Cintero"
+    },
+    "role": {
+      "ca": "acompanyament",
+      "es": "acompañamiento",
+      "en": "mentoring"
+    },
+    "year": "2024"
+  }
+}

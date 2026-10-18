@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "caixa sorpresa grup d'estudi",
+  "year": "2025",
+  "place": "<a href='https://www.lacapella.barcelona/es' target='_blank'>la capella</a>",
+  "city": "barcelona",
+  "text": {
+    "ca": [
+      "Grup d'Estudi converteix l'Espai Rampa de La Capella en una caixa sorpresa. <a href='https://www.lacapella.barcelona/ca/programacio/exposicions/caixa-sorpresa-grup-destudi'target='_blank'>Caixa sorpresa Grup d'Estudi</a> succeeix en un dispositiu expositiu obra d'<a href='https://estructuras3000.com/'target='_blank'>Estructures 3000</a> s'obre quatre vegades per a revelar quatre exposicions escollides mitjançant quatre convocatòries experimentals.",
+      "Projecte de comissariat escollit a les beques Barcelona Creació '24.",
+      "Dins del marc de <a href='projecte.html?slug=grup-destudi'>Grup d'Estudi</a>."
+    ],
+    "es": [
+      "Grup d'Estudi convierte el Espai Rampa de La Capella en una caja sorpresa. <a href='https://www.lacapella.barcelona/ca/programacio/exposicions/caixa-sorpresa-grup-destudi'target='_blank'>Caixa sorpresa Grup d'Estudi</a> sucede en un dispositivo expositivo obra de <a href='https://estructuras3000.com/'target='_blank'>Estructures 3000</a> que se abre cuatro veces para revelar cuatro exposiciones escogidas mediante cuatro convocatorias experimentales.",
+      "Proyecto de comisariado seleccionado en las becas Barcelona Creació '24.",
+      "Dentro del marco de <a href='projecte.html?slug=grup-destudi'>Grup d'Estudi</a>."
+    ],
+    "en": [
+      "Grup d'Estudi turns the Espai Rampa of La Capella into a surprise box. <a href='https://www.lacapella.barcelona/ca/programacio/exposicions/caixa-sorpresa-grup-destudi'target='_blank'>Caixa sorpresa Grup d'Estudi</a> takes place in an exhibition device by <a href='https://estructuras3000.com/'target='_blank'>Estructures 3000</a> that opens four times to reveal four exhibitions chosen through four experimental open calls.",
+      "Curatorial project selected in the Barcelona Creació '24 grants.",
+      "As part of <a href='projecte.html?slug=grup-destudi'>Grup d'Estudi</a>."
+    ]
+  },
+  "photos": 10,
+  "card": {
+    "title": "caixa sorpresa grup d'estudi",
+    "place": "la capella",
+    "city": "barcelona",
+    "summary": {
+      "ca": "exposició comissariada a l'Espai Rampa",
+      "es": "exposición comisariada en el Espai Rampa",
+      "en": "exhibition curated at Espai Rampa"
+    },
+    "role": {
+      "ca": "curadoria i coordinació",
+      "es": "curaduría y coordinación",
+      "en": "curating and coordination"
+    },
+    "year": "2025"
+  }
+}

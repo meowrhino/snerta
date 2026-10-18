@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "masterclass d'expos",
+    "es": "masterclass de expos",
+    "en": "exhibitions masterclass"
+  },
+  "year": "2025",
+  "place": "<a href='https://www.lacapella.barcelona/es'target='_blank'>la capella</a>",
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "Masterclass per les alumnes del màster d'<a href='https://www.eina.cat/ca/master-curadoria-dart-i-disseny'target='_blank'>Exposicions: Curadoria i disseny</a> d'Eina.",
+      "Dins del marc d' <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>"
+    ],
+    "es": [
+      "Masterclass para las alumnas del máster de <a href='https://www.eina.cat/ca/master-curadoria-dart-i-disseny'target='_blank'>Exposiciones: Curaduría y diseño</a> de Eina.",
+      "Dentro del marco de <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>"
+    ],
+    "en": [
+      "Masterclass for the students of the master's programme in <a href='https://www.eina.cat/ca/master-curadoria-dart-i-disseny'target='_blank'>Exhibitions: Curating and design</a> at Eina.",
+      "As part of <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>"
+    ]
+  },
+  "photos": 6,
+  "card": {
+    "title": "masterclass, màster d'exposicions d'eina",
+    "place": "la capella",
+    "city": "barcelona",
+    "summary": {
+      "ca": "classe",
+      "es": "clase",
+      "en": "class"
+    },
+    "role": {
+      "ca": "com a berta esteve + unfunny_curator",
+      "es": "como berta esteve + unfunny_curator",
+      "en": "as berta esteve + unfunny_curator"
+    },
+    "year": "2025"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "pls! i'm a star!: espai balda",
+  "year": "2024",
+  "place": "La meva habitació, Drassanes",
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "Curadoria i esdeveniment de inauguració de la biblioteca sobre curadoria i performativitat que he comissariat a la meva habitació.",
+      "A partir de la premissa 'els curadors llegeixen i porten ulleres' decideixo inaugurar el primer capítol de la investigació performàtica – sobre la lectura – que pretén dur-me a la fama curadorial.",
+      "Durant la inauguració es presenta la meva biblioteca hipersticional, activem el 'Political compass del curador' i encantem les meves ulleres de curadora professional per dotar-les de superpoders màgics.",
+      "Dins del marc d' <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+    ],
+    "es": [
+      "Curaduría y evento de inauguración de la biblioteca sobre curaduría y performatividad que he comisariado en mi habitación.",
+      "A partir de la premisa 'los curadores leen y llevan gafas' decido inaugurar el primer capítulo de la investigación performática –sobre la lectura– que pretende llevarme a la fama curatorial.",
+      "Durante la inauguración se presenta mi biblioteca hipersticional, activamos el 'Political compass del curador' y encantamos mis gafas de curadora profesional para dotarlas de superpoderes mágicos.",
+      "Dentro del marco de <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+    ],
+    "en": [
+      "Curating and opening event of the library on curating and performativity that I curated in my bedroom.",
+      "Starting from the premise 'curators read and wear glasses', I decide to open the first chapter of the performative research –on reading– that aims to bring me curatorial fame.",
+      "During the opening my hyperstitional library is presented, we activate the 'Curator's Political Compass' and enchant my professional curator glasses to grant them magical superpowers.",
+      "As part of <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+    ]
+  },
+  "photos": 9,
+  "card": {
+    "title": "pls! i'm a star!: espai balda",
+    "place": "la meva habitació",
+    "city": "barcelona",
+    "summary": {
+      "ca": "exposició d'arxiu",
+      "es": "exposición de archivo",
+      "en": "archive exhibition"
+    },
+    "role": {
+      "ca": "curadoria",
+      "es": "curaduría",
+      "en": "curating"
+    },
+    "year": "2024"
+  }
+}

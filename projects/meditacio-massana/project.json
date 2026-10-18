@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "masterclass: tot anirà bé",
+    "es": "masterclass: todo irá bien",
+    "en": "masterclass: everything will be fine"
+  },
+  "year": "2025",
+  "place": "<a href='https://www.escolamassana.cat/ca/'target='_blank'>escola massana</a>",
+  "city": "barcelona",
+  "text": {
+    "ca": [
+      "Classe per a grup d'alumnes cursant l'assignatura de Tfg a l'<a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>.",
+      "Durant la sessió es mostra el projecte d'<a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a> i es desenvolupa el concepte d'investigació performàtica. Per a acabar és proposa una activació: una mediatació col·lectiva a través de la qual es visualitza el pròxim any, sanant i transcendint l'ansietat que el treball final de grau provoca als estudiants.",
+      "Dins del marc d' <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+    ],
+    "es": [
+      "Clase para un grupo de alumnas que cursan la asignatura de TFG en la <a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>.",
+      "Durante la sesión se muestra el proyecto de <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a> y se desarrolla el concepto de investigación performática. Para terminar se propone una activación: una meditación colectiva a través de la cual se visualiza el próximo año, sanando y trascendiendo la ansiedad que el trabajo final de grado provoca en los estudiantes.",
+      "Dentro del marco de <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+    ],
+    "en": [
+      "Class for a group of students taking the final-degree-project course at <a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>.",
+      "During the session the <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a> project is shown and the concept of performative research is developed. To finish, an activation is proposed: a collective meditation through which the coming year is visualised, healing and transcending the anxiety that the final-degree project causes in students.",
+      "As part of <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>."
+    ]
+  },
+  "photos": 10,
+  "card": {
+    "title": "masterclass, tot anirà bé",
+    "place": "escola massana",
+    "city": "barcelona",
+    "summary": {
+      "ca": "classe",
+      "es": "clase",
+      "en": "class"
+    },
+    "role": {
+      "ca": "ponència + meditació pel tfg",
+      "es": "ponencia + meditación para el tfg",
+      "en": "talk + meditation for the final-degree project"
+    },
+    "year": "2025"
+  }
+}

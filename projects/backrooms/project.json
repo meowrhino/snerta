@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "sobre els backrooms",
+    "es": "sobre los backrooms",
+    "en": "about the backrooms"
+  },
+  "year": "2022 - 2025",
+  "text": {
+    "ca": [
+      "'Si no vas amb compte i et no-clippeges fora de la realitat en les àrees equivocades, acabaràs als Backrooms, on no hi ha res més que la pudor de moqueta humida i vella, la bogeria del groc monocrom, el so interminable de les llums fluorescents que parpellegen i zumzegen, i aproximadament sis-cents milions de milles quadrades d'habitacions buides segmentades aleatòriament on quedaràs atrapat. Déu t'ajudi si sents alguna cosa rondant a prop, perquè segur que també t'ha sentit a tu.'",
+      "Aquesta és una investigació sobre la llegenda de terror cibernètica i ficció col·lectiva dels Backrooms, que explora el terror liminal prenent forma d'assaig, exposició especulativa, reportatge fotogràfic, curt de cinema o gimcana. Passant per espais com <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href=https://www.eina.cat/ca>EINA</a>, <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona</a> o l'<a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>."
+    ],
+    "es": [
+      "'Si no vas con cuidado y te no-clippeas fuera de la realidad en las áreas equivocadas, acabarás en los Backrooms, donde no hay nada más que el hedor a moqueta húmeda y vieja, la locura del amarillo monocromo, el sonido interminable de las luces fluorescentes que parpadean y zumban, y aproximadamente seiscientos millones de millas cuadradas de habitaciones vacías segmentadas aleatoriamente donde quedarás atrapado. Que Dios te ayude si oyes algo rondando cerca, porque seguro que también te ha oído a ti.'",
+      "Esta es una investigación sobre la leyenda de terror cibernética y ficción colectiva de los Backrooms, que explora el terror liminal tomando forma de ensayo, exposición especulativa, reportaje fotográfico, cortometraje o gincana. Pasando por espacios como <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href=https://www.eina.cat/ca>EINA</a>, <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona</a> o la <a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>."
+    ],
+    "en": [
+      "'If you're not careful and you no-clip out of reality in the wrong areas, you'll end up in the Backrooms, where there's nothing but the stink of old, damp carpet, the madness of mono-yellow, the endless sound of fluorescent lights buzzing and flickering, and approximately six hundred million square miles of randomly segmented empty rooms where you'll be trapped. God help you if you hear something wandering nearby, because it sure as hell has heard you too.'",
+      "This is a research project on the cybernetic horror legend and collective fiction of the Backrooms, exploring liminal horror in the form of essay, speculative exhibition, photographic report, short film or scavenger hunt. Passing through spaces such as <a href='https://www.lacapella.barcelona/es' target='_blank'>La Capella</a>, <a href=https://www.eina.cat/ca>EINA</a>, <a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona</a> or <a href='https://www.escolamassana.cat/ca/'target='_blank'>Escola Massana</a>."
+    ]
+  },
+  "related": [
+    {
+      "title": "the backrooms",
+      "project": "backrooms-tesis"
+    },
+    {
+      "title": "level 362",
+      "project": "level-362"
+    },
+    {
+      "title": "liminal hunting",
+      "project": "liminal-hunting"
+    },
+    {
+      "title": {
+        "ca": "the backrooms: analogue found footage",
+        "es": "the backrooms: analog found footage",
+        "en": "the backrooms: analog found footage"
+      },
+      "project": "vist-des-denlloc"
+    },
+    {
+      "title": "an industrial after-life",
+      "project": "an-industrial"
+    }
+  ],
+  "photos": 4,
+  "card": {
+    "title": "the backrooms",
+    "summary": {
+      "ca": "sobre terror liminal i ficcions col·lectives",
+      "es": "sobre terror liminal y ficciones colectivas",
+      "en": "on liminal horror and collective fictions"
+    },
+    "year": "2022-2024"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "liminal hunting",
+  "year": "2022",
+  "place": "online",
+  "text": {
+    "ca": [
+      "Sèrie fotogràfica on col·lecciono imatges de potencials Backrooms detectats per allà on vaig. Es tracta de halls d'hotels, restaurants, bugaderies, parcs o oficines que emeten una aura inquietant.",
+      "Dins del marc de la investigació <a href='projecte.html?slug=backrooms'>sobre els Backrooms</a>."
+    ],
+    "es": [
+      "Serie fotográfica donde colecciono imágenes de potenciales Backrooms detectados allá por donde voy. Se trata de halls de hoteles, restaurantes, lavanderías, parques u oficinas que emiten un aura inquietante.",
+      "Dentro del marco de la investigación <a href='projecte.html?slug=backrooms'>sobre los Backrooms</a>."
+    ],
+    "en": [
+      "Photographic series where I collect images of potential Backrooms spotted wherever I go. They are hotel lobbies, restaurants, launderettes, parks or offices that give off an unsettling aura.",
+      "As part of the research <a href='projecte.html?slug=backrooms'>on the Backrooms</a>."
+    ]
+  },
+  "photos": 14,
+  "card": {
+    "title": "liminal hunting",
+    "place": "online",
+    "summary": {
+      "ca": "projecte de fotografia",
+      "es": "proyecto de fotografía",
+      "en": "photography project"
+    },
+    "year": "2022 - present"
+  }
+}

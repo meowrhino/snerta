@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "this is a networking data visualization ;-)",
+  "year": "2025",
+  "place": "<a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona espai 2</a>",
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "“This is a networking data visualization ;-)” és una acció performativa que experimenta amb les convencions pròpies del networking en el món de l’art, sumant-se a les interaccions que ja ocorren de per si en un espai com la inauguració d’una exposició.",
+      "A través d’un sistema d’etiquetatge dispensat per mi mateixa – presentant-me com a punt d’informació i recursos ambulant – es fan visibles els rols, les disponibilitats i els capitals en joc durant aquestes interaccions, generant un desplaçament mínim però incòmode",
+      "Dins del marc d' <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a> a l'exposició <a href=https://www.instagram.com/p/DKUG9olovCb/?hl=es&img_index=1>Tramas imaginarias</a>."
+    ],
+    "es": [
+      "“This is a networking data visualization ;-)” es una acción performativa que experimenta con las convenciones propias del networking en el mundo del arte, sumándose a las interacciones que ya ocurren de por sí en un espacio como la inauguración de una exposición.",
+      "A través de un sistema de etiquetado dispensado por mí misma –presentándome como punto de información y recursos ambulante– se hacen visibles los roles, las disponibilidades y los capitales en juego durante estas interacciones, generando un desplazamiento mínimo pero incómodo.",
+      "Dentro del marco de <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a> en la exposición <a href=https://www.instagram.com/p/DKUG9olovCb/?hl=es&img_index=1>Tramas imaginarias</a>."
+    ],
+    "en": [
+      "“This is a networking data visualization ;-)” is a performative action that experiments with the conventions of networking in the art world, adding itself to the interactions that already take place at a space like an exhibition opening.",
+      "Through a labelling system dispensed by myself –presenting myself as a walking information and resource point– the roles, availabilities and capitals at play during these interactions are made visible, generating a minimal but uncomfortable displacement.",
+      "As part of <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a> at the exhibition <a href=https://www.instagram.com/p/DKUG9olovCb/?hl=es&img_index=1>Tramas imaginarias</a>."
+    ]
+  },
+  "photos": 11,
+  "card": {
+    "title": "this is a networking data visualization ;-), tramas imaginarias",
+    "place": "àngels barcelona espai 2",
+    "city": "barcelona",
+    "summary": {
+      "ca": "dinamització i performance",
+      "es": "dinamización y performance",
+      "en": "facilitation and performance"
+    },
+    "role": {
+      "ca": "com a unfunny_curator",
+      "es": "como unfunny_curator",
+      "en": "as unfunny_curator"
+    },
+    "year": "2025"
+  }
+}

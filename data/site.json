@@ -1,0 +1,92 @@
+{
+  "$schema": "../schema/site.json",
+  "url": "https://bertaesteve.cat",
+  "title": "berta esteve",
+  "categories": {
+    "curadoria": {
+      "ca": "curadoria",
+      "es": "curaduría",
+      "en": "curating"
+    },
+    "investigacio": {
+      "ca": "investigació",
+      "es": "investigación",
+      "en": "research"
+    },
+    "exposicions": {
+      "ca": "exposicions",
+      "es": "exposiciones",
+      "en": "exhibitions"
+    },
+    "mediacio": {
+      "ca": "mediació",
+      "es": "mediación",
+      "en": "mediation"
+    },
+    "text": {
+      "ca": "divulgació",
+      "es": "divulgación",
+      "en": "writing"
+    },
+    "grupdestudi": {
+      "ca": "grup d’estudi",
+      "es": "grupo de estudio",
+      "en": "study group"
+    }
+  },
+  "lists": {
+    "curadoria": [
+      "caixa-sorpresa",
+      "30-anys-de-can-baste",
+      "holets",
+      "tramas-imaginarias",
+      "nostalgia-dislocada",
+      "espai-balda",
+      "som-aqui",
+      "blau-cel",
+      "la-possibilitat",
+      "podate-los-dedos",
+      "mu-danca",
+      "backrooms-tesis"
+    ],
+    "investigacio": [
+      "unfunny-curator",
+      "backrooms",
+      "sobre-fanfiction"
+    ],
+    "exposicions": [
+      "la-gran-cura",
+      "the-curators-project",
+      "vist-des-denlloc",
+      "liminal-hunting",
+      "vip-zone",
+      "an-industrial",
+      "youre-invited-to-my-room"
+    ],
+    "mediacio": [
+      "meditacio-massana",
+      "fuera-carta",
+      "master-expos",
+      "lluerna",
+      "max-foc",
+      "confe-max",
+      "networking-data",
+      "cacadoris-dartspeak",
+      "exit-through-the-alehop",
+      "tinstamtmmottmr",
+      "level-362"
+    ],
+    "text": [
+      "investigacio-performatica",
+      "breaking-canon",
+      "not-illiterate",
+      "media-rants",
+      "buscar-fanfics",
+      "dont-remember-artists",
+      "youre-invited-tfg"
+    ],
+    "grupdestudi": [
+      "grup-destudi"
+    ]
+  }
+}

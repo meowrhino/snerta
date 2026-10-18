@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "èxit through the ale-hop",
+  "year": "2023",
+  "place": "<a href='https://fundaciojoanbrossa.cat/'target='_blank'>Fundació Brossa</a> + <a href='https://www.mocomuseum.com/es/barcelona/?utm_medium=affiliate&ranSiteID=dquE8OfXzf--2HHBEMs7tT4lp0oIEe-aL7&ranEAID=dquE8OfXzf-&wgu=9423_2917817_1849312432_olwxfdd3ne&awc=25689_1762254580_61537da698f582467263aab3529a222f&irclickid=XngJrS6fCa5A8-i9OOCemw6Vvqt6Uq&ranMID=800482&utm_source=awin&clickref=110h48ycZjzI&tduid=nvzc98nhul6pyjemew3ctlfo2d4g8b&aw_affid=969833&utm_campaign=BCN&gad_source=1'target='_blank'>MoCo Museum</a>",
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "Grup d'Estudi for You: Èxit through the Ale-Hop, va ser un workshop de màrqueting que posava en relació el <a href='https://fundaciojoanbrossa.cat/'target='_blank'>Centre de les arts lliures; Fundació Joan Brossa</a> amb el <a href='https://www.mocomuseum.com/es/barcelona/?utm_medium=affiliate&ranSiteID=dquE8OfXzf--2HHBEMs7tT4lp0oIEe-aL7&ranEAID=dquE8OfXzf-&wgu=9423_2917817_1849312432_olwxfdd3ne&awc=25689_1762254580_61537da698f582467263aab3529a222f&irclickid=XngJrS6fCa5A8-i9OOCemw6Vvqt6Uq&ranMID=800482&utm_source=awin&clickref=110h48ycZjzI&tduid=nvzc98nhul6pyjemew3ctlfo2d4g8b&aw_affid=969833&utm_campaign=BCN&gad_source=1'target='_blank'>MoCo Museum</a>: espais veïns, (re)inaugurats recentment però amb públics i modus operandi molt diferents.",
+      "<a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a> proposa una visita guiada al MoCo que es realitza sota la lògica del benchmarking: un estudi en profunditat de la competència per entendre les seves estratègies i pràctiques amb l'objectiu de reproduir-les o adaptar-les per a un benefici propi. Prenent com a eix vertebral la idea d'accessibilitat vinculada amb l'art contemporani i el museu, reflexionem entorn de conceptes com la participació, el cringe, la dificultat per a mantenir l'atenció d'una societat sobreestimulada, la post-ironia, el fanservice o el concepte de museu-negoci.",
+      "La visita acaba amb una cadena humana que força als assistents a entrar a la botiga Ale-Hop que hi ha just davant del MoCo, evidenciant l'extensió tàcita que suposa envers el museu, i amb una sessió de pluja d'idees per a implementar a la Fundació Brossa, que pren el programa Nathan for You com a referent.",
+      "Activitat de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a> dins del marc del <a href='https://artnou.net/es/inicio/'target='_blank'>Festival Art Nou</a> 2023."
+    ],
+    "es": [
+      "Grup d'Estudi for You: Èxit through the Ale-Hop fue un workshop de marketing que ponía en relación el <a href='https://fundaciojoanbrossa.cat/'target='_blank'>Centre de les arts lliures; Fundació Joan Brossa</a> con el <a href='https://www.mocomuseum.com/es/barcelona/?utm_medium=affiliate&ranSiteID=dquE8OfXzf--2HHBEMs7tT4lp0oIEe-aL7&ranEAID=dquE8OfXzf-&wgu=9423_2917817_1849312432_olwxfdd3ne&awc=25689_1762254580_61537da698f582467263aab3529a222f&irclickid=XngJrS6fCa5A8-i9OOCemw6Vvqt6Uq&ranMID=800482&utm_source=awin&clickref=110h48ycZjzI&tduid=nvzc98nhul6pyjemew3ctlfo2d4g8b&aw_affid=969833&utm_campaign=BCN&gad_source=1'target='_blank'>MoCo Museum</a>: espacios vecinos, (re)inaugurados recientemente pero con públicos y modus operandi muy distintos.",
+      "<a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a> propone una visita guiada al MoCo realizada bajo la lógica del benchmarking: un estudio en profundidad de la competencia para entender sus estrategias y prácticas con el objetivo de reproducirlas o adaptarlas en beneficio propio. Tomando como eje vertebral la idea de accesibilidad vinculada al arte contemporáneo y al museo, reflexionamos en torno a conceptos como la participación, el cringe, la dificultad para mantener la atención de una sociedad sobreestimulada, la post-ironía, el fanservice o el concepto de museo-negocio.",
+      "La visita termina con una cadena humana que obliga a los asistentes a entrar en la tienda Ale-Hop que hay justo enfrente del MoCo, evidenciando la extensión tácita que supone respecto al museo, y con una sesión de lluvia de ideas para implementar en la Fundació Brossa, que toma el programa Nathan for You como referente.",
+      "Actividad de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a> dentro del marco del <a href='https://artnou.net/es/inicio/'target='_blank'>Festival Art Nou</a> 2023."
+    ],
+    "en": [
+      "Grup d'Estudi for You: Èxit through the Ale-Hop was a marketing workshop that put the <a href='https://fundaciojoanbrossa.cat/'target='_blank'>Centre de les arts lliures; Fundació Joan Brossa</a> in relation with the <a href='https://www.mocomuseum.com/es/barcelona/?utm_medium=affiliate&ranSiteID=dquE8OfXzf--2HHBEMs7tT4lp0oIEe-aL7&ranEAID=dquE8OfXzf-&wgu=9423_2917817_1849312432_olwxfdd3ne&awc=25689_1762254580_61537da698f582467263aab3529a222f&irclickid=XngJrS6fCa5A8-i9OOCemw6Vvqt6Uq&ranMID=800482&utm_source=awin&clickref=110h48ycZjzI&tduid=nvzc98nhul6pyjemew3ctlfo2d4g8b&aw_affid=969833&utm_campaign=BCN&gad_source=1'target='_blank'>MoCo Museum</a>: neighbouring spaces, both recently (re)opened but with very different audiences and modus operandi.",
+      "<a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a> proposes a guided tour of the MoCo carried out under the logic of benchmarking: an in-depth study of the competition to understand its strategies and practices in order to reproduce or adapt them for one's own benefit. Taking accessibility linked to contemporary art and the museum as the backbone, we reflect on concepts such as participation, cringe, the difficulty of holding the attention of an overstimulated society, post-irony, fanservice or the notion of the museum-as-business.",
+      "The tour ends with a human chain that forces the attendees into the Ale-Hop shop right across from the MoCo, exposing the tacit extension it entails towards the museum, and with a brainstorming session to implement at Fundació Brossa, taking the show Nathan for You as a reference.",
+      "Activity by <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a> within the <a href='https://artnou.net/es/inicio/'target='_blank'>Art Nou Festival</a> 2023."
+    ]
+  },
+  "photos": 7,
+  "card": {
+    "title": "grup d'estudi for you: èxit through the ale-hop, art nou '23",
+    "place": "moco museum i fundació joan brossa",
+    "city": "barcelona",
+    "summary": {
+      "ca": "visita guiada performativa",
+      "es": "visita guiada performativa",
+      "en": "performative guided tour"
+    },
+    "role": {
+      "ca": "com a grup d'estudi",
+      "es": "como grup d'estudi",
+      "en": "as grup d'estudi"
+    },
+    "year": "2023"
+  }
+}

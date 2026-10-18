@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "the curator's project",
+  "year": "2025",
+  "place": "<a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>",
+  "city": "Esplugues de Llobregat",
+  "text": {
+    "ca": [
+      "<a href='https://www.instagram.com/p/DMLn55zqoF4/?hl=es&img_index=1'target='_blank'>The Curator's Project</a> és una sèrie de fotografies on Unfunny_Curator, el meu alter ego curadorial, imita retrats extrets d'internet de directors de museus locals, en un intent de manifestar el meu desig d'esdevenir una curadora exitosa del sector.",
+      "Aquest gest mimètic em permet estudiar aquestes figures i les seves maneres de presentar-se i representar-se — la seva indumentària, postura, presència, expressió, així com els espais que habiten —, alhora que realitzar un exercici hipersticional on el pensament màgic, la manifestació i la transfiguració esdevenen eines tant útils com absurdes.",
+      "Aquest projecte es va mostrar a l'exposició Del poder sobre el poder a <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>, amb activacions de <a href='https://www.instagram.com/jordibretcha/?hl=es'target='_blank'>Jordi Bretcha</a>, <a href='https://www.instagram.com/betpahissa/?hl=es'target='_blank'>Bet Pahissa</a> i <a href='https://www.instagram.com/ainara.bel/?hl=es'target='_blank'>Ainara Elejalde</a>.",
+      "Dins del marc d' <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>",
+      "Fotografies de <a href='https://www.instagram.com/sofiamontecinosm/?hl=es'target='_blank'>Sofia Montecinos</a>."
+    ],
+    "es": [
+      "<a href='https://www.instagram.com/p/DMLn55zqoF4/?hl=es&img_index=1'target='_blank'>The Curator's Project</a> es una serie de fotografías donde Unfunny_Curator, mi alter ego curatorial, imita retratos extraídos de internet de directores de museos locales, en un intento de manifestar mi deseo de convertirme en una curadora exitosa del sector.",
+      "Este gesto mimético me permite estudiar estas figuras y sus maneras de presentarse y representarse —su indumentaria, postura, presencia, expresión, así como los espacios que habitan—, a la vez que realizar un ejercicio hipersticional donde el pensamiento mágico, la manifestación y la transfiguración se vuelven herramientas tan útiles como absurdas.",
+      "Este proyecto se mostró en la exposición Del poder sobre el poder en <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>, con activaciones de <a href='https://www.instagram.com/jordibretcha/?hl=es'target='_blank'>Jordi Bretcha</a>, <a href='https://www.instagram.com/betpahissa/?hl=es'target='_blank'>Bet Pahissa</a> y <a href='https://www.instagram.com/ainara.bel/?hl=es'target='_blank'>Ainara Elejalde</a>.",
+      "Dentro del marco de <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>",
+      "Fotografías de <a href='https://www.instagram.com/sofiamontecinosm/?hl=es'target='_blank'>Sofia Montecinos</a>."
+    ],
+    "en": [
+      "<a href='https://www.instagram.com/p/DMLn55zqoF4/?hl=es&img_index=1'target='_blank'>The Curator's Project</a> is a series of photographs where Unfunny_Curator, my curatorial alter ego, imitates portraits found online of local museum directors, in an attempt to manifest my desire to become a successful curator of the sector.",
+      "This mimetic gesture lets me study these figures and their ways of presenting and representing themselves —their clothing, posture, presence, expression, as well as the spaces they inhabit—, while carrying out a hyperstitional exercise where magical thinking, manifestation and transfiguration become tools as useful as they are absurd.",
+      "This project was shown in the exhibition Del poder sobre el poder at <a href='https://estructuras3000.com/'target='_blank'>Estructuras 3000</a>, with activations by <a href='https://www.instagram.com/jordibretcha/?hl=es'target='_blank'>Jordi Bretcha</a>, <a href='https://www.instagram.com/betpahissa/?hl=es'target='_blank'>Bet Pahissa</a> and <a href='https://www.instagram.com/ainara.bel/?hl=es'target='_blank'>Ainara Elejalde</a>.",
+      "As part of <a href='projecte.html?slug=unfunny-curator'>Unfunny_Curator</a>",
+      "Photographs by <a href='https://www.instagram.com/sofiamontecinosm/?hl=es'target='_blank'>Sofia Montecinos</a>."
+    ]
+  },
+  "photos": 7,
+  "card": {
+    "title": "the curator's project, del poder sobre el poder",
+    "place": "estructuras 3000",
+    "city": "esplugues de llobregat",
+    "summary": {
+      "ca": "exposició de fotografia i activacions de jordi bretcha, bet pahissa i ainara bel",
+      "es": "exposición de fotografía y activaciones de jordi bretcha, bet pahissa y ainara bel",
+      "en": "photography exhibition and activations by jordi bretcha, bet pahissa and ainara bel"
+    },
+    "role": {
+      "ca": "com a unfunny_curator",
+      "es": "como unfunny_curator",
+      "en": "as unfunny_curator"
+    },
+    "year": "2025"
+  }
+}

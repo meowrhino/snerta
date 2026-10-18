@@ -1,4 +1,6 @@
-/* La fuente Playwrite NL se carga desde el <head> de cada html (preconnect + link) */
+@import url('../fonts/fonts.css');
+
+/* La fuente Playwrite NL, en fonts/ (fonts.css) */
 
 :root {
   --background--color: hsl(0, 0%, 100%);

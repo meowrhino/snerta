@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "media rants",
+  "year": "2022-2024",
+  "place": "<a href='https://www.instagram.com/snerta.esteve/?hl=es'target='_blank'>@snerta.esteve</a>",
+  "city": "online",
+  "text": {
+    "ca": [
+      "De la cultura del vídeo-assaig sobre cultura pop/mass media i el conseqüent mini-assaig sorgit a Tiktok, proposo uns micro assajos d’imatge-text publicats a les meves stories d’instagram. Allà analitzo les ficcions contemporànies (i en definitiva les pel·lícules i sèries que consumeixo) amb perspectiva de gènere i parlant de representació femenina i queer.",
+      "Alguns dels temes tractats fins la data d’avui son: la representació de l’adicció en personatges femenins, l’importància d’històries queer a l’sci-fi i al gènere distòpic, la percepció de dones “phisically big” a les ficcions, la representació dels agents de l’art contemporani al media o la instrumentalització de la capacitat gestant en els arcs narratius.",
+      "Es pot veure als destacats de <a href='https://www.instagram.com/snerta.esteve/?hl=es'target='_blank'>@snerta.esteve</a>. "
+    ],
+    "es": [
+      "De la cultura del vídeo-ensayo sobre cultura pop/mass media y el consiguiente mini-ensayo surgido en Tiktok, propongo unos micro-ensayos de imagen-texto publicados en mis stories de instagram. Allí analizo las ficciones contemporáneas (y en definitiva las películas y series que consumo) con perspectiva de género, hablando de representación femenina y queer.",
+      "Algunos de los temas tratados hasta la fecha son: la representación de la adicción en personajes femeninos, la importancia de historias queer en la sci-fi y el género distópico, la percepción de mujeres “physically big” en las ficciones, la representación de los agentes del arte contemporáneo en los medios o la instrumentalización de la capacidad gestante en los arcos narrativos.",
+      "Se puede ver en los destacados de <a href='https://www.instagram.com/snerta.esteve/?hl=es'target='_blank'>@snerta.esteve</a>. "
+    ],
+    "en": [
+      "From the culture of the video-essay on pop culture / mass media and the ensuing mini-essay born on Tiktok, I propose some image-text micro-essays published in my instagram stories. There I analyse contemporary fictions (and ultimately the films and series I consume) from a gender perspective, talking about female and queer representation.",
+      "Some of the topics addressed so far are: the representation of addiction in female characters, the importance of queer stories in sci-fi and the dystopian genre, the perception of “physically big” women in fiction, the representation of contemporary art agents in the media, or the instrumentalisation of gestational capacity in narrative arcs.",
+      "It can be seen in the highlights of <a href='https://www.instagram.com/snerta.esteve/?hl=es'target='_blank'>@snerta.esteve</a>. "
+    ]
+  },
+  "photos": 8,
+  "card": {
+    "title": "media rants",
+    "place": "@snerta.esteve",
+    "city": {
+      "ca": "en línia",
+      "es": "en línea",
+      "en": "online"
+    },
+    "summary": {
+      "ca": "mini assajos sobre tropes audiovisuals",
+      "es": "mini ensayos sobre tropos audiovisuales",
+      "en": "mini-essays on audiovisual tropes"
+    },
+    "year": "2022-2023"
+  }
+}

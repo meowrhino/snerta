@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schema/project.json",
+  "card": {
+    "title": "why i don't remember artists",
+    "place": "wetland.network",
+    "city": {
+      "ca": "en línia",
+      "es": "en línea",
+      "en": "online"
+    },
+    "summary": {
+      "ca": "assaig",
+      "es": "ensayo",
+      "en": "essay"
+    },
+    "year": "2019"
+  }
+}

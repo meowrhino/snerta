@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "breaking canon",
+  "year": "2025",
+  "text": {
+    "ca": [
+      "El text analitza el fenomen del fanfiction com a pràctica cultural capaç de desbordar els límits imposats per la indústria cultural i les narratives canòniques. A partir d’Adorno i Horkheimer, Foucault, Badiou i Fisher, es planteja el fanfiction com una forma de crítica que identifica i expandeix els nexes entre poder i saber en la ficció audiovisual, obrint espais de dissidència i imaginació.",
+      "Descarregar <a href='data/arxius/berta_esteve_breaking_canon.pdf' target='_blank'>breaking canon: fanfiction i crítica</a>",
+      "Dins del marc de la investigació <a href=projecte.html?slug=sobre-fanfiction>sobre el fanfiction</a>."
+    ],
+    "es": [
+      "El texto analiza el fenómeno del fanfiction como práctica cultural capaz de desbordar los límites impuestos por la industria cultural y las narrativas canónicas. A partir de Adorno y Horkheimer, Foucault, Badiou y Fisher, se plantea el fanfiction como una forma de crítica que identifica y expande los nexos entre poder y saber en la ficción audiovisual, abriendo espacios de disidencia e imaginación.",
+      "Descargar <a href='data/arxius/berta_esteve_breaking_canon.pdf' target='_blank'>breaking canon: fanfiction y crítica</a>",
+      "Dentro del marco de la investigación <a href=projecte.html?slug=sobre-fanfiction>sobre el fanfiction</a>."
+    ],
+    "en": [
+      "The text analyses the phenomenon of fanfiction as a cultural practice capable of overflowing the limits imposed by the culture industry and canonical narratives. Drawing on Adorno and Horkheimer, Foucault, Badiou and Fisher, fanfiction is proposed as a form of critique that identifies and expands the links between power and knowledge in audiovisual fiction, opening up spaces of dissidence and imagination.",
+      "Download <a href='data/arxius/berta_esteve_breaking_canon.pdf' target='_blank'>breaking canon: fanfiction and critique</a>",
+      "As part of the research <a href=projecte.html?slug=sobre-fanfiction>on fanfiction</a>."
+    ]
+  },
+  "photos": 4,
+  "card": {
+    "title": "breaking canon: fanfiction i crítica",
+    "place": "autopublicació",
+    "city": {
+      "ca": "en línia",
+      "es": "en línea",
+      "en": "online"
+    },
+    "summary": {
+      "ca": "assaig",
+      "es": "ensayo",
+      "en": "essay"
+    },
+    "year": "2025"
+  }
+}

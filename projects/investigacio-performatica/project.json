@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "cap a una investigació performàtica",
+    "es": "hacia una investigación performática",
+    "en": "towards a performative research"
+  },
+  "year": "2025",
+  "place": "<a href='https://lamurad.eina.edu/'target='_blank'>la murad</a>",
+  "city": "online",
+  "text": {
+    "ca": [
+      "Qüestionar i imaginar noves metodologies d’investigació artística i creativa és una tasca fonamental des de les arts contemporànies. Alhora, la performance ofereix eines per operar en la quotidianitat i tensionar els límits entre art i vida. Aquest article proposa una primera aproximació a la “investigació performàtica”: una pràctica híbrida que recull els aprenentatges de la recerca performativa i els expandeix a través dels recursos de la teatralitat.",
+      "Partint de la distinció entre els termes performatiu i performàtic, s’articula una metodologia especulativa que aposta per l’exageració, la ficció i la teatralització com a motors de coneixement.",
+      "Descarregar <a href='data/arxius/berta_esteve_investigacio_performatica.pdf' target='_blank'>cap a una investigació performàtica: la teatralitat com a metodologia de recerca experimental</a>",
+      "Dins del marc d' <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
+    ],
+    "es": [
+      "Cuestionar e imaginar nuevas metodologías de investigación artística y creativa es una tarea fundamental desde las artes contemporáneas. A la vez, la performance ofrece herramientas para operar en la cotidianidad y tensionar los límites entre arte y vida. Este artículo propone una primera aproximación a la “investigación performática”: una práctica híbrida que recoge los aprendizajes de la investigación performativa y los expande a través de los recursos de la teatralidad.",
+      "Partiendo de la distinción entre los términos performativo y performático, se articula una metodología especulativa que apuesta por la exageración, la ficción y la teatralización como motores de conocimiento.",
+      "Descargar <a href='data/arxius/berta_esteve_investigacio_performatica.pdf' target='_blank'>hacia una investigación performática: la teatralidad como metodología de investigación experimental</a>",
+      "Dentro del marco de <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
+    ],
+    "en": [
+      "Questioning and imagining new methodologies of artistic and creative research is a fundamental task within the contemporary arts. At the same time, performance offers tools to operate in everyday life and stretch the limits between art and life. This paper proposes a first approach to “performative research” (investigación performática): a hybrid practice that gathers the lessons of performative research and expands them through the resources of theatricality.",
+      "Starting from the distinction between the terms performative and performatic, a speculative methodology is articulated that bets on exaggeration, fiction and theatricalisation as engines of knowledge.",
+      "Download <a href='data/arxius/berta_esteve_investigacio_performatica.pdf' target='_blank'>towards a performative research: theatricality as a methodology of experimental research</a>",
+      "As part of <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
+    ]
+  },
+  "photos": 5,
+  "card": {
+    "title": "cap a una investigació performàtica: teatralitat com a metodologia de recerca experimental",
+    "place": "la murad",
+    "city": {
+      "ca": "en línia",
+      "es": "en línea",
+      "en": "online"
+    },
+    "summary": {
+      "ca": "article acadèmic",
+      "es": "artículo académico",
+      "en": "academic paper"
+    },
+    "year": "2025"
+  }
+}

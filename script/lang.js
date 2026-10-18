@@ -1,5 +1,8 @@
 // Motor de idiomas compartido por todas las páginas.
-// Idioma actual = ?lang= en la URL  >  localStorage  >  catalán (por defecto).
+// En la web construida (data-built) cada idioma tiene sus direcciones (/,
+// /es/, /en/) y la página ya viene en el suyo: lo dice <html lang>, y el
+// selector lleva a las otras por sus <link rel="alternate" hreflang>.
+// En la vista previa: ?lang= en la URL  >  localStorage  >  catalán (por defecto).
 // Los contenidos que falten en un idioma caen automáticamente al catalán,
 // así se puede traducir poco a poco sin que nada se rompa.
 
@@ -7,20 +10,15 @@ window.LANG = (function () {
   const IDIOMAS = ["cat", "es", "en"];
   const DEFECTO = "cat";
   const HTML_LANG = { cat: "ca", es: "es", en: "en" };
+  const BUILT = document.documentElement.hasAttribute("data-built");
 
   function resolver() {
-    // En las home estáticas manda el propio archivo (index-es.html => es, etc.)
-    const file = location.pathname.split("/").pop() || "index.html";
-    const home = file.match(/^index-(es|en)\.html$/);
-    if (home) {
-      localStorage.setItem("lang", home[1]);
-      return home[1];
+    if (BUILT) {
+      const l = document.documentElement.lang === "ca" ? "cat" : document.documentElement.lang;
+      localStorage.setItem("lang", l);
+      return l;
     }
-    if (file === "index.html") {
-      localStorage.setItem("lang", "cat");
-      return "cat";
-    }
-    // Resto de páginas: ?lang= > localStorage > catalán
+    // ?lang= > localStorage > catalán
     const enUrl = new URLSearchParams(location.search).get("lang");
     if (enUrl && IDIOMAS.includes(enUrl)) {
       localStorage.setItem("lang", enUrl);
@@ -49,27 +47,10 @@ window.LANG = (function () {
     });
   }
 
-  // Archivo de home según idioma
-  function homeHref() {
-    return actual === "cat" ? "index.html" : `index-${actual}.html`;
-  }
-
-  // Carga un JSON probando el idioma actual y, si falla, el catalán.
-  // builder: función (idioma) => ruta del JSON
-  async function cargar(builder) {
-    for (const l of actual === "cat" ? ["cat"] : [actual, "cat"]) {
-      try {
-        const res = await fetch(builder(l));
-        if (res.ok) return await res.json();
-      } catch (e) {
-        /* probamos el siguiente */
-      }
-    }
-    return null;
-  }
-
-  // Reescribe los enlaces internos para arrastrar el idioma entre páginas.
+  // Reescribe los enlaces internos para arrastrar el idioma entre páginas
+  // (en la web construida ya vienen bien escritos).
   function reescribirEnlaces(raiz = document) {
+    if (BUILT) return;
     raiz.querySelectorAll("a[href]").forEach((a) => {
       // el propio selector de idiomas se gestiona aparte
       if (a.closest(".menu-idiomas")) return;
@@ -80,10 +61,7 @@ window.LANG = (function () {
       let [file, query = ""] = sinHash.split("?");
       const params = new URLSearchParams(query);
 
-      // index.html -> home del idioma
-      if (file === "index.html") file = homeHref();
-
-      const esInterna = /^(index(-es|-en)?\.html|projectes\.html|projecte\.html)$/.test(file);
+      const esInterna = /^(index\.html|projectes\.html|projecte\.html)$/.test(file);
       if (esInterna) {
         if (actual !== "cat") params.set("lang", actual);
         else params.delete("lang");
@@ -96,10 +74,11 @@ window.LANG = (function () {
 
   // URL de la página actual en otro idioma (para el selector).
   function urlEnIdioma(l) {
-    let file = location.pathname.split("/").pop() || "index.html";
-    if (/^index(-es|-en)?\.html$/.test(file)) {
-      return l === "cat" ? "index.html" : `index-${l}.html`;
+    if (BUILT) {
+      const alt = document.querySelector(`link[rel="alternate"][hreflang="${HTML_LANG[l]}"]`);
+      return (alt ? new URL(alt.href).pathname : "./") + location.hash; // la misma ruta en este dominio
     }
+    const file = location.pathname.split("/").pop() || "index.html";
     const params = new URLSearchParams(location.search);
     if (l === "cat") params.delete("lang");
     else params.set("lang", l);
@@ -130,5 +109,5 @@ window.LANG = (function () {
 
   document.addEventListener("DOMContentLoaded", aplicar);
 
-  return { actual, homeHref, cargar, reescribirEnlaces, aplicar };
+  return { actual, reescribirEnlaces, aplicar };
 })();

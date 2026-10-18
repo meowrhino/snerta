@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "la possibilitat de no haver sigut",
+  "year": "2023",
+  "place": "<a href='https://www.santamonica.cat/es'target='_blank'>Santa Mònica</a>",
+  "city": "Barcelona",
+  "text": {
+    "ca": [
+      "Participació a la taula curadorial per a l'exposició col·lectiva com a membre i coordinadora de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+      "<a href='https://www.santamonica.cat/ca/exposicions-i-activitats/exposicions/2023/la-possibilitat-denohaversigut'target='_blank'>La possibilitat de no haver sigut</a> funciona com a annex de l’exposició <a href='https://ajuntament.barcelona.cat/lavirreina/es/exposiciones/anti-futurismo-cimarron/663'target='_blank'>Antifuturismo Cimarrón</a> i parteix de la següent pregunta: Què passaria si Europa, com a trop, no hagués existit?",
+      "Tenint en compte la paradoxa de plantejar aquesta pregunta dins la institució museística i dins territori europeu, Grup d’Estudi ha optat per afrontar la tasca curatorial com a un exercici de reflexió entorn el propi procés de treball, problematitzant l’encàrrec en si mateix i proposant un contrarelat. Aquest es manifesta de manera gràfica i performàtica, intervenint els formats expositius i el programa de mediació i activitats.",
+      "Co-curadoria: <a href='https://www.instagram.com/grupdestudi/?hl=es'target='_blank'>Grup d'Estudi</a>, <a href='https://difraccions.cat/'target='_blank'>Difraccions</a>, <a href='https://www.fluxfestival.org/'target='_blank'>Flux</a>, <a href='https://jiser.org/es/'target='_blank'>Jiser</a> i <a href='https://sabersmigrants.net/es/'target='_blank'>Sabers Migrants</a>, <a href='https://koniclab.info/'target='_blank'>Kònic Thtr</a>, <a href='https://mixturbcn.com/es'target='_blank'>Mixtur</a> i <a href='https://www.festivalsalmon.com/es/'target='_blank'>Sâlmon</a>.",
+      "Dins del marc de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>."
+    ],
+    "es": [
+      "Participación en la mesa curatorial para la exposición colectiva como miembro y coordinadora de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+      "<a href='https://www.santamonica.cat/ca/exposicions-i-activitats/exposicions/2023/la-possibilitat-denohaversigut'target='_blank'>La possibilitat de no haver sigut</a> funciona como anexo de la exposición <a href='https://ajuntament.barcelona.cat/lavirreina/es/exposiciones/anti-futurismo-cimarron/663'target='_blank'>Antifuturismo Cimarrón</a> y parte de la siguiente pregunta: ¿Qué pasaría si Europa, como tropo, no hubiera existido?",
+      "Teniendo en cuenta la paradoja de plantear esta pregunta dentro de la institución museística y dentro de territorio europeo, Grup d'Estudi ha optado por afrontar la tarea curatorial como un ejercicio de reflexión en torno al propio proceso de trabajo, problematizando el encargo en sí mismo y proponiendo un contrarrelato. Este se manifiesta de manera gráfica y performática, interviniendo los formatos expositivos y el programa de mediación y actividades.",
+      "Co-curaduría: <a href='https://www.instagram.com/grupdestudi/?hl=es'target='_blank'>Grup d'Estudi</a>, <a href='https://difraccions.cat/'target='_blank'>Difraccions</a>, <a href='https://www.fluxfestival.org/'target='_blank'>Flux</a>, <a href='https://jiser.org/es/'target='_blank'>Jiser</a> y <a href='https://sabersmigrants.net/es/'target='_blank'>Sabers Migrants</a>, <a href='https://koniclab.info/'target='_blank'>Kònic Thtr</a>, <a href='https://mixturbcn.com/es'target='_blank'>Mixtur</a> y <a href='https://www.festivalsalmon.com/es/'target='_blank'>Sâlmon</a>.",
+      "Dentro del marco de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>."
+    ],
+    "en": [
+      "Participation in the curatorial panel for the group exhibition as member and coordinator of <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+      "<a href='https://www.santamonica.cat/ca/exposicions-i-activitats/exposicions/2023/la-possibilitat-denohaversigut'target='_blank'>La possibilitat de no haver sigut</a> works as an annex to the exhibition <a href='https://ajuntament.barcelona.cat/lavirreina/es/exposiciones/anti-futurismo-cimarron/663'target='_blank'>Antifuturismo Cimarrón</a> and starts from the following question: what would happen if Europe, as a trope, had never existed?",
+      "Bearing in mind the paradox of raising this question within the museum institution and within European territory, Grup d'Estudi has chosen to approach the curatorial task as an exercise of reflection on the working process itself, problematising the commission and proposing a counter-narrative. This is expressed graphically and performatively, intervening in the exhibition formats and the mediation and activities programme.",
+      "Co-curating: <a href='https://www.instagram.com/grupdestudi/?hl=es'target='_blank'>Grup d'Estudi</a>, <a href='https://difraccions.cat/'target='_blank'>Difraccions</a>, <a href='https://www.fluxfestival.org/'target='_blank'>Flux</a>, <a href='https://jiser.org/es/'target='_blank'>Jiser</a> and <a href='https://sabersmigrants.net/es/'target='_blank'>Sabers Migrants</a>, <a href='https://koniclab.info/'target='_blank'>Kònic Thtr</a>, <a href='https://mixturbcn.com/es'target='_blank'>Mixtur</a> and <a href='https://www.festivalsalmon.com/es/'target='_blank'>Sâlmon</a>.",
+      "As part of <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>."
+    ]
+  },
+  "photos": 11,
+  "card": {
+    "title": "la possibilitat de no haver sigut",
+    "place": "santa mònica",
+    "city": "barcelona",
+    "summary": {
+      "ca": "co-curadoria amb grup d'estudi",
+      "es": "co-curaduría con grup d'estudi",
+      "en": "co-curated with grup d'estudi"
+    },
+    "role": {
+      "ca": "curadoria i coordinació",
+      "es": "curaduría y coordinación",
+      "en": "curating and coordination"
+    },
+    "year": "2023"
+  }
+}

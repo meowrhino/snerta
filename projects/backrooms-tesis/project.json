@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "the backrooms",
+  "year": "2022",
+  "place": "<a href='https://www.eina.cat/ca'target='_blank'>eina</a>",
+  "city": "barcelona",
+  "text": {
+    "ca": [
+      "Projecte final del postgrau <a href='https://www.eina.cat/ca/master-curadoria-dart-i-disseny'target='_blank'y>Exposicions: Curadoria, disseny i espai</a> que parteix de la premisa: una exposició imaginària. La proposta expositiva es genera arrel d’investigar l’estètica d’internet Liminal Space, que recull imatges familiars i a la vegada extranyes (com un centre comercial buit o un passadís d’institut a les tres de la matinada), així com de la ficció col·lectiva i arxiu de font oberta de The Backrooms.",
+      "Partint d’aquesta premisa es proposa una exposició situada al CCCB que tradueix i replica les característiques d’aquesta particular llegenda urbana que té obsessionats a milions d’internautes.",
+      "<a href='data/arxius/BertaEsteve_TheBackrooms_Project.pdf' target='_blank'>Descarregar projecte complet.</a>",
+      "Dins del marc de la investigació <a href='projecte.html?slug=backrooms'>sobre els Backrooms</a>."
+    ],
+    "es": [
+      "Proyecto final del posgrado <a href='https://www.eina.cat/ca/master-curadoria-dart-i-disseny'target='_blank'y>Exposiciones: Curaduría, diseño y espacio</a> que parte de la premisa: una exposición imaginaria. La propuesta expositiva surge a raíz de investigar la estética de internet Liminal Space, que recoge imágenes familiares y a la vez extrañas (como un centro comercial vacío o un pasillo de instituto a las tres de la madrugada), así como de la ficción colectiva y archivo de fuente abierta de The Backrooms.",
+      "Partiendo de esta premisa se propone una exposición situada en el CCCB que traduce y replica las características de esta particular leyenda urbana que tiene obsesionados a millones de internautas.",
+      "<a href='data/arxius/BertaEsteve_TheBackrooms_Project.pdf' target='_blank'>Descargar proyecto completo.</a>",
+      "Dentro del marco de la investigación <a href='projecte.html?slug=backrooms'>sobre los Backrooms</a>."
+    ],
+    "en": [
+      "Final project of the postgraduate programme <a href='https://www.eina.cat/ca/master-curadoria-dart-i-disseny'target='_blank'y>Exhibitions: Curating, design and space</a>, starting from the premise: an imaginary exhibition. The proposal emerges from researching the internet aesthetic Liminal Space, which gathers images that are familiar yet strange (like an empty shopping mall or a school corridor at three in the morning), as well as the collective fiction and open-source archive of The Backrooms.",
+      "Building on this premise, an exhibition is proposed at the CCCB that translates and replicates the features of this peculiar urban legend that has millions of internet users obsessed.",
+      "<a href='data/arxius/BertaEsteve_TheBackrooms_Project.pdf' target='_blank'>Download the full project.</a>",
+      "As part of the research <a href='projecte.html?slug=backrooms'>on the Backrooms</a>."
+    ]
+  },
+  "photos": 9,
+  "card": {
+    "title": "the backrooms",
+    "place": "eina",
+    "city": "barcelona",
+    "summary": {
+      "ca": "prototip expositiu",
+      "es": "prototipo expositivo",
+      "en": "exhibition prototype"
+    },
+    "year": "2022"
+  }
+}

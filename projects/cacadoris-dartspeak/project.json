@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "caçadoris d'artspeak",
+  "year": "2025",
+  "place": "<a href='https://hangar.org/es/'target='_blank'>hangar.org</a>",
+  "city": "barcelona",
+  "text": {
+    "ca": [
+      "Activitat d'<a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a> en què es proposava detectar, analitzar i xerrar sobre artspeak: les paraulotes del món de l’art. Un llenguatge especialitzat i característic que condiciona la manera en què ens relacionem amb les exposicions i els projectes artístics, ja sigui com a agents del món de l’art o com a consumidors culturals. ",
+      "Vam analitzar fulls de sala diversos, detectant, emmagatzemant i debatent les nostres troballes. També vam disseccionar alguns statements o textos de projectes propis dels assistents. I, finalment vam bolcar totes les paraulotes caçades al xat gpt i li vam demanar que creés el text de sala definitiu.",
+      "Activitat vinculada al màster <a href='https://www.eina.cat/es/master-universitario-investigacion-arte-diseno'target='_blank'>MURAD</a> i amb la participació de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+      "Dins del marc d' <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
+    ],
+    "es": [
+      "Actividad de <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a> en la que se proponía detectar, analizar y charlar sobre artspeak: las palabrotas del mundo del arte. Un lenguaje especializado y característico que condiciona la manera en que nos relacionamos con las exposiciones y los proyectos artísticos, ya sea como agentes del mundo del arte o como consumidores culturales.",
+      "Analizamos diversas hojas de sala, detectando, almacenando y debatiendo nuestros hallazgos. También diseccionamos algunos statements o textos de proyectos propios de los asistentes. Y, finalmente, volcamos todas las palabrotas cazadas en el chat gpt y le pedimos que creara el texto de sala definitivo.",
+      "Actividad vinculada al máster <a href='https://www.eina.cat/es/master-universitario-investigacion-arte-diseno'target='_blank'>MURAD</a> y con la participación de <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+      "Dentro del marco de <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
+    ],
+    "en": [
+      "Activity by <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a> proposing to detect, analyse and chat about artspeak: the buzzwords of the art world. A specialised, characteristic language that shapes the way we relate to exhibitions and art projects, whether as art-world agents or as cultural consumers.",
+      "We analysed various room sheets, detecting, storing and debating our findings. We also dissected some statements or project texts written by the participants themselves. And finally, we dumped all the caught buzzwords into chat gpt and asked it to write the definitive room text.",
+      "Activity linked to the <a href='https://www.eina.cat/es/master-universitario-investigacion-arte-diseno'target='_blank'>MURAD</a> master's programme and with the participation of <a href=projecte.html?slug=grup-destudi>Grup d'Estudi</a>.",
+      "As part of <a href=projecte.html?slug=unfunny-curator>Unfunny_Curator</a>."
+    ]
+  },
+  "photos": 12,
+  "card": {
+    "title": "caçadoris d'artspeak",
+    "place": "hangar",
+    "city": "barcelona",
+    "summary": {
+      "ca": "workshop amb el màster murad",
+      "es": "workshop con el máster murad",
+      "en": "workshop with the murad master"
+    },
+    "role": {
+      "ca": "com a unfunny_curator",
+      "es": "como unfunny_curator",
+      "en": "as unfunny_curator"
+    },
+    "year": "2025"
+  }
+}

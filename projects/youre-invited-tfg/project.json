@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": {
+    "ca": "you're invited to my room: guia + assaig",
+    "es": "you're invited to my room: guía + ensayo",
+    "en": "you're invited to my room: guide + essay"
+  },
+  "year": "2018",
+  "place": "<a href='https://www.escolamassana.cat/ca/'target='_blank'>escola massana</a>",
+  "city": "barcelona",
+  "text": {
+    "ca": [
+      "En aquest projecte em centro en investigar les pràctiques fan i, en concret, el fenòmen de fanfiction: aquelles narratives fan que incideixen i transformen el contingut oficial, entenent-la com una pràctica d’investigació afectiva i romàntica pròpia de l’experiència queer, i que fuig activament de ser capitalitzada.",
+      "L’anàlisis del fenòmen em duu a plantejar-me com les característiques sintàctiques, estructurals i afectives del fanfic són sensibles a incidir en les produccions artístiques, aportant noves metodologies creatives.",
+      "Descarregar tesis <a href=data/arxius/bertaesteve_youre_invited_to_my_room_full.pdf>You're invited to my room</a> i la guia <a href=data/arxius/bertaesteve_guia_una_aproximacio_al_fanfiction.pdf>You're invited to my room: una aproximació al fanfiction</a>.",
+      "Dins del marc de la investigació <a href=projecte.html?slug=sobre-fanfiction>sobre el fanfiction</a>."
+    ],
+    "es": [
+      "En este proyecto me centro en investigar las prácticas fan y, en concreto, el fenómeno del fanfiction: aquellas narrativas fan que inciden y transforman el contenido oficial, entendiéndolo como una práctica de investigación afectiva y romántica propia de la experiencia queer, y que huye activamente de ser capitalizada.",
+      "El análisis del fenómeno me lleva a plantearme cómo las características sintácticas, estructurales y afectivas del fanfic son susceptibles de incidir en las producciones artísticas, aportando nuevas metodologías creativas.",
+      "Descargar tesis <a href=data/arxius/bertaesteve_youre_invited_to_my_room_full.pdf>You're invited to my room</a> y la guía <a href=data/arxius/bertaesteve_guia_una_aproximacio_al_fanfiction.pdf>You're invited to my room: una aproximación al fanfiction</a>.",
+      "Dentro del marco de la investigación <a href=projecte.html?slug=sobre-fanfiction>sobre el fanfiction</a>."
+    ],
+    "en": [
+      "In this project I focus on researching fan practices and, specifically, the phenomenon of fanfiction: those fan narratives that affect and transform official content, understanding it as a practice of affective and romantic research proper to the queer experience, one that actively resists being capitalised.",
+      "Analysing the phenomenon leads me to wonder how the syntactic, structural and affective features of the fanfic are able to influence artistic production, contributing new creative methodologies.",
+      "Download the thesis <a href=data/arxius/bertaesteve_youre_invited_to_my_room_full.pdf>You're invited to my room</a> and the guide <a href=data/arxius/bertaesteve_guia_una_aproximacio_al_fanfiction.pdf>You're invited to my room: an approach to fanfiction</a>.",
+      "As part of the research <a href=projecte.html?slug=sobre-fanfiction>on fanfiction</a>."
+    ]
+  },
+  "photos": 7,
+  "card": {
+    "title": "you're invited to my room: guia + assaig",
+    "place": "escola massana",
+    "city": {
+      "ca": "en línia",
+      "es": "en línea",
+      "en": "online"
+    },
+    "summary": {
+      "ca": "treball final de grau",
+      "es": "trabajo final de grado",
+      "en": "final-degree project"
+    },
+    "year": "2018"
+  }
+}
